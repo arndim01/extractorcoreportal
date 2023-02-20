@@ -1,0 +1,14 @@
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\ONEWriter.deps.json
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\ONEWriter.runtimeconfig.json
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\ONEWriter.runtimeconfig.dev.json
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\ONEWriter.dll
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.csproj.CoreCompileInputs.cache
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.AssemblyInfoInputs.cache
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.AssemblyInfo.cs
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\ONEWriter.pdb
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.csprojAssemblyReference.cache
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.dll
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.pdb
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\nel\Desktop\Development Code\WebExtractorCorePortal\ONEWriter\obj\Debug\netcoreapp2.1\ONEWriter.csproj.CopyComplete

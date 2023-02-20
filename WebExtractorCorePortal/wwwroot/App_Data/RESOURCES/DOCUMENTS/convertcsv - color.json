@@ -1,0 +1,4430 @@
+[
+ {
+   "A": "AliceBlue",
+   "B": "#FFF0F8FF",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "AntiqueWhite",
+   "B": "#FFFAEBD7",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Aqua",
+   "B": "#FF00FFFF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Aquamarine",
+   "B": "#FF7FFFD4",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Azure",
+   "B": "#FFF0FFFF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Beige",
+   "B": "#FFF5F5DC",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Bisque",
+   "B": "#FFFFE4C4",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Black",
+   "B": "#FF000000",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "BlanchedAlmond",
+   "B": "#FFFFEBCD",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Blue",
+   "B": "#FF0000FF",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "BlueViolet",
+   "B": "#FF8A2BE2",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Brown",
+   "B": "#FFA52A2A",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "BurlyWood",
+   "B": "#FFDEB887",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "CadetBlue",
+   "B": "#FF5F9EA0",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Chartreuse",
+   "B": "#FF7FFF00",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Chocolate",
+   "B": "#FFD2691E",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Coral",
+   "B": "#FFFF7F50",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "CornflowerBlue",
+   "B": "#FF6495ED",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Cornsilk",
+   "B": "#FFFFF8DC",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Crimson",
+   "B": "#FFDC143C",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Cyan",
+   "B": "#FF00FFFF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkBlue",
+   "B": "#FF00008B",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "DarkCyan",
+   "B": "#FF008B8B",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkGoldenrod",
+   "B": "#FFB8860B",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkGray",
+   "B": "#FFA9A9A9",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkGreen",
+   "B": "#FF006400",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkKhaki",
+   "B": "#FFBDB76B",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkMagenta",
+   "B": "#FF8B008B",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkOliveGreen",
+   "B": "#FF556B2F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkOrange",
+   "B": "#FFFF8C00",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkOrchid",
+   "B": "#FF9932CC",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkRed",
+   "B": "#FF8B0000",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "DarkSalmon",
+   "B": "#FFE9967A",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkSeaGreen",
+   "B": "#FF8FBC8B",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkSlateBlue",
+   "B": "#FF483D8B",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "DarkSlateGray",
+   "B": "#FF2F4F4F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkTurquoise",
+   "B": "#FF00CED1",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DarkViolet",
+   "B": "#FF9400D3",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DeepPink",
+   "B": "#FFFF1493",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DeepSkyBlue",
+   "B": "#FF00BFFF",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "DimGray",
+   "B": "#FF696969",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "DodgerBlue",
+   "B": "#FF1E90FF",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Firebrick",
+   "B": "#FFB22222",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "FloralWhite",
+   "B": "#FFFFFAF0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "ForestGreen",
+   "B": "#FF228B22",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Fuchsia",
+   "B": "#FFFF00FF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Gainsboro",
+   "B": "#FFDCDCDC",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "GhostWhite",
+   "B": "#FFF8F8FF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Gold",
+   "B": "#FFFFD700",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Goldenrod",
+   "B": "#FFDAA520",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "GradientActiveCaption",
+   "B": "#FFB9D1EA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "GradientInactiveCaption",
+   "B": "#FFD7E4F2",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Gray",
+   "B": "#FF808080",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Green",
+   "B": "#FF008000",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "GreenYellow",
+   "B": "#FFADFF2F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Honeydew",
+   "B": "#FFF0FFF0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "HotPink",
+   "B": "#FFFF69B4",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "IndianRed",
+   "B": "#FFCD5C5C",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Indigo",
+   "B": "#FF4B0082",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Ivory",
+   "B": "#FFFFFFF0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Khaki",
+   "B": "#FFF0E68C",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Lavender",
+   "B": "#FFE6E6FA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LavenderBlush",
+   "B": "#FFFFF0F5",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LawnGreen",
+   "B": "#FF7CFC00",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LemonChiffon",
+   "B": "#FFFFFACD",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightBlue",
+   "B": "#FFADD8E6",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "LightCoral",
+   "B": "#FFF08080",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightCyan",
+   "B": "#FFE0FFFF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightGoldenrodYellow",
+   "B": "#FFFAFAD2",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightGray",
+   "B": "#FFD3D3D3",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightGreen",
+   "B": "#FF90EE90",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightPink",
+   "B": "#FFFFB6C1",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightSalmon",
+   "B": "#FFFFA07A",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightSeaGreen",
+   "B": "#FF20B2AA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightSkyBlue",
+   "B": "#FF87CEFA",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "LightSlateGray",
+   "B": "#FF778899",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LightSteelBlue",
+   "B": "#FFB0C4DE",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "LightYellow",
+   "B": "#FFFFFFE0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Lime",
+   "B": "#FF00FF00",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "LimeGreen",
+   "B": "#FF32CD32",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Linen",
+   "B": "#FFFAF0E6",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Magenta",
+   "B": "#FFFF00FF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Maroon",
+   "B": "#FF800000",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumAquamarine",
+   "B": "#FF66CDAA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumBlue",
+   "B": "#FF0000CD",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "MediumOrchid",
+   "B": "#FFBA55D3",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumPurple",
+   "B": "#FF9370DB",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumSeaGreen",
+   "B": "#FF3CB371",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumSlateBlue",
+   "B": "#FF7B68EE",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "MediumSpringGreen",
+   "B": "#FF00FA9A",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumTurquoise",
+   "B": "#FF48D1CC",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MediumVioletRed",
+   "B": "#FFC71585",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "MenuBar",
+   "B": "#FFF0F0F0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MenuHighlight",
+   "B": "#FF3399FF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MidnightBlue",
+   "B": "#FF191970",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "MintCream",
+   "B": "#FFF5FFFA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "MistyRose",
+   "B": "#FFFFE4E1",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Moccasin",
+   "B": "#FFFFE4B5",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "NavajoWhite",
+   "B": "#FFFFDEAD",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Navy",
+   "B": "#FF000080",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "OldLace",
+   "B": "#FFFDF5E6",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Olive",
+   "B": "#FF808000",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "OliveDrab",
+   "B": "#FF6B8E23",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Orange",
+   "B": "#FFFFA500",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "OrangeRed",
+   "B": "#FFFF4500",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Orchid",
+   "B": "#FFDA70D6",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PaleGoldenrod",
+   "B": "#FFEEE8AA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PaleGreen",
+   "B": "#FF98FB98",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PaleTurquoise",
+   "B": "#FFAFEEEE",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PaleVioletRed",
+   "B": "#FFDB7093",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "PapayaWhip",
+   "B": "#FFFFEFD5",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PeachPuff",
+   "B": "#FFFFDAB9",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Peru",
+   "B": "#FFCD853F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Pink",
+   "B": "#FFFFC0CB",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Plum",
+   "B": "#FFDDA0DD",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "PowderBlue",
+   "B": "#FFB0E0E6",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Purple",
+   "B": "#FF800080",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Red",
+   "B": "#FFFF0000",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "RosyBrown",
+   "B": "#FFBC8F8F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "RoyalBlue",
+   "B": "#FF4169E1",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "SaddleBrown",
+   "B": "#FF8B4513",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Salmon",
+   "B": "#FFFA8072",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SandyBrown",
+   "B": "#FFF4A460",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SeaGreen",
+   "B": "#FF2E8B57",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SeaShell",
+   "B": "#FFFFF5EE",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SeaShell1",
+   "B": "#FFFFF5EE",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Sienna",
+   "B": "#FFA0522D",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Silver",
+   "B": "#FFC0C0C0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SkyBlue",
+   "B": "#FF87CEEB",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "SlateBlue",
+   "B": "#FF6A5ACD",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "SlateGray",
+   "B": "#FF708090",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Snow",
+   "B": "#FFFFFAFA",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SpringGreen",
+   "B": "#FF00FF7F",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "SteelBlue",
+   "B": "#FF4682B4",
+   "C": "Y",
+   "D": "Y"
+ },
+ {
+   "A": "Tan",
+   "B": "#FFD2B48C",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Teal",
+   "B": "#FF008080",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Thistle",
+   "B": "#FFD8BFD8",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Tomato",
+   "B": "#FFFF6347",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Turquoise",
+   "B": "#FF40E0D0",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Violet",
+   "B": "#FFEE82EE",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Wheat",
+   "B": "#FFF5DEB3",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "White",
+   "B": "#FFFFFFFF",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "WhiteSmoke",
+   "B": "#FFF5F5F5",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "Yellow",
+   "B": "#FFFFFF00",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "YellowGreen",
+   "B": "#FF9ACD32",
+   "C": "Y",
+   "D": "N"
+ },
+ {
+   "A": "AirForceBlue",
+   "B": "#FF5D8AA8",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Alizarin",
+   "B": "#FFE32636",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Almond",
+   "B": "#FFEFDECD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Amaranth",
+   "B": "#FFE52B50",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Amber",
+   "B": "#FFFFBF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AmberSaeEce",
+   "B": "#FFFF7E00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AmericanRose",
+   "B": "#FFFF033E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Amethyst",
+   "B": "#FF9966CC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AntiFlashWhite",
+   "B": "#FFF2F3F4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AntiqueBrass",
+   "B": "#FFCD9575",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AntiqueFuchsia",
+   "B": "#FF915C83",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AppleGreen",
+   "B": "#FF8DB600",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Apricot",
+   "B": "#FFFBCEB1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Aquamarine1",
+   "B": "#FF7FFFD0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ArmyGreen",
+   "B": "#FF4B5320",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Arsenic",
+   "B": "#FF3B444B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ArylideYellow",
+   "B": "#FFE9D66B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AshGrey",
+   "B": "#FFB2BEB5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Asparagus",
+   "B": "#FF87A96B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AtomicTangerine",
+   "B": "#FFFF9966",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Auburn",
+   "B": "#FF6D351A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Aureolin",
+   "B": "#FFFDEE00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Aurometalsaurus",
+   "B": "#FF6E7F80",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Awesome",
+   "B": "#FFFF2052",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "AzureColorWheel",
+   "B": "#FF007FFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BabyBlue",
+   "B": "#FF89CFF0",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BabyBlueEyes",
+   "B": "#FFA1CAF1",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BabyPink",
+   "B": "#FFF4C2C2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BallBlue",
+   "B": "#FF21ABCD",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BananaMania",
+   "B": "#FFFAE7B5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BattleshipGrey",
+   "B": "#FF848482",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bazaar",
+   "B": "#FF98777B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BeauBlue",
+   "B": "#FFBCD4E6",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Beaver",
+   "B": "#FF9F8170",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bistre",
+   "B": "#FF3D2B1F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bittersweet",
+   "B": "#FFFE6F5E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BleuDeFrance",
+   "B": "#FF318CE7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BlizzardBlue",
+   "B": "#FFACE5EE",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Blond",
+   "B": "#FFFAF0BE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BlueBell",
+   "B": "#FFA2A2D0",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BlueGray",
+   "B": "#FF6699CC",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BlueGreen",
+   "B": "#FF00DDDD",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BluePigment",
+   "B": "#FF333399",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BlueRyb",
+   "B": "#FF0247FE",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Blush",
+   "B": "#FFDE5D83",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bole",
+   "B": "#FF79443B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BondiBlue",
+   "B": "#FF0095B6",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BostonUniversityRed",
+   "B": "#FFCC0000",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BrandeisBlue",
+   "B": "#FF0070FF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Brass",
+   "B": "#FFB5A642",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrickRed",
+   "B": "#FFCB4154",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "BrightCerulean",
+   "B": "#FF1DACD6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightGreen",
+   "B": "#FF66FF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightLavender",
+   "B": "#FFBF94E4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightMaroon",
+   "B": "#FFC32148",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightPink",
+   "B": "#FFFF007F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightTurquoise",
+   "B": "#FF08E8DE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrightUbe",
+   "B": "#FFD19FE8",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrilliantLavender",
+   "B": "#FFF4BBFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrilliantRose",
+   "B": "#FFFF55A3",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrinkPink",
+   "B": "#FFFB607F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BritishRacingGreen",
+   "B": "#FF004225",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bronze",
+   "B": "#FFCD7F32",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BrownTraditional",
+   "B": "#FF964B00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BubbleGum",
+   "B": "#FFFFC1CC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Bubbles",
+   "B": "#FFE7FEFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Buff",
+   "B": "#FFF0DC82",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BulgarianRose",
+   "B": "#FF480607",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Burgundy",
+   "B": "#FF800020",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BurntOrange",
+   "B": "#FFCC5500",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BurntSienna",
+   "B": "#FFE97451",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "BurntUmber",
+   "B": "#FF8A3324",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Byzantine",
+   "B": "#FFBD33A4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Byzantium",
+   "B": "#FF702963",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cadet",
+   "B": "#FF536872",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CadetGrey",
+   "B": "#FF91A3B0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CadmiumGreen",
+   "B": "#FF006B3C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CadmiumOrange",
+   "B": "#FFED872D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CadmiumRed",
+   "B": "#FFE30022",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CadmiumYellow",
+   "B": "#FFFFF600",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CalPolyPomonaGreen",
+   "B": "#FF1E4D2B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CambridgeBlue",
+   "B": "#FFA3C1AD",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Camel",
+   "B": "#FFC19A6B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CamouflageGreen",
+   "B": "#FF78866B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CanaryYellow",
+   "B": "#FFFFEF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CandyAppleRed",
+   "B": "#FFFF0800",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CandyPink",
+   "B": "#FFE4717A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CaputMortuum",
+   "B": "#FF592720",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cardinal",
+   "B": "#FFC41E3A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CaribbeanGreen",
+   "B": "#FF00CC99",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Carmine",
+   "B": "#FF960018",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CarminePink",
+   "B": "#FFEB4C42",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CarmineRed",
+   "B": "#FFFF0038",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CarnationPink",
+   "B": "#FFFFA6C9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Carnelian",
+   "B": "#FFB31B1B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CarolinaBlue",
+   "B": "#FF99BADD",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CarrotOrange",
+   "B": "#FFED9121",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ceil",
+   "B": "#FF92A1CF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Celadon",
+   "B": "#FFACE1AF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CelestialBlue",
+   "B": "#FF4997D0",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Cerise",
+   "B": "#FFDE3163",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CerisePink",
+   "B": "#FFEC3B83",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cerulean",
+   "B": "#FF007BA7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CeruleanBlue",
+   "B": "#FF2A52BE",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Chamoisee",
+   "B": "#FFA0785A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Champagne",
+   "B": "#FFF7E7CE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Charcoal",
+   "B": "#FF36454F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ChartreuseTraditional",
+   "B": "#FFDFFF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CherryBlossomPink",
+   "B": "#FFFFB7C5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Chocolate1",
+   "B": "#FF7B3F00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ChromeYellow",
+   "B": "#FFFFA700",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cinereous",
+   "B": "#FF98817B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cinnabar",
+   "B": "#FFE34234",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Citrine",
+   "B": "#FFE4D00A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ClassicRose",
+   "B": "#FFFBCCE7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cobalt",
+   "B": "#FF0047AB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ColumbiaBlue",
+   "B": "#FF9BDDFF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CoolBlack",
+   "B": "#FF002E63",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CoolGrey",
+   "B": "#FF8C92AC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Copper",
+   "B": "#FFB87333",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CopperRose",
+   "B": "#FF996666",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Coquelicot",
+   "B": "#FFFF3800",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CoralPink",
+   "B": "#FFF88379",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CoralRed",
+   "B": "#FFFF4040",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Cordovan",
+   "B": "#FF893F45",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Corn",
+   "B": "#FFFBEC5D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CornellRed",
+   "B": "#FFB31B1B",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "CosmicLatte",
+   "B": "#FFFFF8E7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CottonCandy",
+   "B": "#FFFFBCD9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Cream",
+   "B": "#FFFFFDD0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CrimsonGlory",
+   "B": "#FFBE0032",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "CyanProcess",
+   "B": "#FF00B7EB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Daffodil",
+   "B": "#FFFFFF31",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Dandelion",
+   "B": "#FFF0E130",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkBrown",
+   "B": "#FF654321",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkByzantium",
+   "B": "#FF5D3954",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkCandyAppleRed",
+   "B": "#FFA40000",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkCerulean",
+   "B": "#FF08457E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkChampagne",
+   "B": "#FFC2B280",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkChestnut",
+   "B": "#FF986960",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkCoral",
+   "B": "#FFCD5B45",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkElectricBlue",
+   "B": "#FF536878",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkGreen1",
+   "B": "#FF013220",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkJungleGreen",
+   "B": "#FF1A2421",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkLava",
+   "B": "#FF483C32",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkLavender",
+   "B": "#FF734F96",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkMidnightBlue",
+   "B": "#FF003366",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkPastelBlue",
+   "B": "#FF779ECB",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkPastelGreen",
+   "B": "#FF03C03C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkPastelPurple",
+   "B": "#FF966FD6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkPastelRed",
+   "B": "#FFC23B22",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkPink",
+   "B": "#FFE75480",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkPowderBlue",
+   "B": "#FF003399",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DarkRaspberry",
+   "B": "#FF872657",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkScarlet",
+   "B": "#FF560319",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkSienna",
+   "B": "#FF3C1414",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkSpringGreen",
+   "B": "#FF177245",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkTan",
+   "B": "#FF918151",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkTangerine",
+   "B": "#FFFFA812",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkTaupe",
+   "B": "#FF483C32",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DarkTerraCotta",
+   "B": "#FFCC4E5C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DartmouthGreen",
+   "B": "#FF00693E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DavySGrey",
+   "B": "#FF555555",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DebianRed",
+   "B": "#FFD70A53",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "DeepCarmine",
+   "B": "#FFA9203E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepCarminePink",
+   "B": "#FFEF3038",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepCarrotOrange",
+   "B": "#FFE9692C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepCerise",
+   "B": "#FFDA3287",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepChampagne",
+   "B": "#FFFAD6A5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepChestnut",
+   "B": "#FFB94E48",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepFuchsia",
+   "B": "#FFC154C1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepJungleGreen",
+   "B": "#FF004B49",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepLilac",
+   "B": "#FF9955BB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepMagenta",
+   "B": "#FFCC00CC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepPeach",
+   "B": "#FFFFCBA4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DeepSaffron",
+   "B": "#FFFF9933",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Denim",
+   "B": "#FF1560BD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Desert",
+   "B": "#FFC19A6B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DesertSand",
+   "B": "#FFEDC9AF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DogwoodRose",
+   "B": "#FFD71868",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DollarBill",
+   "B": "#FF85BB65",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Drab",
+   "B": "#FF967117",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "DukeBlue",
+   "B": "#FF00009C",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "EarthYellow",
+   "B": "#FFE1A95F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ecru",
+   "B": "#FFC2B280",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Eggplant",
+   "B": "#FF614051",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Eggshell",
+   "B": "#FFF0EAD6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "EgyptianBlue",
+   "B": "#FF1034A6",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "ElectricBlue",
+   "B": "#FF7DF9FF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "ElectricCrimson",
+   "B": "#FFFF003F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricIndigo",
+   "B": "#FF6F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricLavender",
+   "B": "#FFF4BBFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricLime",
+   "B": "#FFCCFF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricPurple",
+   "B": "#FFBF00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricUltramarine",
+   "B": "#FF3F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ElectricViolet",
+   "B": "#FF8F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Emerald",
+   "B": "#FF50C878",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "EtonBlue",
+   "B": "#FF96C8A2",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Fallow",
+   "B": "#FFC19A6B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FaluRed",
+   "B": "#FF801818",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Fandango",
+   "B": "#FFB53389",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FashionFuchsia",
+   "B": "#FFF400A1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Fawn",
+   "B": "#FFE5AA70",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Feldgrau",
+   "B": "#FF4D5D53",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FernGreen",
+   "B": "#FF4F7942",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FerrariRed",
+   "B": "#FFFF2800",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "FieldDrab",
+   "B": "#FF6C541E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FireEngineRed",
+   "B": "#FFCE2029",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Flame",
+   "B": "#FFE25822",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FlamingoPink",
+   "B": "#FFFC8EAC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Flavescent",
+   "B": "#FFF7E98E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Flax",
+   "B": "#FFEEDC82",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FluorescentOrange",
+   "B": "#FFFFBF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FluorescentYellow",
+   "B": "#FFCCFF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Folly",
+   "B": "#FFFF004F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ForestGreenTraditional",
+   "B": "#FF014421",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FrenchBeige",
+   "B": "#FFA67B5B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FrenchBlue",
+   "B": "#FF0072BB",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "FrenchLilac",
+   "B": "#FF86608E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FrenchRose",
+   "B": "#FFF64A8A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FuchsiaPink",
+   "B": "#FFFF77FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Fulvous",
+   "B": "#FFE48400",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "FuzzyWuzzy",
+   "B": "#FFCC6666",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Gamboge",
+   "B": "#FFE49B0F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ginger",
+   "B": "#FFF9F9FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Glaucous",
+   "B": "#FF6082B6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GoldenBrown",
+   "B": "#FF996515",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GoldenPoppy",
+   "B": "#FFFCC200",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GoldenYellow",
+   "B": "#FFFFDF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GoldMetallic",
+   "B": "#FFD4AF37",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GrannySmithApple",
+   "B": "#FFA8E4A0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GrayAsparagus",
+   "B": "#FF465945",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GreenPigment",
+   "B": "#FF00A550",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "GreenRyb",
+   "B": "#FF66B032",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Grullo",
+   "B": "#FFA99A86",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HalayaUbe",
+   "B": "#FF663854",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HanBlue",
+   "B": "#FF446CCF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "HanPurple",
+   "B": "#FF5218FA",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HansaYellow",
+   "B": "#FFE9D66B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Harlequin",
+   "B": "#FF3FFF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HarvardCrimson",
+   "B": "#FFC90016",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HarvestGold",
+   "B": "#FFDA9100",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Heliotrope",
+   "B": "#FFDF73FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HollywoodCerise",
+   "B": "#FFF400A1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HookerSGreen",
+   "B": "#FF007000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HotMagenta",
+   "B": "#FFFF1DCE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "HunterGreen",
+   "B": "#FF355E3B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Iceberg",
+   "B": "#FF71A6D2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Icterine",
+   "B": "#FFFCF75E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Inchworm",
+   "B": "#FFB2EC5D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "IndiaGreen",
+   "B": "#FF138808",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "IndianYellow",
+   "B": "#FFE3A857",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "IndigoDye",
+   "B": "#FF00416A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "InternationalKleinBlue",
+   "B": "#FF002FA7",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "InternationalOrange",
+   "B": "#FFFF4F00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Iris",
+   "B": "#FF5A4FCF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Isabelline",
+   "B": "#FFF4F0EC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "IslamicGreen",
+   "B": "#FF009000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Jade",
+   "B": "#FF00A86B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Jasper",
+   "B": "#FFD73B3E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "JazzberryJam",
+   "B": "#FFA50B5E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Jonquil",
+   "B": "#FFFADA5E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "JuneBud",
+   "B": "#FFBDDA57",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "JungleGreen",
+   "B": "#FF29AB87",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "KellyGreen",
+   "B": "#FF4CBB17",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "KhakiHtmlCssKhaki",
+   "B": "#FFC3B091",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LanguidLavender",
+   "B": "#FFD6CADD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LapisLazuli",
+   "B": "#FF26619C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LaSalleGreen",
+   "B": "#FF087830",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LaserLemon",
+   "B": "#FFFEFE22",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Lava",
+   "B": "#FFCF1020",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderBlue",
+   "B": "#FFCCCCFF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "LavenderFloral",
+   "B": "#FFB57EDC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderGray",
+   "B": "#FFC4C3D0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderIndigo",
+   "B": "#FF9457EB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderPink",
+   "B": "#FFFBAED2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderPurple",
+   "B": "#FF967BB6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LavenderRose",
+   "B": "#FFFBA0E3",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Lemon",
+   "B": "#FFFFF700",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightApricot",
+   "B": "#FFFDD5B1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightBrown",
+   "B": "#FFB5651D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightCarminePink",
+   "B": "#FFE66771",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightCornflowerBlue",
+   "B": "#FF93CCEA",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "LightFuchsiaPink",
+   "B": "#FFF984EF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightMauve",
+   "B": "#FFDCD0FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightPastelPurple",
+   "B": "#FFB19CD9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightSalmonPink",
+   "B": "#FFFF9999",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightTaupe",
+   "B": "#FFB38B6D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightThulianPink",
+   "B": "#FFE68FAC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LightYellow1",
+   "B": "#FFFFFFED",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Lilac",
+   "B": "#FFC8A2C8",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LimeColorWheel",
+   "B": "#FFBFFF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "LincolnGreen",
+   "B": "#FF195905",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Liver",
+   "B": "#FF534B4F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Lust",
+   "B": "#FFE62020",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MacaroniAndCheese",
+   "B": "#FFFFBD88",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MagentaDye",
+   "B": "#FFCA1F7B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MagentaProcess",
+   "B": "#FFFF0090",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MagicMint",
+   "B": "#FFAAF0D1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Magnolia",
+   "B": "#FFF8F4FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mahogany",
+   "B": "#FFC04000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Maize",
+   "B": "#FFFBEC5D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MajorelleBlue",
+   "B": "#FF6050DC",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Malachite",
+   "B": "#FF0BDA51",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Manatee",
+   "B": "#FF979AAA",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MangoTango",
+   "B": "#FFFF8243",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MaroonX11",
+   "B": "#FFB03060",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mauve",
+   "B": "#FFE0B0FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mauvelous",
+   "B": "#FFEF98AA",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MauveTaupe",
+   "B": "#FF915F6D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MayaBlue",
+   "B": "#FF73C2FB",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MeatBrown",
+   "B": "#FFE5B73B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumAquamarine1",
+   "B": "#FF66DDAA",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumCandyAppleRed",
+   "B": "#FFE2062C",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MediumCarmine",
+   "B": "#FFAF4035",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumChampagne",
+   "B": "#FFF3E5AB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumElectricBlue",
+   "B": "#FF035096",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MediumJungleGreen",
+   "B": "#FF1C352D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumPersianBlue",
+   "B": "#FF0067A5",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MediumRedViolet",
+   "B": "#FFBB3385",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MediumSpringBud",
+   "B": "#FFC9DC87",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MediumTaupe",
+   "B": "#FF674C47",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Melon",
+   "B": "#FFFDBCB4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MidnightGreenEagleGreen",
+   "B": "#FF004953",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MikadoYellow",
+   "B": "#FFFFC40C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mint",
+   "B": "#FF3EB489",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MintGreen",
+   "B": "#FF98FF98",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ModeBeige",
+   "B": "#FF967117",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MoonstoneBlue",
+   "B": "#FF73A9C2",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MordantRed19",
+   "B": "#FFAE0C00",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "MossGreen",
+   "B": "#FFADDFAD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MountainMeadow",
+   "B": "#FF30BA8F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MountbattenPink",
+   "B": "#FF997A8D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "MsuGreen",
+   "B": "#FF18453B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mulberry",
+   "B": "#FFC54B8C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Mustard",
+   "B": "#FFFFDB58",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Myrtle",
+   "B": "#FF21421E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NadeshikoPink",
+   "B": "#FFF6ADC6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NapierGreen",
+   "B": "#FF2A8000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NaplesYellow",
+   "B": "#FFFADA5E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NeonCarrot",
+   "B": "#FFFFA343",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NeonFuchsia",
+   "B": "#FFFE59C2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NeonGreen",
+   "B": "#FF39FF14",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "NonPhotoBlue",
+   "B": "#FFA4DDED",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "OceanBoatBlue[1]",
+   "B": "#FFCC7422",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Ochre",
+   "B": "#FFCC7722",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OldGold",
+   "B": "#FFCFB53B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OldLavender",
+   "B": "#FF796878",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OldMauve",
+   "B": "#FF673147",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OldRose",
+   "B": "#FFC08081",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OliveDrab7",
+   "B": "#FF3C341F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Olivine",
+   "B": "#FF9AB973",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Onyx",
+   "B": "#FF0F0F0F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OperaMauve",
+   "B": "#FFB784A7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OrangeColorWheel",
+   "B": "#FFFF7F00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OrangePeel",
+   "B": "#FFFF9F00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OrangeRyb",
+   "B": "#FFFB9902",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OtterBrown",
+   "B": "#FF654321",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OuCrimsonRed",
+   "B": "#FF990000",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "OuterSpace",
+   "B": "#FF414A4C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OutrageousOrange",
+   "B": "#FFFF6E4A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "OxfordBlue",
+   "B": "#FF002147",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PakistanGreen",
+   "B": "#FF00421B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PalatinateBlue",
+   "B": "#FF273BE2",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PalatinatePurple",
+   "B": "#FF682860",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleAqua",
+   "B": "#FFBCD4E6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleBrown",
+   "B": "#FF987654",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleCarmine",
+   "B": "#FFAF4035",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleCerulean",
+   "B": "#FF9BC4E2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleChestnut",
+   "B": "#FFDDADAF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleCopper",
+   "B": "#FFDA8A67",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleCornflowerBlue",
+   "B": "#FFABCDEF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PaleGold",
+   "B": "#FFE6BE8A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleMagenta",
+   "B": "#FFF984E5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PalePink",
+   "B": "#FFFADADD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleRobinEggBlue",
+   "B": "#FF96DED1",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PaleSilver",
+   "B": "#FFC9C0BB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleSpringBud",
+   "B": "#FFECEBBD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PaleTaupe",
+   "B": "#FFBC987E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PansyPurple",
+   "B": "#FF78184A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ParisGreen",
+   "B": "#FF50C878",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelBlue",
+   "B": "#FFAEC6CF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PastelBrown",
+   "B": "#FF836953",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelGray",
+   "B": "#FFCFCFC4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelGreen",
+   "B": "#FF77DD77",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelMagenta",
+   "B": "#FFF49AC2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelOrange",
+   "B": "#FFFFB347",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelPink",
+   "B": "#FFFFD1DC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelPurple",
+   "B": "#FFB39EB5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelRed",
+   "B": "#FFFF6961",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PastelViolet",
+   "B": "#FFCB99C9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PastelYellow",
+   "B": "#FFFDFD96",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PayneSGrey",
+   "B": "#FF40404F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Peach",
+   "B": "#FFFFE5B4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PeachOrange",
+   "B": "#FFFFCC99",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PeachYellow",
+   "B": "#FFFADFAD",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Pear",
+   "B": "#FFD1E231",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Pearl",
+   "B": "#FFF0EAD6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Peridot",
+   "B": "#FFE6E200",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Periwinkle",
+   "B": "#FFCCCCFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianBlue",
+   "B": "#FF1C39BB",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PersianGreen",
+   "B": "#FF00A693",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianIndigo",
+   "B": "#FF32127A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianOrange",
+   "B": "#FFD99058",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianPink",
+   "B": "#FFF77FBE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianPlum",
+   "B": "#FF701C1C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PersianRed",
+   "B": "#FFCC3333",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PersianRose",
+   "B": "#FFFE28A2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Persimmon",
+   "B": "#FFEC5800",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Phlox",
+   "B": "#FFDF00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PhthaloBlue",
+   "B": "#FF000F89",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PhthaloGreen",
+   "B": "#FF123524",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PiggyPink",
+   "B": "#FFFDDDE6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PineGreen",
+   "B": "#FF01796F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PinkOrange",
+   "B": "#FFFF9966",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PinkPearl",
+   "B": "#FFE7ACCF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PinkSherbet",
+   "B": "#FFF78FA7",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Pistachio",
+   "B": "#FF93C572",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Platinum",
+   "B": "#FFE5E4E2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PlumTraditional",
+   "B": "#FF8E4585",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PortlandOrange",
+   "B": "#FFFF5A36",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PrincetonOrange",
+   "B": "#FFFF8F00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Prune",
+   "B": "#FF701C1C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PrussianBlue",
+   "B": "#FF003153",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "PsychedelicPurple",
+   "B": "#FFDF00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Puce",
+   "B": "#FFCC8899",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Pumpkin",
+   "B": "#FFFF7518",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurpleHeart",
+   "B": "#FF69359C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurpleMountainMajesty",
+   "B": "#FF9678B6",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurpleMunsell",
+   "B": "#FF9F00C5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurplePizzazz",
+   "B": "#FFFE4EDA",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurpleTaupe",
+   "B": "#FF50404D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "PurpleX11",
+   "B": "#FFA020F0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RadicalRed",
+   "B": "#FFFF355E",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Raspberry",
+   "B": "#FFE30B5D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RaspberryGlace",
+   "B": "#FF915F6D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RaspberryPink",
+   "B": "#FFE25098",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RaspberryRose",
+   "B": "#FFB3446C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RawUmber",
+   "B": "#FF826644",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RazzleDazzleRose",
+   "B": "#FFFF33CC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Razzmatazz",
+   "B": "#FFE3256B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RedMunsell",
+   "B": "#FFF2003C",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "RedNcs",
+   "B": "#FFC40233",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "RedPigment",
+   "B": "#FFED1C24",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "RedRyb",
+   "B": "#FFFE2712",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Redwood",
+   "B": "#FFAB4E52",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Regalia",
+   "B": "#FF522D80",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichBlack",
+   "B": "#FF004040",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichBrilliantLavender",
+   "B": "#FFF1A7FE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichCarmine",
+   "B": "#FFD70040",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichElectricBlue",
+   "B": "#FF0892D0",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "RichLavender",
+   "B": "#FFA76BCF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichLilac",
+   "B": "#FFB666D2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RichMaroon",
+   "B": "#FFB03060",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RifleGreen",
+   "B": "#FF414833",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RobinEggBlue",
+   "B": "#FF00CCCC",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Rose",
+   "B": "#FFFF007F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseBonbon",
+   "B": "#FFF9429E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseEbony",
+   "B": "#FF674846",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseGold",
+   "B": "#FFB76E79",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseMadder",
+   "B": "#FFE32636",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RosePink",
+   "B": "#FFFF66CC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseQuartz",
+   "B": "#FFAA98A9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseTaupe",
+   "B": "#FF905D5D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoseVale",
+   "B": "#FFAB4E52",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Rosewood",
+   "B": "#FF65000B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RossoCorsa",
+   "B": "#FFD40000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoyalAzure",
+   "B": "#FF0038A8",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoyalBlueTraditional",
+   "B": "#FF002366",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "RoyalFuchsia",
+   "B": "#FFCA2C92",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RoyalPurple",
+   "B": "#FF7851A9",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ruby",
+   "B": "#FFE0115F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ruddy",
+   "B": "#FFFF0028",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RuddyBrown",
+   "B": "#FFBB6528",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "RuddyPink",
+   "B": "#FFE18E96",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Rufous",
+   "B": "#FFA81C07",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Russet",
+   "B": "#FF80461B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Rust",
+   "B": "#FFB7410E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SacramentoStateGreen",
+   "B": "#FF00563F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SafetyOrangeBlazeOrange",
+   "B": "#FFFF6700",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Saffron",
+   "B": "#FFF4C430",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Salmon1",
+   "B": "#FFFF8C69",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SalmonPink",
+   "B": "#FFFF91A4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sand",
+   "B": "#FFC2B280",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SandDune",
+   "B": "#FF967117",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sandstorm",
+   "B": "#FFECD540",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SandyTaupe",
+   "B": "#FF967117",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sangria",
+   "B": "#FF92000A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SapGreen",
+   "B": "#FF507D2A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sapphire",
+   "B": "#FF082567",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SatinSheenGold",
+   "B": "#FFCBA135",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Scarlet",
+   "B": "#FFFF2000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SchoolBusYellow",
+   "B": "#FFFFD800",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ScreaminGreen",
+   "B": "#FF76FF7A",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SealBrown",
+   "B": "#FF321414",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SelectiveYellow",
+   "B": "#FFFFBA00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sepia",
+   "B": "#FF704214",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Shadow",
+   "B": "#FF8A795D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ShamrockGreen",
+   "B": "#FF009E60",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ShockingPink",
+   "B": "#FFFC0FC0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sienna1",
+   "B": "#FF882D17",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sinopia",
+   "B": "#FFCB410B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Skobeloff",
+   "B": "#FF007474",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SkyMagenta",
+   "B": "#FFCF71AF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SmaltDarkPowderBlue",
+   "B": "#FF003399",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "SmokeyTopaz",
+   "B": "#FF933D41",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SmokyBlack",
+   "B": "#FF100C08",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SpiroDiscoBall",
+   "B": "#FF0FC0FC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SplashedWhite",
+   "B": "#FFFEFDFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "SpringBud",
+   "B": "#FFA7FC00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "St.PatrickSBlue",
+   "B": "#FF23297A",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "StilDeGrainYellow",
+   "B": "#FFFADA5E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Straw",
+   "B": "#FFE4D96F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sunglow",
+   "B": "#FFFFCC33",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Sunset",
+   "B": "#FFFAD6A5",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Tangelo",
+   "B": "#FFF94D00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Tangerine",
+   "B": "#FFF28500",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TangerineYellow",
+   "B": "#FFFFCC00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Taupe",
+   "B": "#FF483C32",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TaupeGray",
+   "B": "#FF8B8589",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TeaGreen",
+   "B": "#FFD0F0C0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TealBlue",
+   "B": "#FF367588",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "TealGreen",
+   "B": "#FF006D5B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TeaRoseOrange",
+   "B": "#FFF88379",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TeaRoseRose",
+   "B": "#FFF4C2C2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TennéTawny",
+   "B": "#FFCD5700",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TerraCotta",
+   "B": "#FFE2725B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ThulianPink",
+   "B": "#FFDE6FA1",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TickleMePink",
+   "B": "#FFFC89AC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TiffanyBlue",
+   "B": "#FF0ABAB5",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "TigerSEye",
+   "B": "#FFE08D3C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Timberwolf",
+   "B": "#FFDBD7D2",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TitaniumYellow",
+   "B": "#FFEEE600",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Toolbox",
+   "B": "#FF746CC0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TractorRed",
+   "B": "#FFFD0E35",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "TropicalRainForest",
+   "B": "#FF00755E",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TuftsBlue",
+   "B": "#FF417DC1",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Tumbleweed",
+   "B": "#FFDEAA88",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TurkishRose",
+   "B": "#FFB57281",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Turquoise1",
+   "B": "#FF30D5C8",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TurquoiseBlue",
+   "B": "#FF00FFEF",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "TurquoiseGreen",
+   "B": "#FFA0D6B4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TuscanRed",
+   "B": "#FF823535",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "TwilightLavender",
+   "B": "#FF8A496B",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "TyrianPurple",
+   "B": "#FF66023C",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UaBlue",
+   "B": "#FF0033AA",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "UaRed",
+   "B": "#FFD9004C",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Ube",
+   "B": "#FF8878C3",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UclaBlue",
+   "B": "#FF536895",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "UclaGold",
+   "B": "#FFFFB300",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UfoGreen",
+   "B": "#FF3CD070",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Ultramarine",
+   "B": "#FF120A8F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UltramarineBlue",
+   "B": "#FF4166F5",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "UltraPink",
+   "B": "#FFFF6FFF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Umber",
+   "B": "#FF635147",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UnitedNationsBlue",
+   "B": "#FF5B92E5",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "UnmellowYellow",
+   "B": "#FFFFFF66",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UpForestGreen",
+   "B": "#FF014421",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UpMaroon",
+   "B": "#FF7B1113",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UpsdellRed",
+   "B": "#FFAE2029",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Urobilin",
+   "B": "#FFE1AD21",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UscCardinal",
+   "B": "#FF990000",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UscGold",
+   "B": "#FFFFCC00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "UtahCrimson",
+   "B": "#FFD3003F",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Vanilla",
+   "B": "#FFF3E5AB",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VegasGold",
+   "B": "#FFC5B358",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VenetianRed",
+   "B": "#FFC80815",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "Verdigris",
+   "B": "#FF43B3AE",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Vermilion",
+   "B": "#FFE34234",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Veronica",
+   "B": "#FFA020F0",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Violet1",
+   "B": "#FF8F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VioletColorWheel",
+   "B": "#FF7F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VioletRyb",
+   "B": "#FF8601AF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Viridian",
+   "B": "#FF40826D",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VividAuburn",
+   "B": "#FF922724",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VividBurgundy",
+   "B": "#FF9F1D35",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VividCerise",
+   "B": "#FFDA1D81",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VividTangerine",
+   "B": "#FFFFA089",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "VividViolet",
+   "B": "#FF9F00FF",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "WarmBlack",
+   "B": "#FF004242",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Wenge",
+   "B": "#FF645452",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "WildBlueYonder",
+   "B": "#FFA2ADD0",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "WildStrawberry",
+   "B": "#FFFF43A4",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "WildWatermelon",
+   "B": "#FFFC6C85",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Wisteria",
+   "B": "#FFC9A0DC",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Xanadu",
+   "B": "#FF738678",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "YaleBlue",
+   "B": "#FF0F4D92",
+   "C": "N",
+   "D": "Y"
+ },
+ {
+   "A": "YellowMunsell",
+   "B": "#FFEFCC00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "YellowNcs",
+   "B": "#FFFFD300",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "YellowProcess",
+   "B": "#FFFFEF00",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "YellowRyb",
+   "B": "#FFFEFE33",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "Zaffre",
+   "B": "#FF0014A8",
+   "C": "N",
+   "D": "N"
+ },
+ {
+   "A": "ZinnwalditeBrown",
+   "B": "#FF2C1608",
+   "C": "N",
+   "D": "N"
+ }
+]

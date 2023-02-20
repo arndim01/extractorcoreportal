@@ -1,0 +1,10114 @@
+[
+ {
+   "A": "Bollinger (O)",
+   "B": "0001"
+ },
+ {
+   "A": "ABC Moving",
+   "B": "0002"
+ },
+ {
+   "A": "NYC TRUCKER 1 (Stamford)",
+   "B": "0003"
+ },
+ {
+   "A": "NYC TRUCKER 1 FSC (32%)",
+   "B": "0004"
+ },
+ {
+   "A": "NYC TRUCKER 2 (Stampford)",
+   "B": "0005"
+ },
+ {
+   "A": "NYC TRUCKER 2 FSC (29%)",
+   "B": "0006"
+ },
+ {
+   "A": "BOS TRUCKER 1 (Clinton)",
+   "B": "0007"
+ },
+ {
+   "A": "BOS TRUCKER 1 FSC (33%)",
+   "B": "0008"
+ },
+ {
+   "A": "BOS TRUCKER 2 (Clinton)",
+   "B": "0009"
+ },
+ {
+   "A": "BOS TRUCKER 2  FSC",
+   "B": "0010"
+ },
+ {
+   "A": "SANTA FE (D)",
+   "B": "0011"
+ },
+ {
+   "A": "AGS (D)",
+   "B": "0012"
+ },
+ {
+   "A": "Customs Broker Rate (NYC)",
+   "B": "0013"
+ },
+ {
+   "A": "Customs Broker Rate (BOS)",
+   "B": "0014"
+ },
+ {
+   "A": "AIRPORT FEE - ORIGIN - 1001",
+   "B": "1001"
+ },
+ {
+   "A": "ASSEMBLY FEE - ORIG - 1003",
+   "B": "1003"
+ },
+ {
+   "A": "BANDING CHARGES",
+   "B": "1006"
+ },
+ {
+   "A": "AIR WAY BILL - 1007",
+   "B": "1007"
+ },
+ {
+   "A": "EXPORT BREAKBULK FEES - ORIGIN - THIRD PARTY",
+   "B": "1008"
+ },
+ {
+   "A": "EXPORT BREAKBULK FEES - ORIGIN - UTI",
+   "B": "1009"
+ },
+ {
+   "A": "CARTAGE FUEL SURCHARGE - ORIGIN",
+   "B": "1014"
+ },
+ {
+   "A": "CERTIFICATE OF ORIGIN - 1015",
+   "B": "1015"
+ },
+ {
+   "A": "CLEARANCE DOCUMENTATION FEES ORIGIN",
+   "B": "1017"
+ },
+ {
+   "A": "CLIENT SELECTED CARRIER  - ORIGIN",
+   "B": "1019"
+ },
+ {
+   "A": "COLD STORAGE FEES - 1021",
+   "B": "1021"
+ },
+ {
+   "A": "Courier Fees - Origin - 1026",
+   "B": "1026"
+ },
+ {
+   "A": "HANDOVER FEE - ORIGIN",
+   "B": "1028"
+ },
+ {
+   "A": "CUSTOMS CLEARANCE - ORIGIN - 1029",
+   "B": "1029"
+ },
+ {
+   "A": "ORIGIN DANGEROUS GOODS FEES - 1032",
+   "B": "1032"
+ },
+ {
+   "A": "DOCUMENT DISBURSEMENT FEES - ORIGIN",
+   "B": "1034"
+ },
+ {
+   "A": "EXTRA COPIES AND MAILINGS  - ORIGIN",
+   "B": "1043"
+ },
+ {
+   "A": "FUMIGATION FEES - 1053",
+   "B": "1053"
+ },
+ {
+   "A": "HANDLING SURCHARGE ORIGIN",
+   "B": "1057"
+ },
+ {
+   "A": "LABELING FEES",
+   "B": "1060"
+ },
+ {
+   "A": "LASHING FEES",
+   "B": "1062"
+ },
+ {
+   "A": "LIFT GATE - ORIGIN - 1063",
+   "B": "1063"
+ },
+ {
+   "A": "LOADING FEES",
+   "B": "1064"
+ },
+ {
+   "A": "INSPECTION FEES - OTHER  - ORIGIN",
+   "B": "1065"
+ },
+ {
+   "A": "EXPORT PACKING FEES",
+   "B": "1067"
+ },
+ {
+   "A": "PALLETIZATION FEE - ORIGIN - 1068",
+   "B": "1068"
+ },
+ {
+   "A": "ORIGIN PORT FEES",
+   "B": "1073"
+ },
+ {
+   "A": "PRO FORMA INVOICE",
+   "B": "1074"
+ },
+ {
+   "A": "ORIGIN STORAGE FEES - 1081",
+   "B": "1081"
+ },
+ {
+   "A": "TERMINAL CHARGE",
+   "B": "1086"
+ },
+ {
+   "A": "ORIGIN TERMINAL HANDLING",
+   "B": "1087"
+ },
+ {
+   "A": "TERMINAL SECURITY FEE - 1088",
+   "B": "1088"
+ },
+ {
+   "A": "ORIGIN TRANSFER CHARGES - 1090",
+   "B": "1090"
+ },
+ {
+   "A": "LETTER OF CREDIT FEE - 1098",
+   "B": "1098"
+ },
+ {
+   "A": "ICING FEE - ORIG - 1099",
+   "B": "1099"
+ },
+ {
+   "A": "RE-ICING IN TRANSIT - 1100",
+   "B": "1100"
+ },
+ {
+   "A": "X-RAY/SCREENING FEE - 1101",
+   "B": "1101"
+ },
+ {
+   "A": "DOCUMENTATION FEE - ORIGIN - 1144",
+   "B": "1144"
+ },
+ {
+   "A": "HANDLING CHARGE - 1170",
+   "B": "1170"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE - ORIGIN - 1287",
+   "B": "1287"
+ },
+ {
+   "A": "1PNS Plan",
+   "B": "1PNS"
+ },
+ {
+   "A": "2nd Person Pickup/Delivery",
+   "B": "2PPD"
+ },
+ {
+   "A": "AIRPORT FEE - DESTINATION - 5000",
+   "B": "5000"
+ },
+ {
+   "A": "IMPORT BREAKBULK FEES - 5003",
+   "B": "5003"
+ },
+ {
+   "A": "COLD STORAGE FEES - DESTINATION - 5010",
+   "B": "5010"
+ },
+ {
+   "A": "COURIER FEES - DESTINATION - 5013",
+   "B": "5013"
+ },
+ {
+   "A": "CUSTOMS CLEARANCE - DESTINATION - 5016",
+   "B": "5016"
+ },
+ {
+   "A": "DESTINATION DANGEROUS GOODS FEES - 5019",
+   "B": "5019"
+ },
+ {
+   "A": "INSPECTION FEES - OTHER - DESTINATION - 5022",
+   "B": "5022"
+ },
+ {
+   "A": "DE-STUFFING FEES - 5023",
+   "B": "5023"
+ },
+ {
+   "A": "DOCUMENT DISBURSEMENT FEES - DESTINATION",
+   "B": "5026"
+ },
+ {
+   "A": "EXTRA COPIES AND MAILINGS - DESTINATION",
+   "B": "5033"
+ },
+ {
+   "A": "FREE DOMIICILE FEES - DESTINATION",
+   "B": "5040"
+ },
+ {
+   "A": "HAND OVER CHARGES",
+   "B": "5041"
+ },
+ {
+   "A": "HANDLING SURCHARGE - DESTINATION - 5042",
+   "B": "5042"
+ },
+ {
+   "A": "IMPORT SERVICE FEE - 5045",
+   "B": "5045"
+ },
+ {
+   "A": "LIFT GATE - DESTINATION - 5047",
+   "B": "5047"
+ },
+ {
+   "A": "IMPORT PACKING FEES",
+   "B": "5048"
+ },
+ {
+   "A": "PALLETIZATION FEE - DESTINATION - 5049",
+   "B": "5049"
+ },
+ {
+   "A": "DESTINATION PORT FEES",
+   "B": "5052"
+ },
+ {
+   "A": "PROOF OF DELIVERY",
+   "B": "5053"
+ },
+ {
+   "A": "SERVICE FEE - DESTINATION",
+   "B": "5057"
+ },
+ {
+   "A": "DESTINATION STORAGE FEES",
+   "B": "5060"
+ },
+ {
+   "A": "DESTINATION STORAGE FEES - 5061",
+   "B": "5061"
+ },
+ {
+   "A": "DEST TERMINAL HANDLING (DTHC) - 5063",
+   "B": "5063"
+ },
+ {
+   "A": "TERMINAL SECURITY FEE",
+   "B": "5064"
+ },
+ {
+   "A": "DESTINATION TRANSFER CHARGES - 5065",
+   "B": "5065"
+ },
+ {
+   "A": "TRANSFER CHARGES - OTHER",
+   "B": "5067"
+ },
+ {
+   "A": "MOVEMENT REFERENCE NUMBER",
+   "B": "5068"
+ },
+ {
+   "A": "ICING FEE",
+   "B": "5070"
+ },
+ {
+   "A": "RE-ICING IN TRANSIT - 5073",
+   "B": "5073"
+ },
+ {
+   "A": "X-RAY/SCREENING FEE",
+   "B": "5074"
+ },
+ {
+   "A": "HANDOVER FEE - DESTINATION - 5075",
+   "B": "5075"
+ },
+ {
+   "A": "DOCUMENTATION FEE - DESTINATION - 5079",
+   "B": "5079"
+ },
+ {
+   "A": "DELIVERY ORDER - DEST - 5140",
+   "B": "5140"
+ },
+ {
+   "A": "SECURITY SURCHARGES",
+   "B": "8008"
+ },
+ {
+   "A": "AUTOMATED EXPORT SYSTEM FEES (AES)",
+   "B": "8017"
+ },
+ {
+   "A": "AUTOMATED MANIFEST SYSTEMS FEES (AMS)",
+   "B": "8018"
+ },
+ {
+   "A": "DAILY YARD STORAGE",
+   "B": "8019"
+ },
+ {
+   "A": "AIRFREIGHT SURCHARGE",
+   "B": "8020"
+ },
+ {
+   "A": "T3",
+   "B": "8021"
+ },
+ {
+   "A": "THC",
+   "B": "8022"
+ },
+ {
+   "A": "Cartage",
+   "B": "8023"
+ },
+ {
+   "A": "Airport Authority of India charge",
+   "B": "AAI"
+ },
+ {
+   "A": "AAI DG charge",
+   "B": "AAIDG"
+ },
+ {
+   "A": "Amendment for Advance Manifest Security Charge",
+   "B": "AAM"
+ },
+ {
+   "A": "AMF AMENDMENT FEE",
+   "B": "AAMF"
+ },
+ {
+   "A": "ADMIN BL PROCESSING FEE (APF)",
+   "B": "ABPF"
+ },
+ {
+   "A": "ABIDJAN PORT SURCHARGE",
+   "B": "ABPS"
+ },
+ {
+   "A": "Alameda Corridor Charge",
+   "B": "ACC"
+ },
+ {
+   "A": "Accessorial Charges",
+   "B": "ACCC"
+ },
+ {
+   "A": "Advanced Cargo Information",
+   "B": "ACI"
+ },
+ {
+   "A": "Advanced Commercial Inform",
+   "B": "ACI1"
+ },
+ {
+   "A": "ACI Next Entry",
+   "B": "ACIN"
+ },
+ {
+   "A": "Aqaba Container Terminal Additional Feed",
+   "B": "ACTF"
+ },
+ {
+   "A": "ACCOUNTING VARIOUS",
+   "B": "ACTV"
+ },
+ {
+   "A": "Administration & Handling",
+   "B": "ADAH"
+ },
+ {
+   "A": "Airline Documentation Charge (ADC)",
+   "B": "ADC"
+ },
+ {
+   "A": "ADVANCE CHARGES",
+   "B": "ADCH"
+ },
+ {
+   "A": "Airline Delivery Cost",
+   "B": "ADCT"
+ },
+ {
+   "A": "Additional Charge",
+   "B": "ADD"
+ },
+ {
+   "A": "Additional Charges",
+   "B": "ADD1"
+ },
+ {
+   "A": "Additional Charges",
+   "B": "ADD2"
+ },
+ {
+   "A": "Additioonal Classification",
+   "B": "ADDC"
+ },
+ {
+   "A": "ADMINISTRATION DOCUMENTATION DUTY",
+   "B": "ADDD"
+ },
+ {
+   "A": "Add On Charge For Flat Rack Cylinder",
+   "B": "ADDF"
+ },
+ {
+   "A": "Add On Charge For Garment On Hanger Cylinder",
+   "B": "ADDG"
+ },
+ {
+   "A": "Additional Information",
+   "B": "ADDI"
+ },
+ {
+   "A": "Add On Charge For Open Top Cylinder",
+   "B": "ADDO"
+ },
+ {
+   "A": "Port Additional Charge",
+   "B": "ADDP"
+ },
+ {
+   "A": "Agency Doc Fee, Origin",
+   "B": "ADE"
+ },
+ {
+   "A": "Aden Gulf Surcharge",
+   "B": "ADEN"
+ },
+ {
+   "A": "Aden Channel Surcharge",
+   "B": "ADENCH"
+ },
+ {
+   "A": "European Advance Declaration Fee",
+   "B": "ADF"
+ },
+ {
+   "A": "Advanced Filing report",
+   "B": "ADFR"
+ },
+ {
+   "A": "Agency Doc Fee, Destination",
+   "B": "ADI"
+ },
+ {
+   "A": "Admin Fee",
+   "B": "ADMF"
+ },
+ {
+   "A": "Administration Fee",
+   "B": "ADMN"
+ },
+ {
+   "A": "Administration Fee Origin",
+   "B": "ADO"
+ },
+ {
+   "A": "Port Additional Charge - Dest.",
+   "B": "ADPD"
+ },
+ {
+   "A": "Port Additional Charge - Origin",
+   "B": "ADPO"
+ },
+ {
+   "A": "ADDITIONAL PORT STEVEDORING",
+   "B": "ADPS"
+ },
+ {
+   "A": "ADR",
+   "B": "ADR"
+ },
+ {
+   "A": "Advanced Filing Fee",
+   "B": "ADVF"
+ },
+ {
+   "A": "Advanced Payment(Duty & Tax)",
+   "B": "ADVP"
+ },
+ {
+   "A": "AES & FMC Filing",
+   "B": "AEFM"
+ },
+ {
+   "A": "AEO Fee",
+   "B": "AEO"
+ },
+ {
+   "A": "AES Filing",
+   "B": "AES"
+ },
+ {
+   "A": "Automated Exports Systems",
+   "B": "AESS"
+ },
+ {
+   "A": "TEMPORARY ACCEPTANCE FEE DEST",
+   "B": "AFD"
+ },
+ {
+   "A": "TEMPORARY ACCEPTANCE FEE ORIG",
+   "B": "AFO"
+ },
+ {
+   "A": "AFR Charge",
+   "B": "AFR"
+ },
+ {
+   "A": "Advanced Filing Rules​",
+   "B": "AFRS"
+ },
+ {
+   "A": "AFS Surcharge",
+   "B": "AFSS"
+ },
+ {
+   "A": "Agricultural Inspection Charge",
+   "B": "AG"
+ },
+ {
+   "A": "Agency Fee",
+   "B": "AGNC"
+ },
+ {
+   "A": "Agency Fee - Destination",
+   "B": "AGND"
+ },
+ {
+   "A": "Agency Fee - Origin",
+   "B": "AGNO"
+ },
+ {
+   "A": "AGNECY FEE II",
+   "B": "AGNT"
+ },
+ {
+   "A": "Agricultural Product Re-Positioning Charge",
+   "B": "AGRC"
+ },
+ {
+   "A": "Bulk Agriculture Commodity Surcharge",
+   "B": "AGRI"
+ },
+ {
+   "A": "Agent Service Fee (Delivery Order Fee)",
+   "B": "AGSF"
+ },
+ {
+   "A": "Airline Handling Charge",
+   "B": "AHC"
+ },
+ {
+   "A": "After Hours Pickup/Delivery",
+   "B": "AHPD"
+ },
+ {
+   "A": "Airport Fee - Destination",
+   "B": "AIPD"
+ },
+ {
+   "A": "Airport Fee - Origin",
+   "B": "AIPO"
+ },
+ {
+   "A": "Airline Drop",
+   "B": "AIRD"
+ },
+ {
+   "A": "AIRFREIGHT CHARGES",
+   "B": "AIRFC"
+ },
+ {
+   "A": "Air Security Charge",
+   "B": "AIRSEC"
+ },
+ {
+   "A": "Airport Tax",
+   "B": "AIT"
+ },
+ {
+   "A": "Airport Toll Fee",
+   "B": "AITF"
+ },
+ {
+   "A": "Additional Invoice",
+   "B": "AIVC"
+ },
+ {
+   "A": "Airline Pick Up Cost",
+   "B": "ALPU"
+ },
+ {
+   "A": "Agent AMS Fee",
+   "B": "AMA"
+ },
+ {
+   "A": "Advance Manifest Admin Charge",
+   "B": "AMAC"
+ },
+ {
+   "A": "Administrative Fee on DLF",
+   "B": "AMDL"
+ },
+ {
+   "A": "Administrative Fee on OLF",
+   "B": "AMDO"
+ },
+ {
+   "A": "Manual Amendment Fee",
+   "B": "AME"
+ },
+ {
+   "A": "Amendment Fee - AFR",
+   "B": "AMF"
+ },
+ {
+   "A": "Administration Fee Destination",
+   "B": "AMFD"
+ },
+ {
+   "A": "Bill of Lading Amendment Fee",
+   "B": "AMND"
+ },
+ {
+   "A": "Advance Manifest Surcharge",
+   "B": "AMS"
+ },
+ {
+   "A": "AMS/ENS",
+   "B": "AMSE"
+ },
+ {
+   "A": "AMS Filing Fee",
+   "B": "AMSF"
+ },
+ {
+   "A": "AMS Fee Canada",
+   "B": "AMSFC"
+ },
+ {
+   "A": "AMS Fee Europe",
+   "B": "AMSFE"
+ },
+ {
+   "A": "AMS",
+   "B": "AMSH"
+ },
+ {
+   "A": "AMS Next Entry",
+   "B": "AMSN"
+ },
+ {
+   "A": "Advance Manifest Surcharge - Origin",
+   "B": "AMSO"
+ },
+ {
+   "A": "ANCILLARY FEE",
+   "B": "ANF"
+ },
+ {
+   "A": "ACCEPTANCE AND RELEASE",
+   "B": "ANR"
+ },
+ {
+   "A": "Additional On Reception Charge",
+   "B": "AORC"
+ },
+ {
+   "A": "Alternative Country Payment Charge",
+   "B": "APC"
+ },
+ {
+   "A": "Additional pages of declaration sheet",
+   "B": "APDS"
+ },
+ {
+   "A": "Advanced Payment Fee",
+   "B": "APF"
+ },
+ {
+   "A": "Aphis User Fee",
+   "B": "APH"
+ },
+ {
+   "A": "Appointment Pickup/Delivery",
+   "B": "APPD"
+ },
+ {
+   "A": "Agriculture Inspection Surcharge",
+   "B": "AQIS"
+ },
+ {
+   "A": "AQIS Assessment Fee",
+   "B": "AQISASS"
+ },
+ {
+   "A": "AQIS Clearance Fee",
+   "B": "AQISCLEAR"
+ },
+ {
+   "A": "AQIS Entry Fee",
+   "B": "AQISENTRY"
+ },
+ {
+   "A": "AQIS Lodgement",
+   "B": "AQISL"
+ },
+ {
+   "A": "AQIS Recovery Fee",
+   "B": "AQISREC"
+ },
+ {
+   "A": "US Arab Chamber",
+   "B": "ARA"
+ },
+ {
+   "A": "ARB",
+   "B": "ARB"
+ },
+ {
+   "A": "Arbitrary Charge at Destination",
+   "B": "ARBD"
+ },
+ {
+   "A": "Arbitrary Charge at Origin",
+   "B": "ARBO"
+ },
+ {
+   "A": "Agency Recovery Charge",
+   "B": "ARC"
+ },
+ {
+   "A": "AGT Routed COMM",
+   "B": "ARCM"
+ },
+ {
+   "A": "AREX FEE DESTINATION",
+   "B": "ARFD"
+ },
+ {
+   "A": "Airport Service Charge",
+   "B": "ASC"
+ },
+ {
+   "A": "Destination Stamp Charge",
+   "B": "ASD"
+ },
+ {
+   "A": "Administration Security Fee",
+   "B": "ASEC"
+ },
+ {
+   "A": "Aviation Security Management",
+   "B": "ASF"
+ },
+ {
+   "A": "Origin Stamp Charge",
+   "B": "ASO"
+ },
+ {
+   "A": "Association Members Fee",
+   "B": "ASSC"
+ },
+ {
+   "A": "Algerian Stamp Destination",
+   "B": "ASTD"
+ },
+ {
+   "A": "Algerian Stamp Origin",
+   "B": "ASTO"
+ },
+ {
+   "A": "Airport Transfer Fee",
+   "B": "ATF"
+ },
+ {
+   "A": "Airport Transfer Fee - Destination",
+   "B": "ATFD"
+ },
+ {
+   "A": "Airport Transfer Fee - Origin",
+   "B": "ATFO"
+ },
+ {
+   "A": "Airline Terminal Service",
+   "B": "ATSE"
+ },
+ {
+   "A": "Attendance Fee",
+   "B": "ATTF"
+ },
+ {
+   "A": "AUXILIARY CHARGES",
+   "B": "AUCH"
+ },
+ {
+   "A": "Automated Manifest System",
+   "B": "AUMS"
+ },
+ {
+   "A": "Airline UN Fee",
+   "B": "AUNF"
+ },
+ {
+   "A": "AUXILIARY ROAD TRANSPORT",
+   "B": "AURT"
+ },
+ {
+   "A": "Auto Surcharge",
+   "B": "AUS"
+ },
+ {
+   "A": "Automobile Surcharge",
+   "B": "AUTO"
+ },
+ {
+   "A": "Automobile Surcharge, Rail",
+   "B": "AUTR"
+ },
+ {
+   "A": "AWB according to Documentary Credit",
+   "B": "AWBD"
+ },
+ {
+   "A": "Airway Bill Fee",
+   "B": "AWBH"
+ },
+ {
+   "A": "AWC Charge",
+   "B": "AWC"
+ },
+ {
+   "A": "Export Declaration Surcharge",
+   "B": "B13"
+ },
+ {
+   "A": "Bunker Adjustment Factor",
+   "B": "BAF"
+ },
+ {
+   "A": "BAF Add-on",
+   "B": "BAFA"
+ },
+ {
+   "A": "Banding Charge",
+   "B": "BAND"
+ },
+ {
+   "A": "Batteries Fee",
+   "B": "BAT"
+ },
+ {
+   "A": "Breakbulk Fee",
+   "B": "BBF"
+ },
+ {
+   "A": "Bunker Recovery Charge",
+   "B": "BCR"
+ },
+ {
+   "A": "Bonded In/Out",
+   "B": "BDIO"
+ },
+ {
+   "A": "Bogus Dimension Surcharge - 1000",
+   "B": "BDS_1000"
+ },
+ {
+   "A": "Bogus Dimension Surcharge - 1500",
+   "B": "BDS_1500"
+ },
+ {
+   "A": "Bogus Dimension Surcharge - 2000",
+   "B": "BDS_2000"
+ },
+ {
+   "A": "Bunker Fuel Factor",
+   "B": "BFF"
+ },
+ {
+   "A": "BILL OF LADING INSTRUCTION",
+   "B": "BILI"
+ },
+ {
+   "A": "Bio Security Fee",
+   "B": "BIO"
+ },
+ {
+   "A": "BILL OF ENTRY",
+   "B": "BIOE"
+ },
+ {
+   "A": "Bulk Head Blocking/Bracing Surcharge",
+   "B": "BLBL"
+ },
+ {
+   "A": "Bill of Lading Courier Charge",
+   "B": "BLC"
+ },
+ {
+   "A": "Transport Document Issuance Service",
+   "B": "BLF"
+ },
+ {
+   "A": "BL acc. to LC - suppl.",
+   "B": "BLLC"
+ },
+ {
+   "A": "Bill of Lading Transmission Fee",
+   "B": "BLRN"
+ },
+ {
+   "A": "Bill of Lading Surrender Fee",
+   "B": "BLSC"
+ },
+ {
+   "A": "Carriers Haulage: Barge/Motor Charge",
+   "B": "BMC"
+ },
+ {
+   "A": "Bank Charges",
+   "B": "BNK"
+ },
+ {
+   "A": "Border Crossing",
+   "B": "BOCR"
+ },
+ {
+   "A": "Booking Change Fee",
+   "B": "BOKC"
+ },
+ {
+   "A": "Booking Fee",
+   "B": "BOKF"
+ },
+ {
+   "A": "Bill of Lading / Security Fee",
+   "B": "BOL"
+ },
+ {
+   "A": "Bill of Lading Correction Fee",
+   "B": "BOLC"
+ },
+ {
+   "A": "Bill of Lading Fee",
+   "B": "BOLF"
+ },
+ {
+   "A": "Bill of Loading Fee 2",
+   "B": "BOLG"
+ },
+ {
+   "A": "Bill of Lading Reissuance Fee",
+   "B": "BOLR"
+ },
+ {
+   "A": "Bill of Lading Security Fee",
+   "B": "BOLS"
+ },
+ {
+   "A": "Bond Fee",
+   "B": "BONF"
+ },
+ {
+   "A": "Border Security",
+   "B": "BORSEC"
+ },
+ {
+   "A": "Bosphorus Strait Transit Surcharge",
+   "B": "BOS"
+ },
+ {
+   "A": "Base Rate",
+   "B": "BR"
+ },
+ {
+   "A": "Bank release",
+   "B": "BREL"
+ },
+ {
+   "A": "Barge Congestion Surcharge",
+   "B": "BRGC"
+ },
+ {
+   "A": "Barge Charge at Destination",
+   "B": "BRGD"
+ },
+ {
+   "A": "Barge Charge at Origin",
+   "B": "BRGO"
+ },
+ {
+   "A": "Broker Fee at Destination",
+   "B": "BRKD"
+ },
+ {
+   "A": "Broker Fee at Origin",
+   "B": "BRKO"
+ },
+ {
+   "A": "Bulk Rail Surcharge",
+   "B": "BRS"
+ },
+ {
+   "A": "Bunker Surcharge",
+   "B": "BSC"
+ },
+ {
+   "A": "Basic Service Rate Additional",
+   "B": "BSRA"
+ },
+ {
+   "A": "Bunker Charge",
+   "B": "BUC"
+ },
+ {
+   "A": "BVI Fee",
+   "B": "BVI"
+ },
+ {
+   "A": "Boston Warehouse Charge",
+   "B": "BWC"
+ },
+ {
+   "A": "CAAT Fee",
+   "B": "CAAT"
+ },
+ {
+   "A": "CANADA BORDER FEE",
+   "B": "CABF"
+ },
+ {
+   "A": "CONTROLLED ATMOSPHERE CHARGE",
+   "B": "CAC"
+ },
+ {
+   "A": "Currency Adjustment Factor",
+   "B": "CAF"
+ },
+ {
+   "A": "Currency Adjustment Factor, Canada",
+   "B": "CAF2"
+ },
+ {
+   "A": "Customs Advance Information Charge",
+   "B": "CAIC"
+ },
+ {
+   "A": "Cargo Aircraft Only Fee",
+   "B": "CAOF"
+ },
+ {
+   "A": "Capatazia",
+   "B": "CAPZ"
+ },
+ {
+   "A": "Carbon Tax",
+   "B": "CARB"
+ },
+ {
+   "A": "CAS Charge",
+   "B": "CAS"
+ },
+ {
+   "A": "Chinese Booking Agent Cost",
+   "B": "CBAC"
+ },
+ {
+   "A": "CURRENCY AND BUNKER ADJUSTMENT FACTOR",
+   "B": "CBAF"
+ },
+ {
+   "A": "Customs Brokerage Charge",
+   "B": "CBC"
+ },
+ {
+   "A": "Cross Border Fee",
+   "B": "CBF"
+ },
+ {
+   "A": "Cross Booking Fee",
+   "B": "CBFEE"
+ },
+ {
+   "A": "Cancelled Booking Fee",
+   "B": "CBOK"
+ },
+ {
+   "A": "Container Bottle Seal",
+   "B": "CBS"
+ },
+ {
+   "A": "CCA Fee",
+   "B": "CCA"
+ },
+ {
+   "A": "China Customs Advanced Manifest",
+   "B": "CCAM"
+ },
+ {
+   "A": "Container Cleaning Charge",
+   "B": "CCC"
+ },
+ {
+   "A": "Container Cleaning Charge - USA",
+   "B": "CCCG"
+ },
+ {
+   "A": "Container Cleaning Charge Hides",
+   "B": "CCCH"
+ },
+ {
+   "A": "Customs Clearance Destination",
+   "B": "CCD"
+ },
+ {
+   "A": "Container Cleaning Export",
+   "B": "CCE"
+ },
+ {
+   "A": "Currency Adjustment Factor, Canada 2",
+   "B": "CCF"
+ },
+ {
+   "A": "Collect Charges Fee",
+   "B": "CCFE"
+ },
+ {
+   "A": "Protection Container Surcharge",
+   "B": "CCG"
+ },
+ {
+   "A": "Container Cleaning Import",
+   "B": "CCI"
+ },
+ {
+   "A": "Cam Control Inspection",
+   "B": "CCIN"
+ },
+ {
+   "A": "Customs Clearance",
+   "B": "CCL"
+ },
+ {
+   "A": "Container Clearing",
+   "B": "CCL1"
+ },
+ {
+   "A": "Customs Clearance Origin",
+   "B": "CCO"
+ },
+ {
+   "A": "Channel Charge",
+   "B": "CCRD"
+ },
+ {
+   "A": "CY CONGESTION SURCHARGE",
+   "B": "CCS"
+ },
+ {
+   "A": "CCS",
+   "B": "CCS1"
+ },
+ {
+   "A": "Certified Cargo Screening Facility",
+   "B": "CCSF"
+ },
+ {
+   "A": "Cam Control Survey",
+   "B": "CCSU"
+ },
+ {
+   "A": "Customs Doc Accomp Alcohol 1st",
+   "B": "CDAA"
+ },
+ {
+   "A": "Customs Data Declaration Charge",
+   "B": "CDDC"
+ },
+ {
+   "A": "Destination Dc Fee - CFS",
+   "B": "CDDOC"
+ },
+ {
+   "A": "Cargo Data Declaration Surcharge",
+   "B": "CDDS"
+ },
+ {
+   "A": "Customs Documentation Examination",
+   "B": "CDE"
+ },
+ {
+   "A": "Submission of Cargo Declaration Fee",
+   "B": "CDF"
+ },
+ {
+   "A": "Custom Documentation Fee",
+   "B": "CDFEE"
+ },
+ {
+   "A": "Cross Docking Fee - Origin",
+   "B": "CDFO"
+ },
+ {
+   "A": "CARRIER DESTINATION LOCAL AS PER OUTLAY",
+   "B": "CDLAPO"
+ },
+ {
+   "A": "Clearance Documentation Fee - Origin",
+   "B": "CDOCO"
+ },
+ {
+   "A": "CARRIERS DOC FEE",
+   "B": "CDOF"
+ },
+ {
+   "A": "Data Process Charge",
+   "B": "CDPC"
+ },
+ {
+   "A": "Customs Duty Surcharge",
+   "B": "CDS"
+ },
+ {
+   "A": "Container Dead Slot Charge",
+   "B": "CDSC"
+ },
+ {
+   "A": "Canada Export Customs Processing Fee",
+   "B": "CECP"
+ },
+ {
+   "A": "Change of empty drop off depot charge",
+   "B": "CEDS"
+ },
+ {
+   "A": "Customs Entry Fee",
+   "B": "CEF"
+ },
+ {
+   "A": "CUSTOMS ELECTORIC FEE",
+   "B": "CEFE"
+ },
+ {
+   "A": "Government Agency Certification",
+   "B": "CER"
+ },
+ {
+   "A": "Destination Certificate Charge",
+   "B": "CERT"
+ },
+ {
+   "A": "CESS",
+   "B": "CESS"
+ },
+ {
+   "A": "Customs Exams Coordination",
+   "B": "CEXAM"
+ },
+ {
+   "A": "Courier Fee",
+   "B": "CF"
+ },
+ {
+   "A": "Cargo Facility",
+   "B": "CFAC"
+ },
+ {
+   "A": "Courier Fees - Destination",
+   "B": "CFD"
+ },
+ {
+   "A": "Consol Fee",
+   "B": "CFE"
+ },
+ {
+   "A": "Consol Fee",
+   "B": "CFE1"
+ },
+ {
+   "A": "CONGESTION FEE, POD",
+   "B": "CFED"
+ },
+ {
+   "A": "Canal Fee",
+   "B": "CFF"
+ },
+ {
+   "A": "CFS Fuel Surcharge",
+   "B": "CFFS"
+ },
+ {
+   "A": "CONGESTION FEE, POL",
+   "B": "CFO"
+ },
+ {
+   "A": "China FCL Receiving Charge",
+   "B": "CFRC"
+ },
+ {
+   "A": "CFS",
+   "B": "CFS"
+ },
+ {
+   "A": "CFS Stripping Fee",
+   "B": "CFSC"
+ },
+ {
+   "A": "CFS DOCUMENTATION",
+   "B": "CFSD"
+ },
+ {
+   "A": "CFS Equipment Charge",
+   "B": "CFSE"
+ },
+ {
+   "A": "Terminal Fuel Surcharge (CFS)",
+   "B": "CFSFC"
+ },
+ {
+   "A": "CFS Handling",
+   "B": "CFSH"
+ },
+ {
+   "A": "Container Field Station Charge / Local Charge (CFS/LC)",
+   "B": "CFSLC"
+ },
+ {
+   "A": "CARTAGE FUEL SURCHARGE - ORIGIN",
+   "B": "CFSO"
+ },
+ {
+   "A": "Container Field Station Charge / Unloading Charge (CFS/UC)",
+   "B": "CFSUC"
+ },
+ {
+   "A": "Cartage Fuel Surcharge - Origin",
+   "B": "CFUELO"
+ },
+ {
+   "A": "CONTAINER GUARANTEE DEPOSIT",
+   "B": "CGDT"
+ },
+ {
+   "A": "Canadian Handling",
+   "B": "CHC"
+ },
+ {
+   "A": "Cargo Handling Charge",
+   "B": "CHDL"
+ },
+ {
+   "A": "Chemicals Add on",
+   "B": "CHEM"
+ },
+ {
+   "A": "Check Fee",
+   "B": "CHFE"
+ },
+ {
+   "A": "Carrier Haulage",
+   "B": "CHH"
+ },
+ {
+   "A": "China",
+   "B": "CHI"
+ },
+ {
+   "A": "Channel Deepening Fee, Dest.",
+   "B": "CHND"
+ },
+ {
+   "A": "Channel Deepening Fee, Origin",
+   "B": "CHNO"
+ },
+ {
+   "A": "CHASSIS REPOSITION FEE",
+   "B": "CHRF"
+ },
+ {
+   "A": "Cattle Hides Surcharge",
+   "B": "CHS"
+ },
+ {
+   "A": "Container Imbalance Charges",
+   "B": "CIC"
+ },
+ {
+   "A": "Consolidators intervention (ECU & Shipco)",
+   "B": "CIES"
+ },
+ {
+   "A": "Cost, Insurance, and Freight",
+   "B": "CIF"
+ },
+ {
+   "A": "CI/CIL Processing",
+   "B": "CIL"
+ },
+ {
+   "A": "China Inspection and Quarantine Fee",
+   "B": "CIQ"
+ },
+ {
+   "A": "CIQ DISINFECTION FEE",
+   "B": "CIQF"
+ },
+ {
+   "A": "Container Insurance Charge",
+   "B": "CIS"
+ },
+ {
+   "A": "China Import Service Fee",
+   "B": "CISC"
+ },
+ {
+   "A": "Container Maintenance Charge",
+   "B": "CMC"
+ },
+ {
+   "A": "Container Maintenance Charge - Origin",
+   "B": "CMCO"
+ },
+ {
+   "A": "Container Management Fee",
+   "B": "CMF"
+ },
+ {
+   "A": "CONTAINER MANAGEMENT FEE - DEST.",
+   "B": "CMFD"
+ },
+ {
+   "A": "CUSTOMS MANIFEST FILING FEE",
+   "B": "CMFF"
+ },
+ {
+   "A": "Customer Markup",
+   "B": "CMK"
+ },
+ {
+   "A": "Sea Cargo Automation (CMR)",
+   "B": "CMRA"
+ },
+ {
+   "A": "CMR Compliance Fee - Origin",
+   "B": "CMRO"
+ },
+ {
+   "A": "Container Manifest Reengineering Charge",
+   "B": "CMRS"
+ },
+ {
+   "A": "Commodity Surcharges",
+   "B": "CMS"
+ },
+ {
+   "A": "CMS Processing Fee",
+   "B": "CMSPF"
+ },
+ {
+   "A": "Container Usage Charge",
+   "B": "CNCG"
+ },
+ {
+   "A": "Congestion Surcharges",
+   "B": "CNGS"
+ },
+ {
+   "A": "Container Monitoring Charge",
+   "B": "CNMR"
+ },
+ {
+   "A": "Container Nomination Charge",
+   "B": "CNNC"
+ },
+ {
+   "A": "Container Depot Fee",
+   "B": "CNRD"
+ },
+ {
+   "A": "Container Premium",
+   "B": "CNRP"
+ },
+ {
+   "A": "Carnet",
+   "B": "CNT"
+ },
+ {
+   "A": "Contingency Charge",
+   "B": "CNTG"
+ },
+ {
+   "A": "Container Repair Charge",
+   "B": "CNTR"
+ },
+ {
+   "A": "CNT YARD CHARGES",
+   "B": "CNYC"
+ },
+ {
+   "A": "Container Assignment",
+   "B": "COAS"
+ },
+ {
+   "A": "Charge of Container Fee",
+   "B": "COC"
+ },
+ {
+   "A": "Cash on Delivery",
+   "B": "COD"
+ },
+ {
+   "A": "Change Of Destination",
+   "B": "CODE"
+ },
+ {
+   "A": "Change of Destination Fee",
+   "B": "CODF"
+ },
+ {
+   "A": "CANADA ORIGIN HANDLING CHARGE",
+   "B": "COHC"
+ },
+ {
+   "A": "Container Insurance",
+   "B": "COIN"
+ },
+ {
+   "A": "Freight Collection Fee",
+   "B": "COL"
+ },
+ {
+   "A": "Collating Fee",
+   "B": "COLC"
+ },
+ {
+   "A": "Collect Fee",
+   "B": "COLL"
+ },
+ {
+   "A": "Co-loader Charge",
+   "B": "COLO"
+ },
+ {
+   "A": "Compliance Charge",
+   "B": "COMC"
+ },
+ {
+   "A": "COLOMBIA DISMOUNTING - DESTINATION",
+   "B": "COMD"
+ },
+ {
+   "A": "Colombia Mounting - Origin",
+   "B": "COMO"
+ },
+ {
+   "A": "Congestion Surcharge",
+   "B": "CON"
+ },
+ {
+   "A": "Consumption Tax",
+   "B": "CONC"
+ },
+ {
+   "A": "Port Congestion Surcharge",
+   "B": "CONG"
+ },
+ {
+   "A": "Port Congestion at POD",
+   "B": "CONGD"
+ },
+ {
+   "A": "Port Congestion at POL",
+   "B": "CONGO"
+ },
+ {
+   "A": "Container Sales Proceeds",
+   "B": "CONP"
+ },
+ {
+   "A": "Congestion Recovery Surcharge",
+   "B": "CONR"
+ },
+ {
+   "A": "Convoy Security Charge",
+   "B": "CONY"
+ },
+ {
+   "A": "Certificate of Origin",
+   "B": "COO"
+ },
+ {
+   "A": "Container Premium",
+   "B": "COP"
+ },
+ {
+   "A": "CORRECTION FUMIGATION",
+   "B": "CORF"
+ },
+ {
+   "A": "CORRECTION FEE",
+   "B": "CORS"
+ },
+ {
+   "A": "Consolidation Surcharge",
+   "B": "COSG"
+ },
+ {
+   "A": "Courier Fee",
+   "B": "COURIER"
+ },
+ {
+   "A": "CHANGE OF VESSEL",
+   "B": "COV"
+ },
+ {
+   "A": "Chassis Provision Charge (Per Day)",
+   "B": "CPC"
+ },
+ {
+   "A": "Customs Processing Charge",
+   "B": "CPC1"
+ },
+ {
+   "A": "Port Crane Charge",
+   "B": "CPCC"
+ },
+ {
+   "A": "Chassis Provision Charge, Per Container",
+   "B": "CPCP"
+ },
+ {
+   "A": "Cross Payment Fee",
+   "B": "CPF"
+ },
+ {
+   "A": "Container SV Charge",
+   "B": "CPM"
+ },
+ {
+   "A": "Chile Porteo",
+   "B": "CPO"
+ },
+ {
+   "A": "Carrier Provided Packaging Charge",
+   "B": "CPPG"
+ },
+ {
+   "A": "Cargo Value Serenity Tailored Offer",
+   "B": "CPX"
+ },
+ {
+   "A": "Crating",
+   "B": "CRA"
+ },
+ {
+   "A": "CRB",
+   "B": "CRB"
+ },
+ {
+   "A": "Container Reposition Charge",
+   "B": "CRC"
+ },
+ {
+   "A": "CFS Release Forklift Fee",
+   "B": "CRFF"
+ },
+ {
+   "A": "Cargo Dues",
+   "B": "CRGD"
+ },
+ {
+   "A": "Cargo Release Fee, Dest.",
+   "B": "CRLS"
+ },
+ {
+   "A": "Cost Recovery Program",
+   "B": "CRP"
+ },
+ {
+   "A": "Cost Recovery Program",
+   "B": "CRP1"
+ },
+ {
+   "A": "CRS Charges",
+   "B": "CRS"
+ },
+ {
+   "A": "Congo River Surcharge",
+   "B": "CRSC"
+ },
+ {
+   "A": "COST RECOVERY STEVEDORAGE",
+   "B": "CRST"
+ },
+ {
+   "A": "Container Service Charge (DTHC)",
+   "B": "CSC"
+ },
+ {
+   "A": "Client Selected Carrier - Origin",
+   "B": "CSCO"
+ },
+ {
+   "A": "CSC (PrePaid at Origin)",
+   "B": "CSCP"
+ },
+ {
+   "A": "Container Security Deposit Charge",
+   "B": "CSCR"
+ },
+ {
+   "A": "Container Shifting Destination",
+   "B": "CSD"
+ },
+ {
+   "A": "Carrier Security Charge",
+   "B": "CSEC"
+ },
+ {
+   "A": "Container Seal Fee",
+   "B": "CSF"
+ },
+ {
+   "A": "Seal Fee (Collect at Destination)",
+   "B": "CSFC"
+ },
+ {
+   "A": "Cold Storage Fee - Destination",
+   "B": "CSFD"
+ },
+ {
+   "A": "COLD STORAGE FEES",
+   "B": "CSFEE"
+ },
+ {
+   "A": "Cold Storage Fee - Origin",
+   "B": "CSFO"
+ },
+ {
+   "A": "Container Shifting Charge",
+   "B": "CSGC"
+ },
+ {
+   "A": "Congestion Surcharge Import",
+   "B": "CSI"
+ },
+ {
+   "A": "CSR Surcharge",
+   "B": "CSR"
+ },
+ {
+   "A": "CTA Fee",
+   "B": "CTA"
+ },
+ {
+   "A": "Container Tax Charge",
+   "B": "CTAX"
+ },
+ {
+   "A": "Customs Temporary Export",
+   "B": "CTEM"
+ },
+ {
+   "A": "Clean Truck Fee",
+   "B": "CTF"
+ },
+ {
+   "A": "Cold Storage Fees - Destination",
+   "B": "CTFD"
+ },
+ {
+   "A": "Container Insurance",
+   "B": "CTI"
+ },
+ {
+   "A": "Cancellation of Temporary Import Bond",
+   "B": "CTIB"
+ },
+ {
+   "A": "Customs Temporary Import",
+   "B": "CTIM"
+ },
+ {
+   "A": "CONTAINER INSPECTION",
+   "B": "CTIS"
+ },
+ {
+   "A": "Container Moving Charge",
+   "B": "CTMC"
+ },
+ {
+   "A": "Container Tracking Note",
+   "B": "CTN"
+ },
+ {
+   "A": "Container Terminal Order Fee",
+   "B": "CTO"
+ },
+ {
+   "A": "Container Pull Fee (Port/Ramp)",
+   "B": "CTP"
+ },
+ {
+   "A": "Chennai Trade Recovery",
+   "B": "CTR"
+ },
+ {
+   "A": "Container Rental",
+   "B": "CTRE"
+ },
+ {
+   "A": "CTR Fee",
+   "B": "CTRF"
+ },
+ {
+   "A": "Cold Treatment Service",
+   "B": "CTS"
+ },
+ {
+   "A": "Container Service Import",
+   "B": "CTSI"
+ },
+ {
+   "A": "Chassis Charge",
+   "B": "CUC"
+ },
+ {
+   "A": "Chassis Utilization Charge",
+   "B": "CUCC"
+ },
+ {
+   "A": "Chassis Charge at Destination",
+   "B": "CUCD"
+ },
+ {
+   "A": "Chassis Charge at Origin",
+   "B": "CUCO"
+ },
+ {
+   "A": "Chassis Split Fee (per split)",
+   "B": "CUCS"
+ },
+ {
+   "A": "Customs Escort",
+   "B": "CUES"
+ },
+ {
+   "A": "Customs Inspection Surcharge",
+   "B": "CUIS"
+ },
+ {
+   "A": "CUSTOM DECLARATION",
+   "B": "CUSD"
+ },
+ {
+   "A": "Custom User Defined Surcharge",
+   "B": "CUST"
+ },
+ {
+   "A": "Customs Custody",
+   "B": "CUST1"
+ },
+ {
+   "A": "Customs Bond Fee Origin",
+   "B": "CUSTBF"
+ },
+ {
+   "A": "Customs Form",
+   "B": "CUSTF"
+ },
+ {
+   "A": "Custom Formalities Destination",
+   "B": "CUSTFD"
+ },
+ {
+   "A": "Custom Formalities Origin",
+   "B": "CUSTFO"
+ },
+ {
+   "A": "Customs Fee",
+   "B": "CUSTO"
+ },
+ {
+   "A": "CONTAINER WAITING FEE",
+   "B": "CWF"
+ },
+ {
+   "A": "CY Receiving Charge",
+   "B": "CYR"
+ },
+ {
+   "A": "Delivery Authorization Doc Fee",
+   "B": "DAD"
+ },
+ {
+   "A": "DAE SETTLEMENT",
+   "B": "DAES"
+ },
+ {
+   "A": "Destination Airline Handling Charge",
+   "B": "DAHC"
+ },
+ {
+   "A": "Equipment Damage Recovery Charge",
+   "B": "DAM"
+ },
+ {
+   "A": "Destination Airport Terminal Charge",
+   "B": "DATC"
+ },
+ {
+   "A": "Dummy B/L Fee",
+   "B": "DBL"
+ },
+ {
+   "A": "Destination Container Cleaning",
+   "B": "DCC"
+ },
+ {
+   "A": "Destination Cargo Data Declaration",
+   "B": "DCDD"
+ },
+ {
+   "A": "Destination CFS Charge",
+   "B": "DCFS"
+ },
+ {
+   "A": "Destination Certificate Charge",
+   "B": "DCG"
+ },
+ {
+   "A": "Destination Certificate Charge - Prepaid",
+   "B": "DCGP"
+ },
+ {
+   "A": "Documentation and Handling Fee",
+   "B": "DCHD"
+ },
+ {
+   "A": "Destination Charges",
+   "B": "DCHG"
+ },
+ {
+   "A": "Container Service Charge at Destination",
+   "B": "DCSC"
+ },
+ {
+   "A": "Carrier Security Charge - Destination",
+   "B": "DCSE"
+ },
+ {
+   "A": "Destination Terminal Order Service",
+   "B": "DCT"
+ },
+ {
+   "A": "Destination Delivery Charge",
+   "B": "DDC"
+ },
+ {
+   "A": "Destination Delivery Charge (2nd)",
+   "B": "DDC1"
+ },
+ {
+   "A": "DOCUMENT DECLARATION FEE",
+   "B": "DDCF"
+ },
+ {
+   "A": "DDC (Prepaid at Origin)",
+   "B": "DDCP"
+ },
+ {
+   "A": "DDC",
+   "B": "DDCS"
+ },
+ {
+   "A": "Delivery Charge Truck Fee",
+   "B": "DDCT"
+ },
+ {
+   "A": "Door Delivery Charge",
+   "B": "DDEL"
+ },
+ {
+   "A": "Documentation Fee - Destination",
+   "B": "DDF"
+ },
+ {
+   "A": "Document Disbursement Fees - Destination",
+   "B": "DDFD"
+ },
+ {
+   "A": "Destination Disbursement Fee",
+   "B": "DDFE"
+ },
+ {
+   "A": "Document Disbursement Fee - Origin",
+   "B": "DDFO"
+ },
+ {
+   "A": "Destination Dangerous Goods Fee",
+   "B": "DDGF"
+ },
+ {
+   "A": "Destination Discharge Surcharge",
+   "B": "DDIC"
+ },
+ {
+   "A": "Destination Doc Fee",
+   "B": "DDOC"
+ },
+ {
+   "A": "DDOC (PrePaid at Origin)",
+   "B": "DDOCP"
+ },
+ {
+   "A": "Delivery Order Fee",
+   "B": "DDOF"
+ },
+ {
+   "A": "Destination Add On",
+   "B": "DEAO"
+ },
+ {
+   "A": "Destination Emergency Bunker Adjustment Factor​",
+   "B": "DEBAF"
+ },
+ {
+   "A": "Destination Customs Interface Fee",
+   "B": "DECI"
+ },
+ {
+   "A": "Destination Customs Clearance",
+   "B": "DECU"
+ },
+ {
+   "A": "Delivery Fuel Surcharge",
+   "B": "DEFSC"
+ },
+ {
+   "A": "Dehumidification Charge",
+   "B": "DEHC"
+ },
+ {
+   "A": "Delta Surcharge",
+   "B": "DELT"
+ },
+ {
+   "A": "Delivery Charge",
+   "B": "DELV"
+ },
+ {
+   "A": "Destination NAV CAN",
+   "B": "DENC"
+ },
+ {
+   "A": "Density Charge",
+   "B": "DENS"
+ },
+ {
+   "A": "Destination Other Charges",
+   "B": "DEOC"
+ },
+ {
+   "A": "Deposit",
+   "B": "DEP"
+ },
+ {
+   "A": "Deconsolidation Fee",
+   "B": "DESCO"
+ },
+ {
+   "A": "Destination Charges",
+   "B": "DEST"
+ },
+ {
+   "A": "Detention",
+   "B": "DET"
+ },
+ {
+   "A": "Detention/Demurrage",
+   "B": "DETDMR"
+ },
+ {
+   "A": "DOC FEE - CHAMBER OF COMMERCE",
+   "B": "DFCC"
+ },
+ {
+   "A": "DFF Fee",
+   "B": "DFF"
+ },
+ {
+   "A": "Destination Doc Fee Feeder",
+   "B": "DFOC"
+ },
+ {
+   "A": "Documentation Fee Origin",
+   "B": "DFOR"
+ },
+ {
+   "A": "Domestic Fuel Surcharge",
+   "B": "DFS"
+ },
+ {
+   "A": "Delivery Minimum plus Fuel Surcharge",
+   "B": "DFSC"
+ },
+ {
+   "A": "Doc Fee and SMD per HBL",
+   "B": "DFSPH"
+ },
+ {
+   "A": "Dangerous Goods Delivery charge",
+   "B": "DGDELV"
+ },
+ {
+   "A": "DANGEROUS GOODS FEE",
+   "B": "DGFC"
+ },
+ {
+   "A": "Dangerous Goods Fee - Destination",
+   "B": "DGFD"
+ },
+ {
+   "A": "Dangerous Goods Fee - Origin",
+   "B": "DGFO"
+ },
+ {
+   "A": "DGR Add on",
+   "B": "DGRA"
+ },
+ {
+   "A": "Destination Handling Charge",
+   "B": "DHC"
+ },
+ {
+   "A": "Document Hand Over",
+   "B": "DHO"
+ },
+ {
+   "A": "Destination Imp Clearance",
+   "B": "DIC"
+ },
+ {
+   "A": "PER DIEM",
+   "B": "DIEM"
+ },
+ {
+   "A": "Dry Ice Fee",
+   "B": "DIF"
+ },
+ {
+   "A": "Destination Inland Fuel Surcharge Adjustment Factor",
+   "B": "DIFA"
+ },
+ {
+   "A": "Discharge Fee - Destination",
+   "B": "DIFD"
+ },
+ {
+   "A": "Destination Inland Fuel Surcharge",
+   "B": "DIFS"
+ },
+ {
+   "A": "Data input Fee",
+   "B": "DINF"
+ },
+ {
+   "A": "Direct Pick up",
+   "B": "DIPU"
+ },
+ {
+   "A": "Disbursement",
+   "B": "DISB"
+ },
+ {
+   "A": "DISINFECTION FEE",
+   "B": "DISF"
+ },
+ {
+   "A": "Destination ISPS Charge",
+   "B": "DISPS"
+ },
+ {
+   "A": "Detention in Transit",
+   "B": "DIT"
+ },
+ {
+   "A": "Diversion Fee",
+   "B": "DIV"
+ },
+ {
+   "A": "Diversion Administrative Charge",
+   "B": "DIVA"
+ },
+ {
+   "A": "Destination Landing Charge",
+   "B": "DLAND"
+ },
+ {
+   "A": "Destination Loading Charge",
+   "B": "DLC"
+ },
+ {
+   "A": "Destination Land Freight",
+   "B": "DLF"
+ },
+ {
+   "A": "Destination Local Charges",
+   "B": "DLOC"
+ },
+ {
+   "A": "Destination Lift On / Lift Off",
+   "B": "DLOLO"
+ },
+ {
+   "A": "DESTINATION DOOR DELIVERY",
+   "B": "DLV"
+ },
+ {
+   "A": "Document Amendment Fee",
+   "B": "DME"
+ },
+ {
+   "A": "Demurrage",
+   "B": "DMR"
+ },
+ {
+   "A": "Carrier Bill of Lading Fee",
+   "B": "DOC_FCL"
+ },
+ {
+   "A": "DOC FEE - FILING",
+   "B": "DOCF"
+ },
+ {
+   "A": "Documentation Fee",
+   "B": "DOCU"
+ },
+ {
+   "A": "Document Origin",
+   "B": "DOCUO"
+ },
+ {
+   "A": "D/O Destination",
+   "B": "DODES"
+ },
+ {
+   "A": "DO Extension Charges",
+   "B": "DOE"
+ },
+ {
+   "A": "D/O exchange Charge",
+   "B": "DOEC"
+ },
+ {
+   "A": "Domestic Surcharge",
+   "B": "DOMS"
+ },
+ {
+   "A": "Door Removal Fee",
+   "B": "DOOR"
+ },
+ {
+   "A": "Delivery Order/Reforward",
+   "B": "DOR"
+ },
+ {
+   "A": "D/O Service Fee",
+   "B": "DOSF"
+ },
+ {
+   "A": "DOX",
+   "B": "DOX"
+ },
+ {
+   "A": "Arbitrary - Destination",
+   "B": "DPA"
+ },
+ {
+   "A": "DESTINATION PORT FEES",
+   "B": "DPF"
+ },
+ {
+   "A": "Dry port Surcharge",
+   "B": "DPS"
+ },
+ {
+   "A": "Destination Port Security Charge",
+   "B": "DPSC"
+ },
+ {
+   "A": "Door Pick-up Charge",
+   "B": "DPU"
+ },
+ {
+   "A": "Draft Surcharge",
+   "B": "DRAF"
+ },
+ {
+   "A": "Inland Drayage Charge",
+   "B": "DRAY"
+ },
+ {
+   "A": "Destination Receiving Charge",
+   "B": "DRC"
+ },
+ {
+   "A": "Document release fee",
+   "B": "DRF"
+ },
+ {
+   "A": "Dredging Tax",
+   "B": "DRGC"
+ },
+ {
+   "A": "Destination Drayage Charge",
+   "B": "DRGD"
+ },
+ {
+   "A": "Origin Drayage Charge",
+   "B": "DRGO"
+ },
+ {
+   "A": "Drop Off Fee, Destination",
+   "B": "DROP"
+ },
+ {
+   "A": "Drop & Pick Charge",
+   "B": "DRPK"
+ },
+ {
+   "A": "Drop Off Fee (PrePaid at Origin)",
+   "B": "DRPP"
+ },
+ {
+   "A": "Drayage Surcharge",
+   "B": "DRSU"
+ },
+ {
+   "A": "Destination Security Surcharge",
+   "B": "DSCC"
+ },
+ {
+   "A": "Document Stamp Tax Export",
+   "B": "DSE"
+ },
+ {
+   "A": "Destination Terminal Security Charge",
+   "B": "DSEC"
+ },
+ {
+   "A": "Security at POD (PrePaid at Origin)",
+   "B": "DSEP"
+ },
+ {
+   "A": "Destination Storage Fees",
+   "B": "DSF"
+ },
+ {
+   "A": "Document Stamp Tax Import",
+   "B": "DSI"
+ },
+ {
+   "A": "Destination Line haul",
+   "B": "DSLI"
+ },
+ {
+   "A": "Destination Inland Cost",
+   "B": "DST"
+ },
+ {
+   "A": "Destination Un-Stuffing Charge",
+   "B": "DSTF"
+ },
+ {
+   "A": "DISCHARGE THC",
+   "B": "DSTH"
+ },
+ {
+   "A": "DESTINATION TRANSFER CHARGE",
+   "B": "DTC"
+ },
+ {
+   "A": "Document Turnover Fee",
+   "B": "DTF"
+ },
+ {
+   "A": "DOCUMENT FEE ORIGIN",
+   "B": "DTFO"
+ },
+ {
+   "A": "Destination Terminal Handling",
+   "B": "DTH"
+ },
+ {
+   "A": "Destination Terminal Handling Charge",
+   "B": "DTHC"
+ },
+ {
+   "A": "DTHC (PrePaid at Origin)",
+   "B": "DTHCP"
+ },
+ {
+   "A": "Dismantle the Mawb Charge",
+   "B": "DTMC"
+ },
+ {
+   "A": "Devanning Charge",
+   "B": "DVN"
+ },
+ {
+   "A": "EUR1/ATR1-document",
+   "B": "EAD"
+ },
+ {
+   "A": "ELECTRONIC ADMINISTRATION FEE",
+   "B": "EADF"
+ },
+ {
+   "A": "EAS Surcharge",
+   "B": "EASC"
+ },
+ {
+   "A": "Emergency Bunker Adjustment Factor",
+   "B": "EBAF"
+ },
+ {
+   "A": "EXPORT BREAKBULK FEES - ORIGIN - THIRD PARTY",
+   "B": "EBFOT"
+ },
+ {
+   "A": "EXPORT BREAKBULK FEES - ORIGIN - UTI",
+   "B": "EBFOU"
+ },
+ {
+   "A": "ELECTRONIC BILL OF LADING",
+   "B": "EBL"
+ },
+ {
+   "A": "Emergency Bunker Surcharge",
+   "B": "EBS"
+ },
+ {
+   "A": "Emissions Control Area Charge",
+   "B": "ECA"
+ },
+ {
+   "A": "EMERGENCY CURRENCY ADJUSTMENT FACTOR",
+   "B": "ECAF"
+ },
+ {
+   "A": "ECA REG SURCHARGE",
+   "B": "ECAR"
+ },
+ {
+   "A": "Emission Control Area Surcharge",
+   "B": "ECAS"
+ },
+ {
+   "A": "Empty Container Booking Fee",
+   "B": "ECBF"
+ },
+ {
+   "A": "Extra Container Handling Charge",
+   "B": "ECHC"
+ },
+ {
+   "A": "Export Service Charge",
+   "B": "ECHG"
+ },
+ {
+   "A": "Emergency Cargo Handling Surcharge",
+   "B": "ECHS"
+ },
+ {
+   "A": "EXTRA COPIES AND MAILINGS  - ORIGIN",
+   "B": "ECM"
+ },
+ {
+   "A": "Extra Copies and Mailings - Destination",
+   "B": "ECMD"
+ },
+ {
+   "A": "Extra Copies and Mailings - Origin",
+   "B": "ECMO"
+ },
+ {
+   "A": "ELECTRONIC CARGO INFORMATION",
+   "B": "ECOI"
+ },
+ {
+   "A": "Early Recovery Charge",
+   "B": "ECRC"
+ },
+ {
+   "A": "Electronic Cargo Release",
+   "B": "ECRR"
+ },
+ {
+   "A": "Equipment Control Surcharge",
+   "B": "ECS"
+ },
+ {
+   "A": "Export Chassis Fee",
+   "B": "ECUC"
+ },
+ {
+   "A": "Electronic Doc Fee, Dest.",
+   "B": "EDD"
+ },
+ {
+   "A": "ELECTRONIC DOCUMENT FEE",
+   "B": "EDF"
+ },
+ {
+   "A": "EDI Input",
+   "B": "EDI"
+ },
+ {
+   "A": "Electronic Data Interchange Fee",
+   "B": "EDIC"
+ },
+ {
+   "A": "Equipment Demurrage Import",
+   "B": "EDIM"
+ },
+ {
+   "A": "Electronic Doc Fee, Origin",
+   "B": "EDO"
+ },
+ {
+   "A": "Electronic Data Transfer Fee",
+   "B": "EDTF"
+ },
+ {
+   "A": "Emergency Equipment Surcharge",
+   "B": "EES"
+ },
+ {
+   "A": "Emergency Fuel Adjustment Factor",
+   "B": "EFAF"
+ },
+ {
+   "A": "Environmental Friendly Fuel (Marpol)",
+   "B": "EFF"
+ },
+ {
+   "A": "EMERGENCY FREIGHT RE",
+   "B": "EFRE"
+ },
+ {
+   "A": "Emergency Fuel Cost Recovery Surcharge",
+   "B": "EFRS"
+ },
+ {
+   "A": "Emergency Fuel Surcharge",
+   "B": "EFS"
+ },
+ {
+   "A": "EMERGENCY FUEL SURCH",
+   "B": "EFSU"
+ },
+ {
+   "A": "Equipment Hand-over, Destination",
+   "B": "EHC"
+ },
+ {
+   "A": "Equipment Hand-Over, Origin",
+   "B": "EHC1"
+ },
+ {
+   "A": "Equipment Imbalance Surcharge - Dest.",
+   "B": "EID"
+ },
+ {
+   "A": "European ICS Data Transmission Fee",
+   "B": "EIDT"
+ },
+ {
+   "A": "Export Intermodel Fuel Fee",
+   "B": "EIFF"
+ },
+ {
+   "A": "Emergency Inland Fuel Surcharge",
+   "B": "EIFS"
+ },
+ {
+   "A": "Emergency Imbalance Surcharge",
+   "B": "EIN"
+ },
+ {
+   "A": "Equipment Interchange Charge",
+   "B": "EINC"
+ },
+ {
+   "A": "Equipment Inspection, Origin",
+   "B": "EINO"
+ },
+ {
+   "A": "Equipment Inspection Surcharge",
+   "B": "EINS"
+ },
+ {
+   "A": "Equipment Imbalance Surcharge - Origin",
+   "B": "EIO"
+ },
+ {
+   "A": "Gate Toll Fee at Destination",
+   "B": "EIR"
+ },
+ {
+   "A": "Emergency Inland Recovery Surcharge",
+   "B": "EIRS"
+ },
+ {
+   "A": "Equipment Imbalance Surcharge",
+   "B": "EIS"
+ },
+ {
+   "A": "Equipment Imbalance (Surcharge Inland)",
+   "B": "EISI"
+ },
+ {
+   "A": "Electronic Logging Devise Surcharge",
+   "B": "ELD"
+ },
+ {
+   "A": "Excess Limit Weight Fee",
+   "B": "ELW"
+ },
+ {
+   "A": "E-Manifest",
+   "B": "EM"
+ },
+ {
+   "A": "Empty Booking Fee",
+   "B": "EMBF"
+ },
+ {
+   "A": "Equipment Management Export",
+   "B": "EME"
+ },
+ {
+   "A": "Emergency Surcharge",
+   "B": "EMG"
+ },
+ {
+   "A": "Equipment Management Import",
+   "B": "EMI"
+ },
+ {
+   "A": "Equipment Maintenance Fee",
+   "B": "EMNC"
+ },
+ {
+   "A": "Equipment Maintenance Fee, Dest.",
+   "B": "EMND"
+ },
+ {
+   "A": "Empty Container Inspection Charge",
+   "B": "EMPC"
+ },
+ {
+   "A": "Empty Container Return Fee",
+   "B": "EMPF"
+ },
+ {
+   "A": "Emergency Port Surcharge",
+   "B": "EMPS"
+ },
+ {
+   "A": "Emergency Recovery Charge",
+   "B": "EMRC"
+ },
+ {
+   "A": "EMPTY REPOSITION EME",
+   "B": "EMRE"
+ },
+ {
+   "A": "Emergency Risk Surcharge",
+   "B": "EMRS"
+ },
+ {
+   "A": "Global Emergency Surcharge",
+   "B": "EMS"
+ },
+ {
+   "A": "Emergency Weather Surcharge",
+   "B": "EMSR"
+ },
+ {
+   "A": "Endorsement Fee",
+   "B": "ENDF"
+ },
+ {
+   "A": "Entry Summary Declaration",
+   "B": "ENS"
+ },
+ {
+   "A": "ENS",
+   "B": "ENS1"
+ },
+ {
+   "A": "ENS Admin Fee",
+   "B": "ENSD"
+ },
+ {
+   "A": "ENS Amendment Fee",
+   "B": "ENSDA"
+ },
+ {
+   "A": "ENS Filing Fee",
+   "B": "ENSF"
+ },
+ {
+   "A": "Enhanced Security Surcharge",
+   "B": "ENSS"
+ },
+ {
+   "A": "Export Permit",
+   "B": "EP"
+ },
+ {
+   "A": "Export Packaging Fees",
+   "B": "EPF"
+ },
+ {
+   "A": "Electronic Processing Of Data",
+   "B": "EPOD"
+ },
+ {
+   "A": "Equipment Permit Charge",
+   "B": "EPPC"
+ },
+ {
+   "A": "Equipment Positioning Surcharge",
+   "B": "EPS"
+ },
+ {
+   "A": "Emergency Peak Season Surcharge",
+   "B": "EPSS"
+ },
+ {
+   "A": "EMPTY PICK-UP COST",
+   "B": "EPUC"
+ },
+ {
+   "A": "Equipment Investment Factor",
+   "B": "EQIF"
+ },
+ {
+   "A": "Equipment Surcharge",
+   "B": "EQIP"
+ },
+ {
+   "A": "Equipment Origin",
+   "B": "EQIPO"
+ },
+ {
+   "A": "Equipment Management Fee",
+   "B": "EQM"
+ },
+ {
+   "A": "Equipment Management Fee - Dest.",
+   "B": "EQMD"
+ },
+ {
+   "A": "Equipment Management Fee - Origin",
+   "B": "EQMO"
+ },
+ {
+   "A": "Equipment Handling Fee",
+   "B": "EQUIPHAND"
+ },
+ {
+   "A": "Emergency Revenue Charge",
+   "B": "ERC"
+ },
+ {
+   "A": "Emergency Revenue Charge",
+   "B": "ERC1"
+ },
+ {
+   "A": "Emergency Revenue Charge 2",
+   "B": "ERC2"
+ },
+ {
+   "A": "Emergency Revenue Charge Inland",
+   "B": "ERCI"
+ },
+ {
+   "A": "Ecological and Radiological Fee",
+   "B": "ERI"
+ },
+ {
+   "A": "Extra Risk Insurance Surcharge",
+   "B": "ERIS"
+ },
+ {
+   "A": "Emergency Risk Surcharge",
+   "B": "ERK"
+ },
+ {
+   "A": "Emergency Repositioning Surcharge",
+   "B": "ERP"
+ },
+ {
+   "A": "Emergency Revenue Recovery",
+   "B": "ERR"
+ },
+ {
+   "A": "Equipment Repositioning Surcharge",
+   "B": "ERS"
+ },
+ {
+   "A": "Extra Seal Charge",
+   "B": "ESC"
+ },
+ {
+   "A": "Emergency Space Surcharge",
+   "B": "ESS"
+ },
+ {
+   "A": "Ensurance Filing Fee",
+   "B": "ESUF"
+ },
+ {
+   "A": "Excise Tax",
+   "B": "ETAX"
+ },
+ {
+   "A": "Equipment Transfer Charge",
+   "B": "ETC"
+ },
+ {
+   "A": "Electronic Token Charge",
+   "B": "ETCH"
+ },
+ {
+   "A": "Emergency Terminal Congestion Surcharge",
+   "B": "ETCS"
+ },
+ {
+   "A": "Export Transfer Fee",
+   "B": "ETF"
+ },
+ {
+   "A": "Emergency Truck Fuel Surcharge",
+   "B": "ETFS"
+ },
+ {
+   "A": "Emergency Trucking Surcharge",
+   "B": "ETKS"
+ },
+ {
+   "A": "EUR 1 FORM",
+   "B": "EURF"
+ },
+ {
+   "A": "Evacuation Charge",
+   "B": "EVC"
+ },
+ {
+   "A": "Emergency Vessel Delay Surcharge",
+   "B": "EVDS"
+ },
+ {
+   "A": "Environment Surcharge",
+   "B": "EVS"
+ },
+ {
+   "A": "Environment Surcharge - Destination",
+   "B": "EVSD"
+ },
+ {
+   "A": "Environment Surcharge - Origin",
+   "B": "EVSO"
+ },
+ {
+   "A": "Export Breakbulk Fee",
+   "B": "EXBB"
+ },
+ {
+   "A": "EXPRESS B/L",
+   "B": "EXBL"
+ },
+ {
+   "A": "Export Customs Clearance",
+   "B": "EXCC"
+ },
+ {
+   "A": "Exchange Rate Surcharge",
+   "B": "EXCH"
+ },
+ {
+   "A": "Export Clearance Charge",
+   "B": "EXCS"
+ },
+ {
+   "A": "Extra Delivery Order",
+   "B": "EXDO"
+ },
+ {
+   "A": "Examination Service Export",
+   "B": "EXEC"
+ },
+ {
+   "A": "Extraordinary Handling Charge",
+   "B": "EXHC"
+ },
+ {
+   "A": "Examination Service Import",
+   "B": "EXIC"
+ },
+ {
+   "A": "Export Service Charge",
+   "B": "EXP"
+ },
+ {
+   "A": "AGS01 - Aden Gulf Surcharge",
+   "B": "EXP-ADEN"
+ },
+ {
+   "A": "POR70 - Port additional (destination)",
+   "B": "EXP-ADPD"
+ },
+ {
+   "A": "BAF03 - Bunker surcharge NOS",
+   "B": "EXP-BAF"
+ },
+ {
+   "A": "CAF13 - Currency Adjustment Factor",
+   "B": "EXP-CAF"
+ },
+ {
+   "A": "CTR33 - Cleaning, disinfection, fumiga",
+   "B": "EXP-CCC"
+ },
+ {
+   "A": "POR59 - Port Congestion surcharge - de",
+   "B": "EXP-CONGD"
+ },
+ {
+   "A": "FEE85 - Container inspection fees and",
+   "B": "EXP-CTIS"
+ },
+ {
+   "A": "HZD01 - Dangerous goods additional (se",
+   "B": "EXP-DELV"
+ },
+ {
+   "A": "IPS51 - Destinat.Terminal-Intl Ship&Po",
+   "B": "EXP-DESC"
+ },
+ {
+   "A": "THC34 - Terminal handl. ch  destinatio",
+   "B": "EXP-DTHC"
+ },
+ {
+   "A": "THC05 - Extra Container handling ch de",
+   "B": "EXP-ECHC"
+ },
+ {
+   "A": "CUS16 - Export Declaration Surcharge",
+   "B": "EXP-EDSC"
+ },
+ {
+   "A": "POR52 - PORT DUES",
+   "B": "EXP-HARB"
+ },
+ {
+   "A": "ISS01 - Ocean Carrier-Intl Ship & port",
+   "B": "EXP-INSPS"
+ },
+ {
+   "A": "FRT10 - Low sulfur surcharge",
+   "B": "EXP-LWSS"
+ },
+ {
+   "A": "CAR20 - Outport Additional Origin",
+   "B": "EXP-OAC"
+ },
+ {
+   "A": "THC58 - Terminal handl ch origin",
+   "B": "EXP-OTHC"
+ },
+ {
+   "A": "FRT61 - Overweight, freight additional",
+   "B": "EXP-OWHS"
+ },
+ {
+   "A": "CAR50 - On carriage haulage",
+   "B": "EXP-PREH"
+ },
+ {
+   "A": "PSS00 - Peak Season Adjustment Factor",
+   "B": "EXP-PSS"
+ },
+ {
+   "A": "CAN63 - Canal charges,  Suez, Bosphoru",
+   "B": "EXP-SCS"
+ },
+ {
+   "A": "SEA66 - Sealing charges & associated s",
+   "B": "EXP-SEAE"
+ },
+ {
+   "A": "SEA06 - Sealing charges & associated s",
+   "B": "EXP-SEAI"
+ },
+ {
+   "A": "Export duties",
+   "B": "EXPD"
+ },
+ {
+   "A": "Export Documentation Fee",
+   "B": "EXPDOC"
+ },
+ {
+   "A": "Expeditionary Fee",
+   "B": "EXPED"
+ },
+ {
+   "A": "Export Handling Charge",
+   "B": "EXPHAND"
+ },
+ {
+   "A": "Export Security Charge",
+   "B": "EXPSEC"
+ },
+ {
+   "A": "Export Tax",
+   "B": "EXPT"
+ },
+ {
+   "A": "Extra Risk",
+   "B": "EXR"
+ },
+ {
+   "A": "Extra Customs Tariff line",
+   "B": "EXTF"
+ },
+ {
+   "A": "FACILITY ADMINISTRATION FEE",
+   "B": "FAA"
+ },
+ {
+   "A": "Fuel Additional Charge",
+   "B": "FAC"
+ },
+ {
+   "A": "Facility Fee",
+   "B": "FACF"
+ },
+ {
+   "A": "Emergency Fuel Contribution",
+   "B": "FAD"
+ },
+ {
+   "A": "Fuel Adjustment Contribution",
+   "B": "FADC"
+ },
+ {
+   "A": "Fuel Adjustment Factor",
+   "B": "FAF"
+ },
+ {
+   "A": "FAS Terms Landing Charge",
+   "B": "FAS"
+ },
+ {
+   "A": "FAS Term Landing Charge",
+   "B": "FASC"
+ },
+ {
+   "A": "Fuel Contribution Charge",
+   "B": "FCC"
+ },
+ {
+   "A": "Feeder CDC",
+   "B": "FCDC"
+ },
+ {
+   "A": "FCL Dehire / Collection Fee",
+   "B": "FCLD"
+ },
+ {
+   "A": "Forwarder Commission - Origin",
+   "B": "FCMO"
+ },
+ {
+   "A": "Fuel Compensation Surcharge",
+   "B": "FCS"
+ },
+ {
+   "A": "FCZ Fees",
+   "B": "FCZ"
+ },
+ {
+   "A": "FDA Notification Fee",
+   "B": "FDA"
+ },
+ {
+   "A": "Free Domicile Fee - Destination",
+   "B": "FDFD"
+ },
+ {
+   "A": "UK FDRC Hazardous Handling Surcharge",
+   "B": "FDRC"
+ },
+ {
+   "A": "Forty Foot Dry Container Surcharge",
+   "B": "FDS"
+ },
+ {
+   "A": "Feeder Surcharge",
+   "B": "FEDR"
+ },
+ {
+   "A": "Destination Feeder Surcharge",
+   "B": "FEDRD"
+ },
+ {
+   "A": "ADV Collection Fee",
+   "B": "FEE"
+ },
+ {
+   "A": "FEEDERAGE RECOVERY S",
+   "B": "FERS"
+ },
+ {
+   "A": "Fuel Escalation Surcharge (Inland Fuel)",
+   "B": "FES"
+ },
+ {
+   "A": "Freight Forwarder Commission/Brokerage - Origin",
+   "B": "FFC"
+ },
+ {
+   "A": "FLAT FILE MANIFEST FEE (FFM)",
+   "B": "FFMF"
+ },
+ {
+   "A": "CT Bill of Lading Fee - Per BOL",
+   "B": "FG-CTIBOL"
+ },
+ {
+   "A": "Detention",
+   "B": "FG-DET"
+ },
+ {
+   "A": "Dried Fruits & Nuts Schg",
+   "B": "FG-DFN"
+ },
+ {
+   "A": "Drayage to Exam",
+   "B": "FG-DTE"
+ },
+ {
+   "A": "ECAADD",
+   "B": "FG-ECAADD"
+ },
+ {
+   "A": "Equipment Detention",
+   "B": "FG-EQDE"
+ },
+ {
+   "A": "Equipment Rental Surcharge",
+   "B": "FG-EQRENT"
+ },
+ {
+   "A": "EQUIPRES Surcharge",
+   "B": "FG-EQUIPREC"
+ },
+ {
+   "A": "Grp C NHRESIN/CHEMICALS",
+   "B": "FG-GROUPC"
+ },
+ {
+   "A": "Grp E MIXED:SEE CMDTY DESCRIP",
+   "B": "FG-GROUPE"
+ },
+ {
+   "A": "Grp F DRY NUT/FRUIT",
+   "B": "FG-GROUPF"
+ },
+ {
+   "A": "Inland Contribution Fee",
+   "B": "FG-ICF"
+ },
+ {
+   "A": "Late Doc Fee",
+   "B": "FG-LDF"
+ },
+ {
+   "A": "Marketing Adjustment Fee",
+   "B": "FG-MAF"
+ },
+ {
+   "A": "Panama Toll Fee",
+   "B": "FG-PTF"
+ },
+ {
+   "A": "Revenue Recovery",
+   "B": "FG-RR"
+ },
+ {
+   "A": "Government and Port Tax Service",
+   "B": "FG-TAX"
+ },
+ {
+   "A": "Tanzanian Central Freight Bureau Schg",
+   "B": "FG-TCFB"
+ },
+ {
+   "A": "Used Auto Charge",
+   "B": "FG-UAC"
+ },
+ {
+   "A": "US Customs Document Fee",
+   "B": "FG-UCDF"
+ },
+ {
+   "A": "Agency Logistic Fee Import",
+   "B": "FG-ULI"
+ },
+ {
+   "A": "Vessel Utilization Schg",
+   "B": "FG-VUS"
+ },
+ {
+   "A": "KIS Charge",
+   "B": "FG:KIS"
+ },
+ {
+   "A": "Food Grade Container",
+   "B": "FGC"
+ },
+ {
+   "A": "FHD Handling",
+   "B": "FHD"
+ },
+ {
+   "A": "FHD charge",
+   "B": "FHDC"
+ },
+ {
+   "A": "Free House Delivery Handling Charge",
+   "B": "FHDH"
+ },
+ {
+   "A": "Free In/Free Out",
+   "B": "FIO"
+ },
+ {
+   "A": "Flexitank Surcharge",
+   "B": "FLEX"
+ },
+ {
+   "A": "FLIP FEE",
+   "B": "FLIP"
+ },
+ {
+   "A": "Floating Pier Charge",
+   "B": "FLPC"
+ },
+ {
+   "A": "FMC Filing Fee",
+   "B": "FMCF"
+ },
+ {
+   "A": "FOB",
+   "B": "FOB"
+ },
+ {
+   "A": "Food Grade Container Surcharge",
+   "B": "FOOD"
+ },
+ {
+   "A": "Forklift Charge",
+   "B": "FORK"
+ },
+ {
+   "A": "Foreign Surcharge",
+   "B": "FORS"
+ },
+ {
+   "A": "Food Quality Surcharge",
+   "B": "FQS"
+ },
+ {
+   "A": "Flat rack",
+   "B": "FR"
+ },
+ {
+   "A": "Fiscal Representation Add-on",
+   "B": "FRAO"
+ },
+ {
+   "A": "Freight Bureau Surcharge, Origin",
+   "B": "FRBO"
+ },
+ {
+   "A": "Freight Bureau Surcharge, Dest.",
+   "B": "FRBS"
+ },
+ {
+   "A": "Fuel Recovery Charge",
+   "B": "FRC"
+ },
+ {
+   "A": "Freight Collect Charge (C.C.Fee)",
+   "B": "FRCC"
+ },
+ {
+   "A": "FUEL RECOVERY S",
+   "B": "FRCH"
+ },
+ {
+   "A": "Fuel Recovery Surcharge",
+   "B": "FRCI"
+ },
+ {
+   "A": "Freight Forwarders Compensation",
+   "B": "FRCM"
+ },
+ {
+   "A": "Free In - Origin",
+   "B": "FREI"
+ },
+ {
+   "A": "Free Out - Destination",
+   "B": "FREO"
+ },
+ {
+   "A": "Free in loading, stowage and lashing",
+   "B": "FRI"
+ },
+ {
+   "A": "Free in loading, stowage and lashing",
+   "B": "FRII"
+ },
+ {
+   "A": "Free In Service",
+   "B": "FRIS"
+ },
+ {
+   "A": "Free Out - Destination",
+   "B": "FRO"
+ },
+ {
+   "A": "Free Out Service",
+   "B": "FROS"
+ },
+ {
+   "A": "Flat Rack Surcharge",
+   "B": "FRS"
+ },
+ {
+   "A": "Freight Tax",
+   "B": "FRT"
+ },
+ {
+   "A": "Forwarding Charge",
+   "B": "FRWC"
+ },
+ {
+   "A": "FSC",
+   "B": "FSC"
+ },
+ {
+   "A": "Fuel Surcharge Destination Land",
+   "B": "FSD"
+ },
+ {
+   "A": "FSO Charge",
+   "B": "FSO"
+ },
+ {
+   "A": "Forestry",
+   "B": "FST"
+ },
+ {
+   "A": "Freight Tax Service Export",
+   "B": "FTE"
+ },
+ {
+   "A": "Forklift and Terminal Handling",
+   "B": "FTH"
+ },
+ {
+   "A": "Freight Tax Service Import",
+   "B": "FTI"
+ },
+ {
+   "A": "Fuel Surcharge",
+   "B": "FUEL"
+ },
+ {
+   "A": "Fumigation Fee",
+   "B": "FUM"
+ },
+ {
+   "A": "Fish & Wildlife",
+   "B": "FWA"
+ },
+ {
+   "A": "Fairway Dues",
+   "B": "FWD"
+ },
+ {
+   "A": "G4 Spanish Tax",
+   "B": "G4SP"
+ },
+ {
+   "A": "Garment Surcharge",
+   "B": "GAR"
+ },
+ {
+   "A": "Gate Charge",
+   "B": "GATE"
+ },
+ {
+   "A": "Gate In Charge",
+   "B": "GATI"
+ },
+ {
+   "A": "Late Gate Fee",
+   "B": "GATL"
+ },
+ {
+   "A": "Gate Out Charge",
+   "B": "GATO"
+ },
+ {
+   "A": "Garment Container Surcharge",
+   "B": "GC"
+ },
+ {
+   "A": "General Cost Recovery",
+   "B": "GCR"
+ },
+ {
+   "A": "Genset Charge",
+   "B": "GEN"
+ },
+ {
+   "A": "Genset Charge, Destination",
+   "B": "GEND"
+ },
+ {
+   "A": "Genset Charge, Origin",
+   "B": "GENO"
+ },
+ {
+   "A": "General Excise Tax",
+   "B": "GEXT"
+ },
+ {
+   "A": "Green Fuel Surcharge",
+   "B": "GFS"
+ },
+ {
+   "A": "GATEWAY INFRASTRUCTURE FEE",
+   "B": "GINF"
+ },
+ {
+   "A": "Garment on Hanger Surcharge",
+   "B": "GOH"
+ },
+ {
+   "A": "GOH",
+   "B": "GOH1"
+ },
+ {
+   "A": "Double Bar, Garment on Hanger Charge",
+   "B": "GOHD"
+ },
+ {
+   "A": "Single Bar, Garment on Hanger Charge",
+   "B": "GOHS"
+ },
+ {
+   "A": "Triple Bar, Garment on Hanger Charge",
+   "B": "GOHT"
+ },
+ {
+   "A": "Government Inspection Fee",
+   "B": "GOV"
+ },
+ {
+   "A": "GOVERNMENT AGENCY CERTIFICATION",
+   "B": "GOVC"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR10"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR11"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR12"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR13"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR14"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR15"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR16"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR17"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR18"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR19"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GR20"
+ },
+ {
+   "A": "General Rate Adjustment",
+   "B": "GRA"
+ },
+ {
+   "A": "General Rate Adjustment Aug 01, 2017",
+   "B": "GRA080117"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI1"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI10"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI2"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI3"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI4"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI5"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI6"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI7"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI8"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRI9"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRIA"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRIB"
+ },
+ {
+   "A": "General Rate Increase Inland",
+   "B": "GRIN"
+ },
+ {
+   "A": "General Rate Increase",
+   "B": "GRIOXX"
+ },
+ {
+   "A": "Local Destination Ground",
+   "B": "GROUNDD"
+ },
+ {
+   "A": "Local Origin Ground",
+   "B": "GROUNDO"
+ },
+ {
+   "A": "General Rate Restoration",
+   "B": "GRR"
+ },
+ {
+   "A": "General Rate Restoration Jan 01 2012",
+   "B": "GRR010112"
+ },
+ {
+   "A": "General Rate Restoration Feb 01, 2012",
+   "B": "GRR020112"
+ },
+ {
+   "A": "General Rate Restoration Mar 15, 2012",
+   "B": "GRR031512"
+ },
+ {
+   "A": "General Rate Restoration Apr 01, 2012",
+   "B": "GRR040112"
+ },
+ {
+   "A": "General Rate Restoration Apr 15, 2012",
+   "B": "GRR041512"
+ },
+ {
+   "A": "General Rate Restoration Aug 06, 2012",
+   "B": "GRR080612"
+ },
+ {
+   "A": "General Rate Restoration Aug 10, 2012",
+   "B": "GRR081012"
+ },
+ {
+   "A": "General Rate Restoration Aug 15, 2012",
+   "B": "GRR081512"
+ },
+ {
+   "A": "General Service Compensation",
+   "B": "GSC"
+ },
+ {
+   "A": "GST Outlay Service Fee",
+   "B": "GSTO"
+ },
+ {
+   "A": "Goods and Service Tax",
+   "B": "GSVT"
+ },
+ {
+   "A": "Gate Fee - Destination",
+   "B": "GTD"
+ },
+ {
+   "A": "Government and Port Tax Export",
+   "B": "GTE"
+ },
+ {
+   "A": "Government and Port Tax Import",
+   "B": "GTI"
+ },
+ {
+   "A": "Gate Fee - Origin",
+   "B": "GTO"
+ },
+ {
+   "A": "Global Volume Incentive",
+   "B": "GVI"
+ },
+ {
+   "A": "Gross Weight Manual Charge",
+   "B": "GWM"
+ },
+ {
+   "A": "Handling Charge - Destination",
+   "B": "HACD"
+ },
+ {
+   "A": "Haifa/Ashdod Differential",
+   "B": "HAD"
+ },
+ {
+   "A": "ALAMEDA CORRIDOR CHARGE (HALM)",
+   "B": "HALM"
+ },
+ {
+   "A": "ADVANCE MANIFEST SECURITY FEE (HAMC)",
+   "B": "HAMC"
+ },
+ {
+   "A": "ADVANCED MANIFEST SECURITY FEE PREPAID",
+   "B": "HAMCP"
+ },
+ {
+   "A": "JAPAN ADVANCED MANIFEST",
+   "B": "HAMJ"
+ },
+ {
+   "A": "Handling Breakbulk at Destination",
+   "B": "HANB"
+ },
+ {
+   "A": "Handling Charge for CIQ",
+   "B": "HANC"
+ },
+ {
+   "A": "Handling Fee",
+   "B": "HAND"
+ },
+ {
+   "A": "Handling Charge - Origin",
+   "B": "HANO"
+ },
+ {
+   "A": "ALAMEDA CORRIDOR CHARGE DEST",
+   "B": "HAPAG-ALD"
+ },
+ {
+   "A": "ALAMEDA CORRIDOR CHARGE ORIGIN",
+   "B": "HAPAG-ALO"
+ },
+ {
+   "A": "AIRFREIGHT PARTICIP. CHARGE",
+   "B": "HAPAG-APC"
+ },
+ {
+   "A": "AGRIC. QUARANT.INSPECTION INLD.",
+   "B": "HAPAG-AQI"
+ },
+ {
+   "A": "ADDITIONAL ON RECEPTION CHARGE",
+   "B": "HAPAG-ARC"
+ },
+ {
+   "A": "ARRIMO CHARGE DESTINATION",
+   "B": "HAPAG-ARD"
+ },
+ {
+   "A": "ADDL SERVICE FEE ON SEA",
+   "B": "HAPAG-ASF"
+ },
+ {
+   "A": "AD VALOREM ADDITIONAL",
+   "B": "HAPAG-AVA"
+ },
+ {
+   "A": "CARBON TAX SURCHARGE DEST.",
+   "B": "HAPAG-BCD"
+ },
+ {
+   "A": "BOOKING CANCELLATION FEE",
+   "B": "HAPAG-BCF"
+ },
+ {
+   "A": "CARBON TAX SURCHARGE ORIGIN",
+   "B": "HAPAG-BCO"
+ },
+ {
+   "A": "TANK CONTAINER ADDITIONAL DLF",
+   "B": "HAPAG-BLD"
+ },
+ {
+   "A": "TANK CONTAINER ADDITIONAL OLF",
+   "B": "HAPAG-BLO"
+ },
+ {
+   "A": "BOOKING AMENDMENT FEE",
+   "B": "HAPAG-BOO"
+ },
+ {
+   "A": "B/L SURRENDER FEE",
+   "B": "HAPAG-BSF"
+ },
+ {
+   "A": "CHASSIS ADDITIONAL DEST.",
+   "B": "HAPAG-CAD"
+ },
+ {
+   "A": "CHASSIS ADDITIONAL ORIGIN",
+   "B": "HAPAG-CAO"
+ },
+ {
+   "A": "CONTAINER DEPOSIT",
+   "B": "HAPAG-CBD"
+ },
+ {
+   "A": "CUSTOMS BOND DESTINATION",
+   "B": "HAPAG-CBO"
+ },
+ {
+   "A": "CABAF",
+   "B": "HAPAG-CBP"
+ },
+ {
+   "A": "PT.CHGE AMEND/CANCEL TRPT DEST",
+   "B": "HAPAG-CCD"
+ },
+ {
+   "A": "CUSTOMS DOCUMENTS DEST.",
+   "B": "HAPAG-CDC"
+ },
+ {
+   "A": "CUSTOMS DOCUMENTS ORIGIN",
+   "B": "HAPAG-CDO"
+ },
+ {
+   "A": "CUSTOMS DUES DESTINATION",
+   "B": "HAPAG-CDU"
+ },
+ {
+   "A": "CUSTOMS EXAMINATION ORIGIN",
+   "B": "HAPAG-CEO"
+ },
+ {
+   "A": "CUSTOMS EXAMINATION DESTINATION",
+   "B": "HAPAG-CEX"
+ },
+ {
+   "A": "COORDINATION FEE NEGATIVE",
+   "B": "HAPAG-CFN"
+ },
+ {
+   "A": "CONGESTION SURCHARGE DESTIN.",
+   "B": "HAPAG-CGD"
+ },
+ {
+   "A": "CONGESTION SURCHARGE ORIGIN",
+   "B": "HAPAG-CGO"
+ },
+ {
+   "A": "CAF ON INLAND AT DESTINATION",
+   "B": "HAPAG-CID"
+ },
+ {
+   "A": "CAF ON INLAND AT ORIGIN",
+   "B": "HAPAG-CIO"
+ },
+ {
+   "A": "CLEANING CHARGES DESTINATION",
+   "B": "HAPAG-CLC"
+ },
+ {
+   "A": "CLEANING CHARGES ORIGIN",
+   "B": "HAPAG-CLO"
+ },
+ {
+   "A": "CARGO RELEASE FEE",
+   "B": "HAPAG-CRF"
+ },
+ {
+   "A": "CUSTOMS ROLL OVER FEE",
+   "B": "HAPAG-CRO"
+ },
+ {
+   "A": "CHASSIS USAGE DESTINATION",
+   "B": "HAPAG-CUD"
+ },
+ {
+   "A": "CHASSIS USAGE ORIGIN",
+   "B": "HAPAG-CUO"
+ },
+ {
+   "A": "DEMURRAGE CHASSIS DESTINATION",
+   "B": "HAPAG-DCD"
+ },
+ {
+   "A": "DEMURRAGE CHASSIS ORIGIN",
+   "B": "HAPAG-DCO"
+ },
+ {
+   "A": "DESTINATION DOCUMENTATION FEE",
+   "B": "HAPAG-DDF"
+ },
+ {
+   "A": "DEVANNING CHARGE",
+   "B": "HAPAG-DEV"
+ },
+ {
+   "A": "D.G. SURCHARGE DEST. LAND",
+   "B": "HAPAG-DGD"
+ },
+ {
+   "A": "D.G. SURCHARGE POL",
+   "B": "HAPAG-DGL"
+ },
+ {
+   "A": "D.G. SURCHARGE ORIGIN LAND",
+   "B": "HAPAG-DGO"
+ },
+ {
+   "A": "DG SURCHARGE POD OR T/S PORT",
+   "B": "HAPAG-DGX"
+ },
+ {
+   "A": "DEMURRAGE INLAND DESTINATION",
+   "B": "HAPAG-DID"
+ },
+ {
+   "A": "DEMURRAGE INLAND ORIGIN",
+   "B": "HAPAG-DIO"
+ },
+ {
+   "A": "DISBURSEMENTS",
+   "B": "HAPAG-DIS"
+ },
+ {
+   "A": "DEMURRAGE DESTINATION",
+   "B": "HAPAG-DMD"
+ },
+ {
+   "A": "DUNNAGE MATERIAL FEE",
+   "B": "HAPAG-DMF"
+ },
+ {
+   "A": "DEMURRAGE ORIGIN",
+   "B": "HAPAG-DMO"
+ },
+ {
+   "A": "DANG.GOODS SUPERVISION DESTIN.",
+   "B": "HAPAG-DSD"
+ },
+ {
+   "A": "DANG.GOODS SUPERVISION ORIGIN",
+   "B": "HAPAG-DSO"
+ },
+ {
+   "A": "CH CONT. DETENTION DESTINATION",
+   "B": "HAPAG-DTD"
+ },
+ {
+   "A": "CH CONT. DETENTION ORIGIN",
+   "B": "HAPAG-DTO"
+ },
+ {
+   "A": "EXTRA BILLS OF LADING",
+   "B": "HAPAG-EBL"
+ },
+ {
+   "A": "EXTRA HAULAGE DESTINATION",
+   "B": "HAPAG-EHD"
+ },
+ {
+   "A": "EXTRA HAULAGE ORIGIN",
+   "B": "HAPAG-EHO"
+ },
+ {
+   "A": "EQUIPMENT MAINTENANCE FEE",
+   "B": "HAPAG-EMF"
+ },
+ {
+   "A": "ELSWHERE PAYMENT FEE ORIGIN",
+   "B": "HAPAG-EPF"
+ },
+ {
+   "A": "SPECIAL EQUIPMENT SURCHGE DLF",
+   "B": "HAPAG-ESD"
+ },
+ {
+   "A": "EQUIPMENT SUBSTITUTN.INCENTIVE",
+   "B": "HAPAG-ESI"
+ },
+ {
+   "A": "EQUIPMENT TRANSFER CHARGE DEST",
+   "B": "HAPAG-ETD"
+ },
+ {
+   "A": "EQUIPMENT TRANSFER CHARGE ORIGIN",
+   "B": "HAPAG-ETO"
+ },
+ {
+   "A": "FEEDER ADDITIONAL ORIGIN",
+   "B": "HAPAG-FAO"
+ },
+ {
+   "A": "DE-/FUMIGATION CHARGE DESTIN.",
+   "B": "HAPAG-FCD"
+ },
+ {
+   "A": "FORWARDING COMM.NON MANIFESTED",
+   "B": "HAPAG-FCN"
+ },
+ {
+   "A": "FUMIGATION CHARGE ORIGIN",
+   "B": "HAPAG-FCO"
+ },
+ {
+   "A": "FCL DELIVERED IN CHARGE DEST.",
+   "B": "HAPAG-FDD"
+ },
+ {
+   "A": "FINES F.INCORR.IMP.DECLARATION",
+   "B": "HAPAG-FIN"
+ },
+ {
+   "A": "FINES F.INCORR.EXP.DECLARATION",
+   "B": "HAPAG-FIO"
+ },
+ {
+   "A": "FITTINGS WITHIN CONTAINER",
+   "B": "HAPAG-FIT"
+ },
+ {
+   "A": "FITTINGS LINER BAGS",
+   "B": "HAPAG-FLB"
+ },
+ {
+   "A": "FUEL SURCH.ON ARBITRARY DEST.",
+   "B": "HAPAG-FUD"
+ },
+ {
+   "A": "FUEL SURCH.ON ARBITRARY ORIGIN",
+   "B": "HAPAG-FUO"
+ },
+ {
+   "A": "HIGH CUBE ADDITIONAL DLF",
+   "B": "HAPAG-HCD"
+ },
+ {
+   "A": "HIGH CUBE ADDITIONAL OLF",
+   "B": "HAPAG-HCO"
+ },
+ {
+   "A": "CRANAGE ETC.INLAND AT DESTIN.",
+   "B": "HAPAG-HFD"
+ },
+ {
+   "A": "CRANAGE ETC.INLAND AT ORIGIN",
+   "B": "HAPAG-HFO"
+ },
+ {
+   "A": "HANDLING/SECURING CHARGE",
+   "B": "HAPAG-HSC"
+ },
+ {
+   "A": "ISSUE OF ARRIVAL NOTICE",
+   "B": "HAPAG-IAN"
+ },
+ {
+   "A": "INSULATION/CARGO PROTECT. FEE",
+   "B": "HAPAG-ICP"
+ },
+ {
+   "A": "IMMEDIATE FORW. AGENT COMM.",
+   "B": "HAPAG-IFC"
+ },
+ {
+   "A": "INSPECTION FEE DESTINATION",
+   "B": "HAPAG-IFD"
+ },
+ {
+   "A": "INSPECTION FEE ORIGIN",
+   "B": "HAPAG-IFO"
+ },
+ {
+   "A": "INLAND IMBALANCE DESTINATION",
+   "B": "HAPAG-IID"
+ },
+ {
+   "A": "INLAND IMBALANCE ORIGIN",
+   "B": "HAPAG-IIO"
+ },
+ {
+   "A": "INSURANCE CHARGES",
+   "B": "HAPAG-INC"
+ },
+ {
+   "A": "INLAND TRANSPORT ADD. DEST.",
+   "B": "HAPAG-ITD"
+ },
+ {
+   "A": "KIEL CANAL CONGESTION CHARGE",
+   "B": "HAPAG-KCC"
+ },
+ {
+   "A": "LATE ARRIVAL CHARGE",
+   "B": "HAPAG-LAC"
+ },
+ {
+   "A": "LIFT ON/LIFT OFF DESTINATION",
+   "B": "HAPAG-LFD"
+ },
+ {
+   "A": "LIFT ON/LIFT OFF ORIGIN",
+   "B": "HAPAG-LFO"
+ },
+ {
+   "A": "LATE SHIPPG.INSTRUCT.SUBM.CHGE",
+   "B": "HAPAG-LSI"
+ },
+ {
+   "A": "LOW/HIGH WATER SURCHARGE DEST.",
+   "B": "HAPAG-LWD"
+ },
+ {
+   "A": "LOW/HIGH WATER SURCHARGE ORIGIN",
+   "B": "HAPAG-LWO"
+ },
+ {
+   "A": "MAILING/COURIER COSTS",
+   "B": "HAPAG-MAI"
+ },
+ {
+   "A": "MOISTURE ABSORBENT PAPER CHARG",
+   "B": "HAPAG-MAP"
+ },
+ {
+   "A": "MANUAL BOOKING FEE",
+   "B": "HAPAG-MBF"
+ },
+ {
+   "A": "MIDDLE EAST EMERGENCY SURCH.",
+   "B": "HAPAG-MES"
+ },
+ {
+   "A": "MANIFEST FEE DESTINATION",
+   "B": "HAPAG-MFD"
+ },
+ {
+   "A": "MANIFEST FEE ORIGIN",
+   "B": "HAPAG-MFO"
+ },
+ {
+   "A": "MH CONT. DETENTION ORIGIN",
+   "B": "HAPAG-MHO"
+ },
+ {
+   "A": "MLB/IPI SURCHARGE",
+   "B": "HAPAG-MIS"
+ },
+ {
+   "A": "MARKING/LABELLING CHARGE",
+   "B": "HAPAG-MLC"
+ },
+ {
+   "A": "MERCHANT SUPPL. CONT. PREMIUM",
+   "B": "HAPAG-MSC"
+ },
+ {
+   "A": "DOCUMENTATION FEE-VAT RELATED",
+   "B": "HAPAG-MTJ"
+ },
+ {
+   "A": "NAVIS RELEASE DESTINATION",
+   "B": "HAPAG-NRD"
+ },
+ {
+   "A": "NAVIS RELEASE ORIGIN",
+   "B": "HAPAG-NRO"
+ },
+ {
+   "A": "NON STANDARD LIFT CHARGE",
+   "B": "HAPAG-NSL"
+ },
+ {
+   "A": "OVERWEIGHT ADDITIONAL ON DLF",
+   "B": "HAPAG-OAD"
+ },
+ {
+   "A": "OVERWEIGHT ADDITIONAL ON OLF",
+   "B": "HAPAG-OAO"
+ },
+ {
+   "A": "ON-CARRIAGE CONGESTION SURCH.",
+   "B": "HAPAG-OCS"
+ },
+ {
+   "A": "OVERHEIGHT ADDITIONAL",
+   "B": "HAPAG-OHA"
+ },
+ {
+   "A": "OPTION CHARGE",
+   "B": "HAPAG-OPC"
+ },
+ {
+   "A": "POLLUTION SURCHARGE ONCARRIAGE",
+   "B": "HAPAG-OPS"
+ },
+ {
+   "A": "OVERWIDTH ADDITIONAL SEA",
+   "B": "HAPAG-OWA"
+ },
+ {
+   "A": "OVERWEIGHT FINE DESTINATION",
+   "B": "HAPAG-OWD"
+ },
+ {
+   "A": "PREPARING DELIVERY ORDER",
+   "B": "HAPAG-PDO"
+ },
+ {
+   "A": "PORT IMPROVEMENT CHARGE DEST.",
+   "B": "HAPAG-PID"
+ },
+ {
+   "A": "PANAMA CANAL LOCK IMPROVEMENT",
+   "B": "HAPAG-PLI"
+ },
+ {
+   "A": "PACIFIC NORTH WEST ADDL. DEST.",
+   "B": "HAPAG-PND"
+ },
+ {
+   "A": "PACIFIC NORTH WEST ADDL. ORIGIN",
+   "B": "HAPAG-PNO"
+ },
+ {
+   "A": "REPOSITIONING -DESTINATION-",
+   "B": "HAPAG-POD"
+ },
+ {
+   "A": "PORT TAX/ADMIN.CHARGES ORIGIN",
+   "B": "HAPAG-POE"
+ },
+ {
+   "A": "POSITIONING -ORIGIN-",
+   "B": "HAPAG-POO"
+ },
+ {
+   "A": "PORT TAX/ADMIN.CHARGES DESTIN.",
+   "B": "HAPAG-POS"
+ },
+ {
+   "A": "PROVISION OF POWER DURING DLF",
+   "B": "HAPAG-PSD"
+ },
+ {
+   "A": "PROVISION OF POWER DURING OLF",
+   "B": "HAPAG-PSO"
+ },
+ {
+   "A": "REEFER CONN/ELECTRICITY DEST.",
+   "B": "HAPAG-RCD"
+ },
+ {
+   "A": "REPACKING CONTAINER",
+   "B": "HAPAG-REC"
+ },
+ {
+   "A": "RECOVERY EQUIPM.DAMAGES DEST.",
+   "B": "HAPAG-RED"
+ },
+ {
+   "A": "REEFER PREMIUM SEA",
+   "B": "HAPAG-RES"
+ },
+ {
+   "A": "RECEIVING, HANDLING, DELIVERY",
+   "B": "HAPAG-RHD"
+ },
+ {
+   "A": "RECEIVING, HANDLING, DELIVERY",
+   "B": "HAPAG-RHO"
+ },
+ {
+   "A": "EQUIPMENT INSPECTION FEE",
+   "B": "HAPAG-RLB"
+ },
+ {
+   "A": "REEFER MONITORING AT DESTINAT.",
+   "B": "HAPAG-RMD"
+ },
+ {
+   "A": "REEFER MONITORING AT ORIGIN",
+   "B": "HAPAG-RMO"
+ },
+ {
+   "A": "RIVER PLATE TOLL",
+   "B": "HAPAG-RPT"
+ },
+ {
+   "A": "REEFER PREMIUM ON THC DEST.",
+   "B": "HAPAG-RTD"
+ },
+ {
+   "A": "REEFER PREMIUM ON THC ORIGIN",
+   "B": "HAPAG-RTO"
+ },
+ {
+   "A": "SEALING CHARGE AT DESTINATION",
+   "B": "HAPAG-SCD"
+ },
+ {
+   "A": "SECURITY CHARGE DENMARK DESTN.",
+   "B": "HAPAG-SDD"
+ },
+ {
+   "A": "SECURITY CHARGE DENMARK ORIGIN",
+   "B": "HAPAG-SDO"
+ },
+ {
+   "A": "DEFERRED HL-REBATE",
+   "B": "HAPAG-SDR"
+ },
+ {
+   "A": "SHIPPER EXPT.DECL.HANDLING FEE",
+   "B": "HAPAG-SED"
+ },
+ {
+   "A": "SECURITY GUARD ORIGIN",
+   "B": "HAPAG-SGO"
+ },
+ {
+   "A": "SUPPL.TERM.HANDL.CHARGE DEST.",
+   "B": "HAPAG-SHD"
+ },
+ {
+   "A": "SUPPL.TERM.HANDL.CHARGE ORIGIN",
+   "B": "HAPAG-SHO"
+ },
+ {
+   "A": "SLOT CHARTER FEE",
+   "B": "HAPAG-SLT"
+ },
+ {
+   "A": "SECURITY MANIFEST CORRECT.FEE",
+   "B": "HAPAG-SMC"
+ },
+ {
+   "A": "LOCAL SUPPLEMENTARY CHRG.DEST.",
+   "B": "HAPAG-SPD"
+ },
+ {
+   "A": "LOCAL SUPPLEMENTARY CHRG. ORIGIN",
+   "B": "HAPAG-SPO"
+ },
+ {
+   "A": "STORAGE DESTINATION",
+   "B": "HAPAG-STD"
+ },
+ {
+   "A": "STORAGE ORIGIN",
+   "B": "HAPAG-STO"
+ },
+ {
+   "A": "STRIPPING CHARGE",
+   "B": "HAPAG-STR"
+ },
+ {
+   "A": "TARPAULIN HIRE",
+   "B": "HAPAG-TAR"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE DEST.",
+   "B": "HAPAG-THD"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE ORIGIN",
+   "B": "HAPAG-THO"
+ },
+ {
+   "A": "TOLL FEE ORIGIN",
+   "B": "HAPAG-TLO"
+ },
+ {
+   "A": "THC ORIGIN DIFFERENTIAL",
+   "B": "HAPAG-TMC"
+ },
+ {
+   "A": "THC DESTINATION DIFFERENTIAL",
+   "B": "HAPAG-TMD"
+ },
+ {
+   "A": "TERMINAL MOVE ORIGIN",
+   "B": "HAPAG-TMO"
+ },
+ {
+   "A": "TOP OFF CHARGE ORIGIN",
+   "B": "HAPAG-TOO"
+ },
+ {
+   "A": "TRAILER HIRE DESTINATION",
+   "B": "HAPAG-TRD"
+ },
+ {
+   "A": "TERMINAL SECURITY CHARGE DEST.",
+   "B": "HAPAG-TSD"
+ },
+ {
+   "A": "TERMINAL SECURITY CHARGE ORIGIN",
+   "B": "HAPAG-TSO"
+ },
+ {
+   "A": "TERMINAL/TERMINAL TRANSFER ADD",
+   "B": "HAPAG-TTT"
+ },
+ {
+   "A": "TAX IMPORT",
+   "B": "HAPAG-TXI"
+ },
+ {
+   "A": "TAX EXPORT",
+   "B": "HAPAG-TXP"
+ },
+ {
+   "A": "VESSEL ADJUSTMENT CHARGE",
+   "B": "HAPAG-VAC"
+ },
+ {
+   "A": "VALUE ADDED SURCHARGE DESTIN.",
+   "B": "HAPAG-VAD"
+ },
+ {
+   "A": "VALUE ADDED SURCHARGE ORIGIN",
+   "B": "HAPAG-VAO"
+ },
+ {
+   "A": "VOLUME INCENTIVE DISCOUNT",
+   "B": "HAPAG-VID"
+ },
+ {
+   "A": "VETERINARY/PHYTOSANITARY INSP.",
+   "B": "HAPAG-VPI"
+ },
+ {
+   "A": "VESSEL UTILIZATION SURCHARGE",
+   "B": "HAPAG-VUS"
+ },
+ {
+   "A": "WAITING CHARGES DESTINATION",
+   "B": "HAPAG-WAD"
+ },
+ {
+   "A": "WAITING CHARGES ORIGIN",
+   "B": "HAPAG-WAO"
+ },
+ {
+   "A": "WEIGHING CHARGES DESTINATION",
+   "B": "HAPAG-WHD"
+ },
+ {
+   "A": "WEIGHING CHARGES ORIGIN",
+   "B": "HAPAG-WHO"
+ },
+ {
+   "A": "WORK INTERRUPTION SURCH. DEST.",
+   "B": "HAPAG-WID"
+ },
+ {
+   "A": "WORK INTERRUPTION SURCH. DEST.",
+   "B": "HAPAG-WJO"
+ },
+ {
+   "A": "WINTER SURCHARGE ON DLF",
+   "B": "HAPAG-WSD"
+ },
+ {
+   "A": "WINTER SURCHARGE ON OLF",
+   "B": "HAPAG-WSO"
+ },
+ {
+   "A": "WINTER SURCHARGE",
+   "B": "HAPAG-WSU"
+ },
+ {
+   "A": "XMY Surcharge",
+   "B": "HAPAG-XMY"
+ },
+ {
+   "A": "XNG Surcharge",
+   "B": "HAPAG-XNG"
+ },
+ {
+   "A": "XNK charge",
+   "B": "HAPAG-XNK"
+ },
+ {
+   "A": "XNM Surcharge",
+   "B": "HAPAG-XNM"
+ },
+ {
+   "A": "XNO Surcharge",
+   "B": "HAPAG-XNO"
+ },
+ {
+   "A": "XNW charge",
+   "B": "HAPAG-XNW"
+ },
+ {
+   "A": "XNY Surcharge",
+   "B": "HAPAG-XNY"
+ },
+ {
+   "A": "XRD Surcharge",
+   "B": "HAPAG-XRD"
+ },
+ {
+   "A": "Harbor Dues",
+   "B": "HARB"
+ },
+ {
+   "A": "ARBITRARY CHARGE (HARBS)",
+   "B": "HARBS"
+ },
+ {
+   "A": "Haiti Surcharge",
+   "B": "HAS"
+ },
+ {
+   "A": "Hazardous Charge",
+   "B": "HAZ"
+ },
+ {
+   "A": "30 Haz lines and over per container",
+   "B": "HAZ30"
+ },
+ {
+   "A": "Hazardous add-on",
+   "B": "HAZADD"
+ },
+ {
+   "A": "Hazardous Rail-Truck Charge",
+   "B": "HAZC"
+ },
+ {
+   "A": "Hazardous Charge Destination",
+   "B": "HAZD"
+ },
+ {
+   "A": "Hazardous Goods Supervision",
+   "B": "HAZGS"
+ },
+ {
+   "A": "Hazardous Inland Charge",
+   "B": "HAZI"
+ },
+ {
+   "A": "Haz Motor/Truck Surcharge",
+   "B": "HAZM"
+ },
+ {
+   "A": "Haz Rail Surcharge",
+   "B": "HAZR"
+ },
+ {
+   "A": "BUNKER ADJUSTMENT FACTOR (HBAF)",
+   "B": "HBAF"
+ },
+ {
+   "A": "Hazardous Booking Conversion Charge",
+   "B": "HBKG"
+ },
+ {
+   "A": "House Transport Document Charge",
+   "B": "HBL"
+ },
+ {
+   "A": "Hazardous Bill of Lading",
+   "B": "HBLL"
+ },
+ {
+   "A": "High Cube Additional SEA",
+   "B": "HCA"
+ },
+ {
+   "A": "CURRENCY ADJUSTMENT FACTOR (HCAF)",
+   "B": "HCAF"
+ },
+ {
+   "A": "HANDLING CHARGE - CUSTOMS DECLARATION ",
+   "B": "HCCD"
+ },
+ {
+   "A": "CFS CHARGE (HCFS)",
+   "B": "HCFS"
+ },
+ {
+   "A": "HAZ CFS CHARGES",
+   "B": "HCFSC"
+ },
+ {
+   "A": "CHASSIS USAGE CHARGE (HCHA)",
+   "B": "HCHA"
+ },
+ {
+   "A": "EQUIPMENT IMBALANCE CHARGE (HCIC)",
+   "B": "HCIC"
+ },
+ {
+   "A": "Hand Carry License Process",
+   "B": "HCL"
+ },
+ {
+   "A": "Container Security Seal (HCSL)",
+   "B": "HCSL"
+ },
+ {
+   "A": "CONTAINER SECURITY CHARGE (HCSS)",
+   "B": "HCSS"
+ },
+ {
+   "A": "CUSTOMS CLEARANCE FEE (HCUS)",
+   "B": "HCUS"
+ },
+ {
+   "A": "Import Handling Charge",
+   "B": "HDC"
+ },
+ {
+   "A": "DANGEROUS CARGO SURCHARGE (HDCS)",
+   "B": "HDCS"
+ },
+ {
+   "A": "DESTINATION DELIVERY CHARGE (HDDC)",
+   "B": "HDDC"
+ },
+ {
+   "A": "Canadian Handling Charge at Origin",
+   "B": "HDL"
+ },
+ {
+   "A": "Hazardous Cargo Documentation",
+   "B": "HDOC"
+ },
+ {
+   "A": "Hazardous DTHC",
+   "B": "HDTC"
+ },
+ {
+   "A": "Heavy Lift Charge",
+   "B": "HEAV"
+ },
+ {
+   "A": "EMERGENCY BUNKER SURCHARGE (HEBS)",
+   "B": "HEBS"
+ },
+ {
+   "A": "Garments on Hangers Service",
+   "B": "HEC"
+ },
+ {
+   "A": "Head Load",
+   "B": "HEDL"
+ },
+ {
+   "A": "EMERGENCY REVENUE CHARGE (HERC)",
+   "B": "HERC"
+ },
+ {
+   "A": "EXPORT HANDLING FEE (HESC)",
+   "B": "HESC"
+ },
+ {
+   "A": "ENTRY SUMMARY DECLARATION, EU (HESD)",
+   "B": "HESD"
+ },
+ {
+   "A": "FUEL SURCHARGE, INLAND (HFUE)",
+   "B": "HFUE"
+ },
+ {
+   "A": "Honduras Government Trk Charge",
+   "B": "HGC"
+ },
+ {
+   "A": "GOH PREMIUM (HGOH)",
+   "B": "HGOH"
+ },
+ {
+   "A": "Honduras Gamma Ray",
+   "B": "HGR"
+ },
+ {
+   "A": "Household Goods Surcharge",
+   "B": "HGS"
+ },
+ {
+   "A": "Household Goods Add on",
+   "B": "HHG"
+ },
+ {
+   "A": "HHG Free On Truck",
+   "B": "HHGF"
+ },
+ {
+   "A": "Household Goods Surcharge, Rail",
+   "B": "HHGR"
+ },
+ {
+   "A": "Hazardous IPI Handling Charge",
+   "B": "HIH"
+ },
+ {
+   "A": "ISF FEE (HISF)",
+   "B": "HISF"
+ },
+ {
+   "A": "HLC Charge",
+   "B": "HLC"
+ },
+ {
+   "A": "Handling",
+   "B": "HLDG"
+ },
+ {
+   "A": "LIFT-ON LIFT-OFF CHARGE (HLOO)",
+   "B": "HLOO"
+ },
+ {
+   "A": "LOW SULPHUR FUEL SURCHARGE (HLSF)",
+   "B": "HLSF"
+ },
+ {
+   "A": "HAND-OVER",
+   "B": "HNDO"
+ },
+ {
+   "A": "HNS Fee",
+   "B": "HNS"
+ },
+ {
+   "A": "Handling of Collect A/F",
+   "B": "HOC"
+ },
+ {
+   "A": "Holiday Pickup/Delivery",
+   "B": "HOPD"
+ },
+ {
+   "A": "Hot Stowage Charge",
+   "B": "HOTS"
+ },
+ {
+   "A": "PANAMA CANAL SURCHARGE (HPCS)",
+   "B": "HPCS"
+ },
+ {
+   "A": "PORT CONGESTION SURCHARGE (HPGC)",
+   "B": "HPGC"
+ },
+ {
+   "A": "PIERPASS TRAFFIC MITIGATION FEE (HPIE)",
+   "B": "HPIE"
+ },
+ {
+   "A": "IMPORT PROCESS FEE, U.S. (HPRO)",
+   "B": "HPRO"
+ },
+ {
+   "A": "Honduras Port Security",
+   "B": "HPSC"
+ },
+ {
+   "A": "PEAK SEASON SURCHARGE (HPSS)",
+   "B": "HPSS"
+ },
+ {
+   "A": "TERMINAL SECURITY FEE, U.S. ORIGIN (HSBC)",
+   "B": "HSBC"
+ },
+ {
+   "A": "DESTINATION SECURITY CHARGE (HSCA)",
+   "B": "HSCA"
+ },
+ {
+   "A": "SEAL FEE (HSER)",
+   "B": "HSER"
+ },
+ {
+   "A": "Homeland Security Fee",
+   "B": "HSF"
+ },
+ {
+   "A": "HANDLING SURCHARGE ORIGIN",
+   "B": "HSO"
+ },
+ {
+   "A": "High Security Surcharge",
+   "B": "HSS"
+ },
+ {
+   "A": "SUEZ CANAL TRANSIT FEE (HSUE)",
+   "B": "HSUE"
+ },
+ {
+   "A": "Honduras Terminal Charge",
+   "B": "HTC"
+ },
+ {
+   "A": "Heat Treatment Fee",
+   "B": "HTF"
+ },
+ {
+   "A": "HAZRDOUS TERMINAL HANDLING CHARGE",
+   "B": "HTHC"
+ },
+ {
+   "A": "Hazardous THC Additional",
+   "B": "HTHCA"
+ },
+ {
+   "A": "TRUCKING ADDITIONAL (HTRU)",
+   "B": "HTRU"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE (HTXL)",
+   "B": "HTXL"
+ },
+ {
+   "A": "High Value Premium Surcharge",
+   "B": "HVP"
+ },
+ {
+   "A": "Heavy Weight Charge - 1st Tier",
+   "B": "HWC1"
+ },
+ {
+   "A": "Heavy Weight Charge - 2nd Tier",
+   "B": "HWC2"
+ },
+ {
+   "A": "WHARFAGE CHARGE (HWHF)",
+   "B": "HWHF"
+ },
+ {
+   "A": "WAR RISK SURCHARGE (HWRS)",
+   "B": "HWRS"
+ },
+ {
+   "A": "Heavy Weight Surcharge",
+   "B": "HWS"
+ },
+ {
+   "A": "YEN APPRECIATION SURCHARGE (HYEN)",
+   "B": "HYEN"
+ },
+ {
+   "A": "Hazardous Material Check Fee",
+   "B": "HZCF"
+ },
+ {
+   "A": "Hazardous Destination Inland Charge",
+   "B": "HZDI"
+ },
+ {
+   "A": "Hazardous Origin Inland Charge",
+   "B": "HZDO"
+ },
+ {
+   "A": "HAZ SURCHARGE PSA 3",
+   "B": "HZSG"
+ },
+ {
+   "A": "HAZ SURCHARGE PSA 3",
+   "B": "HZSP"
+ },
+ {
+   "A": "Intermodal Administrative Charge",
+   "B": "IAC"
+ },
+ {
+   "A": "In And Out Fee",
+   "B": "IAO"
+ },
+ {
+   "A": "IMPORT BREAKBULK FEES",
+   "B": "IBBF"
+ },
+ {
+   "A": "In Bond Fee",
+   "B": "IBF"
+ },
+ {
+   "A": "Import Customs Clearance",
+   "B": "ICCL"
+ },
+ {
+   "A": "Inlands Campaign Destination",
+   "B": "ICD"
+ },
+ {
+   "A": "ICD Add-On Surcharge 1",
+   "B": "ICDAC"
+ },
+ {
+   "A": "ICD Add-On Surcharge 2",
+   "B": "ICDAS"
+ },
+ {
+   "A": "ICD Additional Charge",
+   "B": "ICDC"
+ },
+ {
+   "A": "INLAND COST FROM DST GTWY TO DST APC",
+   "B": "ICDD"
+ },
+ {
+   "A": "Icing Fee - Destination",
+   "B": "ICED"
+ },
+ {
+   "A": "Icing Fee - Origin",
+   "B": "ICEO"
+ },
+ {
+   "A": "IT Cancellation Fee",
+   "B": "ICF"
+ },
+ {
+   "A": "Import Control System Filing Fee",
+   "B": "ICFF"
+ },
+ {
+   "A": "Import Clearance + Fiscal Representation",
+   "B": "ICFR"
+ },
+ {
+   "A": "Inspection Charge - NON Customs",
+   "B": "ICNC"
+ },
+ {
+   "A": "INLAND COST FROM ORG APC TO ORG GTWY (USD)",
+   "B": "ICOO"
+ },
+ {
+   "A": "Immediate Congestion Surcharge",
+   "B": "ICS"
+ },
+ {
+   "A": "Inland CSF Release Fee",
+   "B": "ICSF"
+ },
+ {
+   "A": "Import Cargo Tracking Note (Waiver)",
+   "B": "ICTN"
+ },
+ {
+   "A": "Import Declaration Charge ",
+   "B": "IDC"
+ },
+ {
+   "A": "Import Doc. Fee",
+   "B": "IDOC"
+ },
+ {
+   "A": "INTERMODAL DOOR DELIVERY SURCHARGE AT DESTINATION",
+   "B": "IDSD"
+ },
+ {
+   "A": "Inspection Empty Containers",
+   "B": "IEC"
+ },
+ {
+   "A": "Indonesia Electronic Customs Fee",
+   "B": "IECF"
+ },
+ {
+   "A": "India Education Cess Surcharge",
+   "B": "IECS"
+ },
+ {
+   "A": "IPI Emergency Recovery Charge",
+   "B": "IERC"
+ },
+ {
+   "A": "Interim Fuel Assessment",
+   "B": "IFA"
+ },
+ {
+   "A": "Icing Fee",
+   "B": "IFEE"
+ },
+ {
+   "A": "Intervention (if fully handled by ANR)",
+   "B": "IFH"
+ },
+ {
+   "A": "INSPECTION FEES - OTHER  - ORIGIN",
+   "B": "IFOO"
+ },
+ {
+   "A": "Interim Fuel Participation Charge",
+   "B": "IFP"
+ },
+ {
+   "A": "Interim Fuel Surcharge",
+   "B": "IFS"
+ },
+ {
+   "A": "IFS Surcharge",
+   "B": "IFSS"
+ },
+ {
+   "A": "In-gauge Cargo",
+   "B": "IGC"
+ },
+ {
+   "A": "Inland Haulage Cost",
+   "B": "IHC"
+ },
+ {
+   "A": "Inland Haulage Charge - Loading Port",
+   "B": "IHCL"
+ },
+ {
+   "A": "Inland Haulage Export",
+   "B": "IHE"
+ },
+ {
+   "A": "Inland Haulage Import",
+   "B": "IHI"
+ },
+ {
+   "A": "Import Intermodal Fuel Fee",
+   "B": "IIFF"
+ },
+ {
+   "A": "Import Intermodal Fuel Fee",
+   "B": "IIFS"
+ },
+ {
+   "A": "Iranian Insurance Surcharges",
+   "B": "IIS"
+ },
+ {
+   "A": "Import Contribution Fee",
+   "B": "IMCF"
+ },
+ {
+   "A": "IMCO Surcharge",
+   "B": "IMCOS"
+ },
+ {
+   "A": "Intermodal Fuel",
+   "B": "IMF"
+ },
+ {
+   "A": "Intermodal Fuel Surcharge",
+   "B": "IMFS"
+ },
+ {
+   "A": "IMO CHARGE",
+   "B": "IMO"
+ },
+ {
+   "A": "Import Process Fee",
+   "B": "IMP"
+ },
+ {
+   "A": "Import Service",
+   "B": "IMPS"
+ },
+ {
+   "A": "Import Service - Prepaid",
+   "B": "IMPSP"
+ },
+ {
+   "A": "Intermodal Surcharge",
+   "B": "IMS"
+ },
+ {
+   "A": "Import Surcharge Fee",
+   "B": "IMSF"
+ },
+ {
+   "A": "In Transit Bond Fee",
+   "B": "INBC"
+ },
+ {
+   "A": "In Bond Cancellation Fee",
+   "B": "INCC"
+ },
+ {
+   "A": "Inland Congestion Surcharge",
+   "B": "INCN"
+ },
+ {
+   "A": "International Security Port Surcharge",
+   "B": "INCPS"
+ },
+ {
+   "A": "Input Document Fee",
+   "B": "INDF"
+ },
+ {
+   "A": "Inland Fuel Surcharge",
+   "B": "INF"
+ },
+ {
+   "A": "INBOND PTT FILING FEE",
+   "B": "INFF"
+ },
+ {
+   "A": "Inland Fuel Surcharge at Origin",
+   "B": "INFO"
+ },
+ {
+   "A": "Infrastructure Surcharge",
+   "B": "INFR"
+ },
+ {
+   "A": "Information Services",
+   "B": "INFS"
+ },
+ {
+   "A": "Inland Haulage Export",
+   "B": "INHE"
+ },
+ {
+   "A": "Inland Haulage Import",
+   "B": "INHI"
+ },
+ {
+   "A": "Intermodal Insurance Charge",
+   "B": "ININ"
+ },
+ {
+   "A": "Inland Charge",
+   "B": "INLS"
+ },
+ {
+   "A": "IN/OUT Charge",
+   "B": "INN"
+ },
+ {
+   "A": "Inland On-Carriage",
+   "B": "INOC"
+ },
+ {
+   "A": "Inside Pickup/Delivery",
+   "B": "INPD"
+ },
+ {
+   "A": "Inland Recovery Charge",
+   "B": "INRC"
+ },
+ {
+   "A": "Infrastructure Surcharge (Dest)",
+   "B": "INRD"
+ },
+ {
+   "A": "Infrastructure Surcharge (Orig)",
+   "B": "INRL"
+ },
+ {
+   "A": "Insurance",
+   "B": "INS"
+ },
+ {
+   "A": "Invasive Species Charge",
+   "B": "INSC"
+ },
+ {
+   "A": "Insurance",
+   "B": "INSE"
+ },
+ {
+   "A": "Inspection Charge",
+   "B": "INSP"
+ },
+ {
+   "A": "Inspection Fee - Destination",
+   "B": "INSPD"
+ },
+ {
+   "A": "Inspection Fee - Origin",
+   "B": "INSPO"
+ },
+ {
+   "A": "International Ship And Port Security",
+   "B": "INSPS"
+ },
+ {
+   "A": "International Cargo Tracking Note",
+   "B": "INTC"
+ },
+ {
+   "A": "Interline",
+   "B": "INTER"
+ },
+ {
+   "A": "International Freight",
+   "B": "INTFEE"
+ },
+ {
+   "A": "Intervention",
+   "B": "INTV"
+ },
+ {
+   "A": "Invoice Charge",
+   "B": "INVC"
+ },
+ {
+   "A": "Inland Overweight Charge (15-18 tons)",
+   "B": "IOC-15-18"
+ },
+ {
+   "A": "Inland Overweight Charge (18-21 tons)",
+   "B": "IOC-18-21"
+ },
+ {
+   "A": "Inland Overweight Charge (18-22 tons)",
+   "B": "IOC-18-22"
+ },
+ {
+   "A": "Inland Overweight Charge (21-24 tons)",
+   "B": "IOC-21-24"
+ },
+ {
+   "A": "Inland Overweight Charge (22-25 tons)",
+   "B": "IOC-22-25"
+ },
+ {
+   "A": "Inland Overweight Charge (23.5-25.5 tons)",
+   "B": "IOC-23.5-25.5"
+ },
+ {
+   "A": "Inland Overweight Charge (24-25.5 tons)",
+   "B": "IOC-24-25.5"
+ },
+ {
+   "A": "IMPORT PACKING FEES",
+   "B": "IPF"
+ },
+ {
+   "A": "IPI FUEL SURCHARGE",
+   "B": "IPFS"
+ },
+ {
+   "A": "IPI Premium",
+   "B": "IPIC"
+ },
+ {
+   "A": "IPI Surcharge",
+   "B": "IPIS"
+ },
+ {
+   "A": "IRC",
+   "B": "IRC"
+ },
+ {
+   "A": "Immediate Rebate (negative nr)",
+   "B": "IRE"
+ },
+ {
+   "A": "IMPORT RELEASE FEE",
+   "B": "IRF"
+ },
+ {
+   "A": "ISA Fee",
+   "B": "ISAF"
+ },
+ {
+   "A": "Import Service Charge",
+   "B": "ISC"
+ },
+ {
+   "A": "ISF Surcharge",
+   "B": "ISF"
+ },
+ {
+   "A": "ISPD Charge",
+   "B": "ISPD"
+ },
+ {
+   "A": "ISPL Charge - Loading Port",
+   "B": "ISPL"
+ },
+ {
+   "A": "ISPS Charge",
+   "B": "ISPS"
+ },
+ {
+   "A": "Security Surcharge Line And Terminal",
+   "B": "ISPST"
+ },
+ {
+   "A": "Inland Service Tax",
+   "B": "ISRT"
+ },
+ {
+   "A": "ISSP",
+   "B": "ISSP"
+ },
+ {
+   "A": "India Service Tax",
+   "B": "IST"
+ },
+ {
+   "A": "Import Tax",
+   "B": "ITAX"
+ },
+ {
+   "A": "T & E Fee Close",
+   "B": "ITC"
+ },
+ {
+   "A": "Immediate Transportation Fee",
+   "B": "ITF"
+ },
+ {
+   "A": "IT Fee",
+   "B": "ITFE"
+ },
+ {
+   "A": "T & E Fee Open",
+   "B": "ITO"
+ },
+ {
+   "A": "India Service Tax Reimbursement",
+   "B": "ITR"
+ },
+ {
+   "A": "Import Terminal Service Fee",
+   "B": "ITSF"
+ },
+ {
+   "A": "In transit charge",
+   "B": "ITT"
+ },
+ {
+   "A": "Inter Terminal Transfer Charge",
+   "B": "ITTC"
+ },
+ {
+   "A": "Japan AFR Charge",
+   "B": "JAFR"
+ },
+ {
+   "A": "JAPAN AFR SECOND ENTRY",
+   "B": "JASE"
+ },
+ {
+   "A": "JAPAN ADVANCE FILING RULES",
+   "B": "JPAM"
+ },
+ {
+   "A": "Probe Charge",
+   "B": "JTC"
+ },
+ {
+   "A": "Kiel Canal Contingency Recovery Charge",
+   "B": "KCCR"
+ },
+ {
+   "A": "Korea Inland Surcharge",
+   "B": "KIS"
+ },
+ {
+   "A": "Labour Charge",
+   "B": "LABC"
+ },
+ {
+   "A": "Labeling Fee",
+   "B": "LABL"
+ },
+ {
+   "A": "Live Animal Charge Non Kennel",
+   "B": "LACHNK"
+ },
+ {
+   "A": "Live Animal Charge Kennelled",
+   "B": "LACK"
+ },
+ {
+   "A": "Live Animal Charge Non Kennel Per Piece",
+   "B": "LACNK"
+ },
+ {
+   "A": "Late AES Administration Fee",
+   "B": "LAES"
+ },
+ {
+   "A": "Landing Surcharge",
+   "B": "LAND"
+ },
+ {
+   "A": "Landing Surcharge Prepaid",
+   "B": "LANDP"
+ },
+ {
+   "A": "Lashing Fee",
+   "B": "LASH"
+ },
+ {
+   "A": "Live Animal Transit / Vet Charge",
+   "B": "LATC"
+ },
+ {
+   "A": "Liner Bag Service",
+   "B": "LBC"
+ },
+ {
+   "A": "Late BL Payment Fee",
+   "B": "LBOL"
+ },
+ {
+   "A": "LCL CHARGES",
+   "B": "LCCH"
+ },
+ {
+   "A": "Local Delivery",
+   "B": "LCDE"
+ },
+ {
+   "A": "License Fee",
+   "B": "LCF"
+ },
+ {
+   "A": "LCL Service Charge",
+   "B": "LCL"
+ },
+ {
+   "A": "LCL Charges Destination",
+   "B": "LCLD"
+ },
+ {
+   "A": "LCL Service Charge Origin",
+   "B": "LCLO"
+ },
+ {
+   "A": "Liner Out Charge",
+   "B": "LCO"
+ },
+ {
+   "A": "Late Doc Fee",
+   "B": "LDF"
+ },
+ {
+   "A": "Late Doc Administration Fee",
+   "B": "LDOC"
+ },
+ {
+   "A": "Late Doc Submission Fee",
+   "B": "LDS"
+ },
+ {
+   "A": "Legalization",
+   "B": "LEG"
+ },
+ {
+   "A": "Levy Charge",
+   "B": "LEVY"
+ },
+ {
+   "A": "L/F Fee",
+   "B": "LF"
+ },
+ {
+   "A": "Liftgate Truck Surcharge",
+   "B": "LFGT"
+ },
+ {
+   "A": "Docs 4 Days Late After Sailing",
+   "B": "LFOUR"
+ },
+ {
+   "A": "Low Fuel Surcharge",
+   "B": "LFS"
+ },
+ {
+   "A": "LIFT GATE  - DESTINATION",
+   "B": "LGD"
+ },
+ {
+   "A": "LIFT GATE  - ORIGIN",
+   "B": "LGO"
+ },
+ {
+   "A": "Liftgate Pickup/Delivery",
+   "B": "LGPD"
+ },
+ {
+   "A": "Lift On-Lift Off Charge",
+   "B": "LIFT"
+ },
+ {
+   "A": "Lift On-Lift Off Charge Export",
+   "B": "LIFTE"
+ },
+ {
+   "A": "Lifting Fee",
+   "B": "LIFTFEE"
+ },
+ {
+   "A": "Lift On-Lift Off Charge Import",
+   "B": "LIFTI"
+ },
+ {
+   "A": "Lift Gate - Destination",
+   "B": "LIGD"
+ },
+ {
+   "A": "Lift Gate - Origin",
+   "B": "LIGO"
+ },
+ {
+   "A": "Line Haul",
+   "B": "LIHA"
+ },
+ {
+   "A": "Lining Charge",
+   "B": "LINC"
+ },
+ {
+   "A": "Liner Document Fee",
+   "B": "LINEDOC"
+ },
+ {
+   "A": "Liner In",
+   "B": "LINI"
+ },
+ {
+   "A": "Liner Out",
+   "B": "LINO"
+ },
+ {
+   "A": "Logistic Imbalance Surcharge",
+   "B": "LIS"
+ },
+ {
+   "A": "Litherage",
+   "B": "LIT"
+ },
+ {
+   "A": "Local Logistics Fee",
+   "B": "LLF"
+ },
+ {
+   "A": "Line Charge",
+   "B": "LNC"
+ },
+ {
+   "A": "Landside Charge",
+   "B": "LNDC"
+ },
+ {
+   "A": "Loading Charges",
+   "B": "LOA"
+ },
+ {
+   "A": "Loading Charge, Origin",
+   "B": "LOAO"
+ },
+ {
+   "A": "Late Pickup of OBL",
+   "B": "LOBL"
+ },
+ {
+   "A": "Letter of Credit Documentation",
+   "B": "LOC"
+ },
+ {
+   "A": "Container Loading",
+   "B": "LOD"
+ },
+ {
+   "A": "LOADING FEES",
+   "B": "LODF"
+ },
+ {
+   "A": "Logistics Fee",
+   "B": "LOF"
+ },
+ {
+   "A": "Logistics Fee - Origin",
+   "B": "LOGE"
+ },
+ {
+   "A": "Logistics Fee - Destination",
+   "B": "LOGI"
+ },
+ {
+   "A": "Logistics Management Fee ",
+   "B": "LOGM"
+ },
+ {
+   "A": "Lift On Lift Off (LOLO)",
+   "B": "LOLO"
+ },
+ {
+   "A": "Load On Truck Charge",
+   "B": "LOTC"
+ },
+ {
+   "A": "Lowboy truck",
+   "B": "LOWBOY"
+ },
+ {
+   "A": "Low Water Surcharge",
+   "B": "LOWC"
+ },
+ {
+   "A": "Local Pickup",
+   "B": "LPU"
+ },
+ {
+   "A": "Local Pickup",
+   "B": "LPU1"
+ },
+ {
+   "A": "Local Pickup Truck Fee",
+   "B": "LPUT"
+ },
+ {
+   "A": "Liner removal at Destination",
+   "B": "LRD"
+ },
+ {
+   "A": "Liquor, Spirits, Alcohol surcharge",
+   "B": "LSA"
+ },
+ {
+   "A": "Low Sulphur Fuel Surcharge",
+   "B": "LSF"
+ },
+ {
+   "A": "Low Sulphur Fuel Surcharge",
+   "B": "LSF1"
+ },
+ {
+   "A": "LSFS Charge",
+   "B": "LSFS"
+ },
+ {
+   "A": "Late Shipping Instruction Fee",
+   "B": "LSIN"
+ },
+ {
+   "A": "Low Sulphur Surcharge",
+   "B": "LSS"
+ },
+ {
+   "A": "Local Trucking Charge",
+   "B": "LTC"
+ },
+ {
+   "A": "LOADING THC",
+   "B": "LTHC"
+ },
+ {
+   "A": "Lab Test Submittal Fees",
+   "B": "LTSF"
+ },
+ {
+   "A": "Low Water Additional",
+   "B": "LWA"
+ },
+ {
+   "A": "Low Water Surcharge",
+   "B": "LWS"
+ },
+ {
+   "A": "Low Sulfur Surcharge",
+   "B": "LWSS"
+ },
+ {
+   "A": "Market Adjustment Factor",
+   "B": "MAF"
+ },
+ {
+   "A": "Market Adjustment Factor 2",
+   "B": "MAF2"
+ },
+ {
+   "A": "MAG Fee",
+   "B": "MAG"
+ },
+ {
+   "A": "Manifest Fee (Origin)",
+   "B": "MANE"
+ },
+ {
+   "A": "Manifest Fee",
+   "B": "MANF"
+ },
+ {
+   "A": "Management Fee ",
+   "B": "MANG"
+ },
+ {
+   "A": "Manifest Fee (Destination)",
+   "B": "MANI"
+ },
+ {
+   "A": "MANPOWER CHARGE",
+   "B": "MANP"
+ },
+ {
+   "A": "Marpol Surcharge",
+   "B": "MAR"
+ },
+ {
+   "A": "Maritime Security Levy",
+   "B": "MASL"
+ },
+ {
+   "A": "MAUT",
+   "B": "MAUT"
+ },
+ {
+   "A": "Maximum Charge",
+   "B": "MAX"
+ },
+ {
+   "A": "Manual Booking Amendment Fee",
+   "B": "MBPA"
+ },
+ {
+   "A": "MANUAL BOOKING PROCESSING FEE",
+   "B": "MBPF"
+ },
+ {
+   "A": "MANIFEST CORRECTIONS - AFTER FILING",
+   "B": "MCAF"
+ },
+ {
+   "A": "Maputo Channel Charge",
+   "B": "MCC"
+ },
+ {
+   "A": "Advance Manifest Correction Fee",
+   "B": "MCOR"
+ },
+ {
+   "A": "Motorcycle Surcharge",
+   "B": "MCS"
+ },
+ {
+   "A": "Mis-Declaration Charge",
+   "B": "MDC"
+ },
+ {
+   "A": "Manifest Documentation Charge",
+   "B": "MDCC"
+ },
+ {
+   "A": "Manual Documentation Processing Fee",
+   "B": "MDF"
+ },
+ {
+   "A": "Manual Documentation Fee",
+   "B": "MDOC"
+ },
+ {
+   "A": "Mechanical Diagnostic Review Surcharge",
+   "B": "MDRC"
+ },
+ {
+   "A": "Measurement Surcharge",
+   "B": "MEAS"
+ },
+ {
+   "A": "MERCHANT HAULAGE Export",
+   "B": "MERE"
+ },
+ {
+   "A": "MERCHANT HAULAGE",
+   "B": "MERH"
+ },
+ {
+   "A": "MERCHANT HAULAGE Import",
+   "B": "MERI"
+ },
+ {
+   "A": "MFA",
+   "B": "MFA"
+ },
+ {
+   "A": "Cargo Management Fee",
+   "B": "MGE"
+ },
+ {
+   "A": "MHD Surcharge",
+   "B": "MHD"
+ },
+ {
+   "A": "Merchant Haulage",
+   "B": "MHH"
+ },
+ {
+   "A": "Minimum Charge",
+   "B": "MIN"
+ },
+ {
+   "A": "MISC Charge",
+   "B": "MISC"
+ },
+ {
+   "A": "Manifest key-in Fee",
+   "B": "MKIF"
+ },
+ {
+   "A": "ML STANDARD BAF",
+   "B": "MLSB"
+ },
+ {
+   "A": "Mexican Manifest Fee",
+   "B": "MMS"
+ },
+ {
+   "A": "Maritime Organization Surcharge",
+   "B": "MOSR"
+ },
+ {
+   "A": "Manipulation Fee",
+   "B": "MPF"
+ },
+ {
+   "A": "Maintenance & Repair",
+   "B": "MRE"
+ },
+ {
+   "A": "Movement Reference Number",
+   "B": "MRN"
+ },
+ {
+   "A": "Marine Security Levy",
+   "B": "MRSL"
+ },
+ {
+   "A": "Merchant Supply Container Premium ",
+   "B": "MSCP"
+ },
+ {
+   "A": "Messenger Fee",
+   "B": "MSF"
+ },
+ {
+   "A": "MANUAL SI PROCESSING FEE",
+   "B": "MSPF"
+ },
+ {
+   "A": "MTD Surcharge",
+   "B": "MTD"
+ },
+ {
+   "A": "Manifest Transmission Fee",
+   "B": "MTRN"
+ },
+ {
+   "A": "Mandatory User Charges",
+   "B": "MUCH"
+ },
+ {
+   "A": "Multiple Stops",
+   "B": "MUST"
+ },
+ {
+   "A": "Municipal Tax",
+   "B": "MUT"
+ },
+ {
+   "A": "Markup to XP",
+   "B": "MUXP"
+ },
+ {
+   "A": "New Airport Destination Fee",
+   "B": "NADF"
+ },
+ {
+   "A": "NAVCAN",
+   "B": "NAVCAN"
+ },
+ {
+   "A": "New BAF",
+   "B": "NBAF"
+ },
+ {
+   "A": "New Bunker Charge",
+   "B": "NBC"
+ },
+ {
+   "A": "North China Container Surcharge",
+   "B": "NCCS"
+ },
+ {
+   "A": "Nassau Container Port Fee",
+   "B": "NCPF"
+ },
+ {
+   "A": "Non Direct Routing (if applicable)",
+   "B": "NDR"
+ },
+ {
+   "A": "North Europe Outport ECA",
+   "B": "NEO"
+ },
+ {
+   "A": "NES Fee",
+   "B": "NES"
+ },
+ {
+   "A": "Nicaragua Gamma Ray",
+   "B": "NGR"
+ },
+ {
+   "A": "NIETA",
+   "B": "NIETA"
+ },
+ {
+   "A": "No ITN Fee",
+   "B": "NIF"
+ },
+ {
+   "A": "National Maritime Safety Authority Surcharge",
+   "B": "NMSA"
+ },
+ {
+   "A": "Non-Bonded",
+   "B": "NOB"
+ },
+ {
+   "A": "New Ocean Freight Level",
+   "B": "NOFL"
+ },
+ {
+   "A": "Nomination Fee - Heavy Payload Containers",
+   "B": "NOM"
+ },
+ {
+   "A": "NOR",
+   "B": "NORS"
+ },
+ {
+   "A": "Non Stackable Surcharge",
+   "B": "NOSS"
+ },
+ {
+   "A": "Nitrogen Oxide Surcharge",
+   "B": "NOX"
+ },
+ {
+   "A": "Nitrogen Oxide Surcharge (Freight Class)",
+   "B": "NOXF"
+ },
+ {
+   "A": "Nigeria Port Tax",
+   "B": "NPT"
+ },
+ {
+   "A": "No Show Fee",
+   "B": "NSF"
+ },
+ {
+   "A": "Nhava Sheva Operational Surcharge",
+   "B": "NSOS"
+ },
+ {
+   "A": "North Atlantic Port Secure",
+   "B": "NSSO"
+ },
+ {
+   "A": "Norwegian Toll Charge",
+   "B": "NTC"
+ },
+ {
+   "A": "New Vehicle/VIP Vehicle Surcharge",
+   "B": "NVVS"
+ },
+ {
+   "A": "Outport Arbitrary Charge",
+   "B": "OAC"
+ },
+ {
+   "A": "AES/SED Filing Fee",
+   "B": "OAES"
+ },
+ {
+   "A": "Outlay Admin Fee",
+   "B": "OAF"
+ },
+ {
+   "A": "Origin Airline Handling",
+   "B": "OAH"
+ },
+ {
+   "A": "Agility/Security (C-TPAT) Fee",
+   "B": "OASEC"
+ },
+ {
+   "A": "Origin Airport Terminal Charge",
+   "B": "OATC"
+ },
+ {
+   "A": "Bank draft",
+   "B": "OBNK"
+ },
+ {
+   "A": "On Carriage at Destination",
+   "B": "OCAD"
+ },
+ {
+   "A": "Origin Currency Adjustment Factor PC",
+   "B": "OCAF"
+ },
+ {
+   "A": "Capatazia at Origin",
+   "B": "OCAP"
+ },
+ {
+   "A": "Origin Container Cleaning",
+   "B": "OCC"
+ },
+ {
+   "A": "Customs Due",
+   "B": "OCD"
+ },
+ {
+   "A": "Origin Cargo Data Declaration",
+   "B": "OCDD"
+ },
+ {
+   "A": "ORIGN CROSS DOCKING FEES",
+   "B": "OCDF"
+ },
+ {
+   "A": "Origin CFS Charge",
+   "B": "OCFS"
+ },
+ {
+   "A": "Origin Certificate Charge",
+   "B": "OCG"
+ },
+ {
+   "A": "ORIGIN CHARGES II",
+   "B": "OCHD"
+ },
+ {
+   "A": "Origin Charges",
+   "B": "OCHG"
+ },
+ {
+   "A": "Origin Customs Interface Fee",
+   "B": "OCIF"
+ },
+ {
+   "A": "Ocean Freight",
+   "B": "OCN"
+ },
+ {
+   "A": "COD Fee - (per $ 100 value)",
+   "B": "OCOD"
+ },
+ {
+   "A": "Commercial invoice preparation",
+   "B": "OCOI"
+ },
+ {
+   "A": "Communication (phone/fax/postage, etc.)",
+   "B": "OCOM"
+ },
+ {
+   "A": "Certificate of origin",
+   "B": "OCOO"
+ },
+ {
+   "A": "OPERATIONAL COST RECOVERY",
+   "B": "OCR"
+ },
+ {
+   "A": "Operation Cost Recovery - Dest.",
+   "B": "OCRD"
+ },
+ {
+   "A": "Operation Cost Recovery - Origin",
+   "B": "OCRO"
+ },
+ {
+   "A": "Operation Cost Recovery Surcharge",
+   "B": "OCRS"
+ },
+ {
+   "A": "Container Service Charge at Origin",
+   "B": "OCSC"
+ },
+ {
+   "A": "Carrier Security Charge - Origin",
+   "B": "OCSE"
+ },
+ {
+   "A": "Customs invoice preparation",
+   "B": "OCUI"
+ },
+ {
+   "A": "Customs validation (Carnet, T&E, TIB etc.)",
+   "B": "OCUS"
+ },
+ {
+   "A": "Authority Intervention Origin",
+   "B": "OCUSTO"
+ },
+ {
+   "A": "Over Dimension Fee",
+   "B": "ODF"
+ },
+ {
+   "A": "Domestic Courier Fee",
+   "B": "ODMESS"
+ },
+ {
+   "A": "Origin Doc Fee",
+   "B": "ODOC"
+ },
+ {
+   "A": "ODOC (Collect at Destination)",
+   "B": "ODOCC"
+ },
+ {
+   "A": "ORIGIN DOOR PICKUP",
+   "B": "ODPK"
+ },
+ {
+   "A": "Origin Emergency Bunker Adjustment Factor",
+   "B": "OEBAF"
+ },
+ {
+   "A": "ORG-Exp Clearance",
+   "B": "OEC"
+ },
+ {
+   "A": "Ocean Freight Additional",
+   "B": "OFA"
+ },
+ {
+   "A": "OFF DOCK SURCHARGE",
+   "B": "OFDS"
+ },
+ {
+   "A": "Forwarding Fee",
+   "B": "OFF"
+ },
+ {
+   "A": "Origin Doc Fee Feeder",
+   "B": "OFOC"
+ },
+ {
+   "A": "OFR",
+   "B": "OFR"
+ },
+ {
+   "A": "Ocean Freight Tax",
+   "B": "OFT"
+ },
+ {
+   "A": "Origin Fuel",
+   "B": "OFUEL"
+ },
+ {
+   "A": "Overlength Surcharge",
+   "B": "OGF"
+ },
+ {
+   "A": "Cooling Service - Origin",
+   "B": "OGS"
+ },
+ {
+   "A": "Hazmat/DGR handling",
+   "B": "OHAZ"
+ },
+ {
+   "A": "OHC",
+   "B": "OHC"
+ },
+ {
+   "A": "Handling - AWB",
+   "B": "OHDL"
+ },
+ {
+   "A": "Over Height Charge",
+   "B": "OHT"
+ },
+ {
+   "A": "Origin Inland Fuel Surcharge Adjustment Factor",
+   "B": "OIFA"
+ },
+ {
+   "A": "Origin Inland Fuel Surcharge",
+   "B": "OIFS"
+ },
+ {
+   "A": "International Courier Fee",
+   "B": "OIMESS"
+ },
+ {
+   "A": "Origin Inland",
+   "B": "OIN"
+ },
+ {
+   "A": "Origin Inspection",
+   "B": "OINS"
+ },
+ {
+   "A": "Origin ISPS Charge",
+   "B": "OISPS"
+ },
+ {
+   "A": "Legalization handling (excl. outlays)",
+   "B": "OLEG"
+ },
+ {
+   "A": "Origin Land Freight",
+   "B": "OLF"
+ },
+ {
+   "A": "Over Length Charge",
+   "B": "OLGT"
+ },
+ {
+   "A": "Origin Linehaul",
+   "B": "OLIN"
+ },
+ {
+   "A": "Letter of Credit Handling - Banking Required",
+   "B": "OLOC"
+ },
+ {
+   "A": "Letter of Credit Handling - No Banking Required",
+   "B": "OLOCN"
+ },
+ {
+   "A": "Origin Lift On / Lift Off",
+   "B": "OLOLO"
+ },
+ {
+   "A": "On Carriage Charge",
+   "B": "ONC"
+ },
+ {
+   "A": "Overnight Charge",
+   "B": "ONC1"
+ },
+ {
+   "A": "On carriage",
+   "B": "ONCA"
+ },
+ {
+   "A": "Origin NAV CAN Fee",
+   "B": "ONCF"
+ },
+ {
+   "A": "Oncarriage",
+   "B": "ONE"
+ },
+ {
+   "A": "On Carriage Peak Surcharge",
+   "B": "ONPS"
+ },
+ {
+   "A": "Origin Other Charges",
+   "B": "OOCH"
+ },
+ {
+   "A": "Origin (Overseas) Charges",
+   "B": "OOCHG"
+ },
+ {
+   "A": "Out of gauge Charge",
+   "B": "OOG"
+ },
+ {
+   "A": "Arbitrary - Origin",
+   "B": "OPA"
+ },
+ {
+   "A": "Operations Additional",
+   "B": "OPER"
+ },
+ {
+   "A": "ORIGIN PORT FEES",
+   "B": "OPF"
+ },
+ {
+   "A": "Origin PSA",
+   "B": "OPSA"
+ },
+ {
+   "A": "Origin Port Security Charge",
+   "B": "OPSC"
+ },
+ {
+   "A": "Origin Pickup Fee",
+   "B": "OPUF"
+ },
+ {
+   "A": "Origin Airline Handling Charge",
+   "B": "ORAHC"
+ },
+ {
+   "A": "Origin Receiving Charge",
+   "B": "ORC"
+ },
+ {
+   "A": "ORIGIN HANDLING CHARGE",
+   "B": "ORHC"
+ },
+ {
+   "A": "ORS charge",
+   "B": "ORS"
+ },
+ {
+   "A": "Origin Security Surcharge",
+   "B": "OSCC"
+ },
+ {
+   "A": "Origin Screening",
+   "B": "OSCR"
+ },
+ {
+   "A": "Origin Terminal Security Charge",
+   "B": "OSEC"
+ },
+ {
+   "A": "Special messenger",
+   "B": "OSMESS"
+ },
+ {
+   "A": "Origin Stuffing Charge",
+   "B": "OSTF"
+ },
+ {
+   "A": "Origin Transfer Charges",
+   "B": "OTC"
+ },
+ {
+   "A": "Origin Terminal Handling Charge",
+   "B": "OTHC"
+ },
+ {
+   "A": "OTHC (Collect at Destination)",
+   "B": "OTHCC"
+ },
+ {
+   "A": "Other",
+   "B": "OTHER"
+ },
+ {
+   "A": "Other Charge BL",
+   "B": "OTHER_BL"
+ },
+ {
+   "A": "Origin Transport",
+   "B": "OTRAN"
+ },
+ {
+   "A": "Origin Terminal Receiving Charge",
+   "B": "OTRC"
+ },
+ {
+   "A": "Open Top Surcharge",
+   "B": "OTS"
+ },
+ {
+   "A": "ORG-Uti Handling",
+   "B": "OUH"
+ },
+ {
+   "A": "Overseas Documentation Fee",
+   "B": "OVDF"
+ },
+ {
+   "A": "Overtime Fee",
+   "B": "OVTF"
+ },
+ {
+   "A": "OVERWEIGHT SURCHARGE",
+   "B": "OWHS"
+ },
+ {
+   "A": "Over Width Charge",
+   "B": "OWID"
+ },
+ {
+   "A": "On Wheel Surcharge",
+   "B": "OWS"
+ },
+ {
+   "A": "Over Weight Charge",
+   "B": "OWT"
+ },
+ {
+   "A": "Port Authority Charge",
+   "B": "PAC"
+ },
+ {
+   "A": "Packing",
+   "B": "PACK"
+ },
+ {
+   "A": "Packing Fee - Destination",
+   "B": "PACKD"
+ },
+ {
+   "A": "Packing Fee - Origin",
+   "B": "PACKO"
+ },
+ {
+   "A": "Destination Port Additionals",
+   "B": "PAD"
+ },
+ {
+   "A": "Permit Declaration Fee",
+   "B": "PADF"
+ },
+ {
+   "A": "Port Additionals / Port Dues Export",
+   "B": "PAE"
+ },
+ {
+   "A": "PALLET EXCHANGE",
+   "B": "PAEX"
+ },
+ {
+   "A": "Port Additionals / Port Dues Import",
+   "B": "PAI"
+ },
+ {
+   "A": "Port Additionals / Port Dues Import - Prepaid",
+   "B": "PAIP"
+ },
+ {
+   "A": "PAN Charge",
+   "B": "PAN"
+ },
+ {
+   "A": "Postage And Petties",
+   "B": "PAP"
+ },
+ {
+   "A": "Port Authority Surcharge",
+   "B": "PAUT"
+ },
+ {
+   "A": "Pre-Cooling Charge",
+   "B": "PCC"
+ },
+ {
+   "A": "PCCI Processing",
+   "B": "PCCI"
+ },
+ {
+   "A": "PORT CONSTRUCTION FEE",
+   "B": "PCF"
+ },
+ {
+   "A": "PACKAGING",
+   "B": "PCKG"
+ },
+ {
+   "A": "Port charges without maneuvers",
+   "B": "PCMN"
+ },
+ {
+   "A": "Origin Inland/Feeder surcharge",
+   "B": "PCO"
+ },
+ {
+   "A": "Panama Canal Surcharge",
+   "B": "PCS"
+ },
+ {
+   "A": "Panama Canal Transit Supplemental Charge",
+   "B": "PCSC"
+ },
+ {
+   "A": "Panama Surcharge",
+   "B": "PCT"
+ },
+ {
+   "A": "PERCENTAGE OF FUEL SURCHARGE DESTINATION",
+   "B": "PCT-PICKD"
+ },
+ {
+   "A": "PERCENTAGE OF FUEL SURCHARGE ORIGIN",
+   "B": "PCT-PICKO"
+ },
+ {
+   "A": "Preparing Documents Fee",
+   "B": "PDF"
+ },
+ {
+   "A": "Provision of Power (DLF)",
+   "B": "PDLF"
+ },
+ {
+   "A": "Port Delay Surcharge",
+   "B": "PDS"
+ },
+ {
+   "A": "Payable Elsewhere Fee",
+   "B": "PEF"
+ },
+ {
+   "A": "PERMISSION",
+   "B": "PERM"
+ },
+ {
+   "A": "Palletization Fee - Destination",
+   "B": "PFD"
+ },
+ {
+   "A": "Port of Felixstowe Infrastructure Charge",
+   "B": "PFI"
+ },
+ {
+   "A": "Palletization Fee - Origin",
+   "B": "PFO"
+ },
+ {
+   "A": "Pharmacair Fee",
+   "B": "PHAR"
+ },
+ {
+   "A": "Inspection Fee - Export",
+   "B": "PHE"
+ },
+ {
+   "A": "GOVERNMENT AGENCY INSPECTION SERVICE",
+   "B": "PHI"
+ },
+ {
+   "A": "Pickup",
+   "B": "PIC"
+ },
+ {
+   "A": "Pick Up Charge - Destination",
+   "B": "PICKD"
+ },
+ {
+   "A": "Pick Up Charge - Origin",
+   "B": "PICKO"
+ },
+ {
+   "A": "Port Incidental Charges",
+   "B": "PICS"
+ },
+ {
+   "A": "PIER",
+   "B": "PIER"
+ },
+ {
+   "A": "Port Insurance Charge",
+   "B": "PINS"
+ },
+ {
+   "A": "Pick-Up/Drop-Off",
+   "B": "PIO"
+ },
+ {
+   "A": "Piracy Surcharge",
+   "B": "PIR"
+ },
+ {
+   "A": "Density Pivot Charge",
+   "B": "PIV"
+ },
+ {
+   "A": "Port License Fee - Destination",
+   "B": "PLD"
+ },
+ {
+   "A": "PERSONAL EFFECT FEE",
+   "B": "PLEF"
+ },
+ {
+   "A": "Port License Fee",
+   "B": "PLF"
+ },
+ {
+   "A": "Pre Leg FSC",
+   "B": "PLFSC"
+ },
+ {
+   "A": "Panama Lock Improvement Surcharge",
+   "B": "PLIS"
+ },
+ {
+   "A": "Port License Fee - Origin",
+   "B": "PLO"
+ },
+ {
+   "A": "Pre Leg SSC",
+   "B": "PLSSC"
+ },
+ {
+   "A": "PALLETISATION",
+   "B": "PLTS"
+ },
+ {
+   "A": "Palletization Fee - Destination",
+   "B": "PLTSD"
+ },
+ {
+   "A": "Palletization Fee - Origin",
+   "B": "PLTSO"
+ },
+ {
+   "A": "PMC Buildup",
+   "B": "PMCB"
+ },
+ {
+   "A": "PNS Tax",
+   "B": "PNS"
+ },
+ {
+   "A": "Port Arbitrary Fee",
+   "B": "POAF"
+ },
+ {
+   "A": "Port Additionals IMP",
+   "B": "POAI"
+ },
+ {
+   "A": "Proof of Delivery Fee",
+   "B": "POD"
+ },
+ {
+   "A": "Proof of Delivery Charge",
+   "B": "PODC"
+ },
+ {
+   "A": "Port of Discharge Handling",
+   "B": "PODH"
+ },
+ {
+   "A": "Police Escort Charge",
+   "B": "POEC"
+ },
+ {
+   "A": "Postlanding",
+   "B": "POG"
+ },
+ {
+   "A": "Port IMO Admin",
+   "B": "POIA"
+ },
+ {
+   "A": "Pollution Charge",
+   "B": "POLC"
+ },
+ {
+   "A": "Provision of Power (OLF)",
+   "B": "POLF"
+ },
+ {
+   "A": "PORTNET",
+   "B": "PONT"
+ },
+ {
+   "A": "Port Construction Charge",
+   "B": "PORG"
+ },
+ {
+   "A": "Port Service Charge",
+   "B": "PORS"
+ },
+ {
+   "A": "Port Charge",
+   "B": "PORT"
+ },
+ {
+   "A": "Port Charges with SSL",
+   "B": "PORT_SSL"
+ },
+ {
+   "A": "Port Fee - Destination",
+   "B": "PORTD"
+ },
+ {
+   "A": "Port Fee - Origin",
+   "B": "PORTO"
+ },
+ {
+   "A": "Port Storage Charges (40ft contr)",
+   "B": "POSF"
+ },
+ {
+   "A": "Port Storage Charges (20ft contr)",
+   "B": "POST"
+ },
+ {
+   "A": "Peza Processing",
+   "B": "PP"
+ },
+ {
+   "A": "Pier Pass Charge",
+   "B": "PPC"
+ },
+ {
+   "A": "Pier Pass Fee",
+   "B": "PPF"
+ },
+ {
+   "A": "Pier Pass Fee/Traffic Mitigation Fee",
+   "B": "PPFT"
+ },
+ {
+   "A": "PPP (inland)",
+   "B": "PPP"
+ },
+ {
+   "A": "Payment Protection Surcharge",
+   "B": "PPR"
+ },
+ {
+   "A": "Pakistan Port Surcharge",
+   "B": "PPS"
+ },
+ {
+   "A": "Pre-pull Service Charge",
+   "B": "PPSC"
+ },
+ {
+   "A": "PORT PROCESSING FEE",
+   "B": "PPSF"
+ },
+ {
+   "A": "PRA Fee (Pre Receival Advice)",
+   "B": "PRAF"
+ },
+ {
+   "A": "Pre-Carriage",
+   "B": "PRC"
+ },
+ {
+   "A": "Preliminary Custom Formalities",
+   "B": "PRCF"
+ },
+ {
+   "A": "Precarriage addon",
+   "B": "PRE"
+ },
+ {
+   "A": "Pre Carriage Charge",
+   "B": "PREC"
+ },
+ {
+   "A": "Pre Carriage Haulage",
+   "B": "PREH"
+ },
+ {
+   "A": "PRE-PULL",
+   "B": "PREP"
+ },
+ {
+   "A": "Pro Forma Invoice",
+   "B": "PRFO"
+ },
+ {
+   "A": "Primage",
+   "B": "PRIM"
+ },
+ {
+   "A": "Parking Fee (Vehicles)",
+   "B": "PRKG"
+ },
+ {
+   "A": "Profit Margin",
+   "B": "PRO"
+ },
+ {
+   "A": "Professional Liability Indemnity",
+   "B": "PROF"
+ },
+ {
+   "A": "Profit Share",
+   "B": "PROSHR"
+ },
+ {
+   "A": "Prior Period Rebook",
+   "B": "PRP"
+ },
+ {
+   "A": "Port Risk Surcharge",
+   "B": "PRRS"
+ },
+ {
+   "A": "Port Recovery Surcharge",
+   "B": "PRS"
+ },
+ {
+   "A": "Port Facility Charge",
+   "B": "PRTC"
+ },
+ {
+   "A": "Port Security Fee",
+   "B": "PSC"
+ },
+ {
+   "A": "Port Service Fuel Surcharge",
+   "B": "PSFS"
+ },
+ {
+   "A": "Port of Southampton Infrastructure Charge",
+   "B": "PSI"
+ },
+ {
+   "A": "Peak Season Surcharge",
+   "B": "PSS"
+ },
+ {
+   "A": "Peak Season Surcharge (2nd)",
+   "B": "PSS1"
+ },
+ {
+   "A": "2nd PSS",
+   "B": "PSS2"
+ },
+ {
+   "A": "Peak Season Surcharge 3",
+   "B": "PSS3"
+ },
+ {
+   "A": "PSS081517",
+   "B": "PSS4"
+ },
+ {
+   "A": "Port Security Service - Export",
+   "B": "PSSE"
+ },
+ {
+   "A": "Port Security Service - Import",
+   "B": "PSSI"
+ },
+ {
+   "A": "Private Shipment Verification Fee",
+   "B": "PSVF"
+ },
+ {
+   "A": "Agency Doc Fee, Origin - Per Ton",
+   "B": "PT-ADE"
+ },
+ {
+   "A": "Agency Doc Fee, Destination - Per Ton",
+   "B": "PT-ADI"
+ },
+ {
+   "A": "Algerian Stamp Origin - Per Ton",
+   "B": "PT-ASTO"
+ },
+ {
+   "A": "Customs Clearance Destination - Per Ton",
+   "B": "PT-CCD"
+ },
+ {
+   "A": "Container Cleaning Import - Per Ton",
+   "B": "PT-CCI"
+ },
+ {
+   "A": "Customs Clearance Origin - Per Ton",
+   "B": "PT-CCO"
+ },
+ {
+   "A": "CONGESTION FEE, POD - Per Ton",
+   "B": "PT-CFED"
+ },
+ {
+   "A": "CONGESTION FEE, POL - Per Ton",
+   "B": "PT-CFO"
+ },
+ {
+   "A": "Cold Treatment Service - Per Ton",
+   "B": "PT-CTS"
+ },
+ {
+   "A": "Container Service Import - Per Ton",
+   "B": "PT-CTSI"
+ },
+ {
+   "A": "Destination Certificate Charge - Per Ton",
+   "B": "PT-DCG"
+ },
+ {
+   "A": "Documentation Fee - Destination - Per Ton",
+   "B": "PT-DDF"
+ },
+ {
+   "A": "Destination Doc Fee - Per Ton",
+   "B": "PT-DDOC"
+ },
+ {
+   "A": "Documentation Fee Origin - Per Ton",
+   "B": "PT-DFOR"
+ },
+ {
+   "A": "Arbitrary - Destination - Per Ton",
+   "B": "PT-DPA"
+ },
+ {
+   "A": "Dry port Surcharge - Per Ton",
+   "B": "PT-DPS"
+ },
+ {
+   "A": "Drop Off Fee - Per Ton",
+   "B": "PT-DROP"
+ },
+ {
+   "A": "Document Stamp Tax Export - Per Ton",
+   "B": "PT-DSE"
+ },
+ {
+   "A": "Document Stamp Tax Import - Per Ton",
+   "B": "PT-DSI"
+ },
+ {
+   "A": "Destination Terminal Handling Charge - Per Ton",
+   "B": "PT-DTHC"
+ },
+ {
+   "A": "Electronic Data Interchange Fee - Per Ton",
+   "B": "PT-EDIC"
+ },
+ {
+   "A": "Export Intermodel Fuel Fee - Per Ton",
+   "B": "PT-EIFF"
+ },
+ {
+   "A": "Equipment Management Export - Per Ton",
+   "B": "PT-EME"
+ },
+ {
+   "A": "Equipment Management Import - Per Ton",
+   "B": "PT-EMI"
+ },
+ {
+   "A": "Emergency Risk Surcharge - Per Ton",
+   "B": "PT-EMRS"
+ },
+ {
+   "A": "Export Service Charge - Per Ton",
+   "B": "PT-EXP"
+ },
+ {
+   "A": "Forwarder Commission - Origin - Per Ton",
+   "B": "PT-FCMO"
+ },
+ {
+   "A": "Free In Service - Per Ton",
+   "B": "PT-FRIS"
+ },
+ {
+   "A": "Free Out Service - Per Ton",
+   "B": "PT-FROS"
+ },
+ {
+   "A": "Freight Tax Service Export - Per Ton",
+   "B": "PT-FTE"
+ },
+ {
+   "A": "Freight Tax Service Impot - Per Ton",
+   "B": "PT-FTI"
+ },
+ {
+   "A": "Government and Port Tax Export - Per Ton",
+   "B": "PT-GTE"
+ },
+ {
+   "A": "Government and Port Tax Import - Per Ton",
+   "B": "PT-GTI"
+ },
+ {
+   "A": "Inland Haulage Export - Per Ton",
+   "B": "PT-IHE"
+ },
+ {
+   "A": "Inland Haulage Import - Per Ton",
+   "B": "PT-IHI"
+ },
+ {
+   "A": "Import Intermodal Fuel Fee - Per Ton",
+   "B": "PT-IIFF"
+ },
+ {
+   "A": "Import Service - Per Ton",
+   "B": "PT-IMPS"
+ },
+ {
+   "A": "Probe Charge - Per Ton",
+   "B": "PT-JTC"
+ },
+ {
+   "A": "Low Sulphur Surcharge - Per Ton",
+   "B": "PT-LSS"
+ },
+ {
+   "A": "Origin Certificate Charge - Per Ton",
+   "B": "PT-OCG"
+ },
+ {
+   "A": "Origin Doc Fee - Per Ton",
+   "B": "PT-ODOC"
+ },
+ {
+   "A": "Arbitrary - Origin - Per Ton",
+   "B": "PT-OPA"
+ },
+ {
+   "A": "Origin Terminal Handling Charge - Per Ton",
+   "B": "PT-OTHC"
+ },
+ {
+   "A": "Port Additionals / Port Dues Export - Per Ton",
+   "B": "PT-PAE"
+ },
+ {
+   "A": "Port Additionals / Port Dues Import - Per Ton",
+   "B": "PT-PAI"
+ },
+ {
+   "A": "GOVERNMENT AGENCY INSPECTION SERVICE - PER TON",
+   "B": "PT-PHI"
+ },
+ {
+   "A": "Peak Season Surcharge - Per Ton",
+   "B": "PT-PSS"
+ },
+ {
+   "A": "Port Security Service - Export - Per Ton",
+   "B": "PT-PSSE"
+ },
+ {
+   "A": "Port Security Service - Import - Per Ton",
+   "B": "PT-PSSI"
+ },
+ {
+   "A": "Recovery For Handling - Export - Per Ton",
+   "B": "PT-RFHE"
+ },
+ {
+   "A": "Recovery For Handling - Import - Per Ton",
+   "B": "PT-RFHI"
+ },
+ {
+   "A": "Standard Bunker Adjustment Factor - Per Ton",
+   "B": "PT-SBAF"
+ },
+ {
+   "A": "Shipper-Owned Container Surcharge - Per Ton",
+   "B": "PT-SOC"
+ },
+ {
+   "A": "Shipper-Owned/Leased Equipment Fee - Per Ton",
+   "B": "PT-SOLC"
+ },
+ {
+   "A": "TERMINAL HANDLING SERVICE - DESTINATION - Per Ton",
+   "B": "PT-THSD"
+ },
+ {
+   "A": "TERMINAL HANDLING SERVICE - ORIGIN - Per Ton",
+   "B": "PT-TOHC"
+ },
+ {
+   "A": "Agency Logistics Fee Export - Per Ton",
+   "B": "PT-ULE"
+ },
+ {
+   "A": "Agency Logistics Fee Import - Per Ton",
+   "B": "PT-ULI"
+ },
+ {
+   "A": "Winter Fee - Per Ton",
+   "B": "PT-WSC"
+ },
+ {
+   "A": "Port Tax, Destination",
+   "B": "PTAX"
+ },
+ {
+   "A": "Port Access Fee-Destination",
+   "B": "PTFD"
+ },
+ {
+   "A": "Port Access Fee-Origin",
+   "B": "PTFO"
+ },
+ {
+   "A": "Priority Lift",
+   "B": "PTL"
+ },
+ {
+   "A": "Port Tax",
+   "B": "PTX"
+ },
+ {
+   "A": "Port and Government Tax Export",
+   "B": "PTXE"
+ },
+ {
+   "A": "Port and Government Tax Import",
+   "B": "PTXI"
+ },
+ {
+   "A": "Port Tax, Origin",
+   "B": "PTXO"
+ },
+ {
+   "A": "Pick Up Fee",
+   "B": "PUF"
+ },
+ {
+   "A": "PHYTOSANITAIR CERTIFICATE",
+   "B": "PYTC"
+ },
+ {
+   "A": "Quarantine Charge",
+   "B": "QUAR"
+ },
+ {
+   "A": "Quay Charge, Destination",
+   "B": "QYC"
+ },
+ {
+   "A": "Reefer Atmosphere Control Transport Charge",
+   "B": "RACC"
+ },
+ {
+   "A": "Rate Adjustment Factor",
+   "B": "RAF"
+ },
+ {
+   "A": "Rail Additional",
+   "B": "RAL"
+ },
+ {
+   "A": "Rail Charge at Destination",
+   "B": "RALD"
+ },
+ {
+   "A": "Rail Charge at Origin",
+   "B": "RALO"
+ },
+ {
+   "A": "Reefer Add-on",
+   "B": "RAO"
+ },
+ {
+   "A": "Regulated Agent Security Charge (RA)",
+   "B": "RASC"
+ },
+ {
+   "A": "RAIL YARD STORAGE",
+   "B": "RAYS"
+ },
+ {
+   "A": "Reefer Cabling Surcharge",
+   "B": "RCB"
+ },
+ {
+   "A": "RECOVERY CHARGES / CONCESSION CHARGES",
+   "B": "RCCC"
+ },
+ {
+   "A": "R.C. Fee",
+   "B": "RCF"
+ },
+ {
+   "A": "Reefer Container Insurance Charge",
+   "B": "RCIN"
+ },
+ {
+   "A": "Reefer Container Monitoring Charge",
+   "B": "RCMC"
+ },
+ {
+   "A": "Recargo para Cargas No Estibables",
+   "B": "RCNE"
+ },
+ {
+   "A": "Reception Charges (non-palletized)",
+   "B": "RCNP"
+ },
+ {
+   "A": "Reefer Consumption Surcharge",
+   "B": "RCNS"
+ },
+ {
+   "A": "Reefer Consumption",
+   "B": "RCO"
+ },
+ {
+   "A": "Reception Charges (palletized)",
+   "B": "RCP"
+ },
+ {
+   "A": "Reefer Construction Surcharge",
+   "B": "RCS"
+ },
+ {
+   "A": "River Dues and Duties",
+   "B": "RDDS"
+ },
+ {
+   "A": "RDU Surcharge",
+   "B": "RDU"
+ },
+ {
+   "A": "Restricted Article Fee",
+   "B": "REAF"
+ },
+ {
+   "A": "REBATE",
+   "B": "REBA"
+ },
+ {
+   "A": "Recovery Tax",
+   "B": "RECT"
+ },
+ {
+   "A": "REEFER",
+   "B": "REF"
+ },
+ {
+   "A": "Reefer Surcharge",
+   "B": "REFS"
+ },
+ {
+   "A": "REGISTRATION FEE",
+   "B": "REGF"
+ },
+ {
+   "A": "RE-ICING FEE",
+   "B": "REIF"
+ },
+ {
+   "A": "Release Fee",
+   "B": "RELF"
+ },
+ {
+   "A": "Removal Fee",
+   "B": "REMF"
+ },
+ {
+   "A": "Repositioning Charge",
+   "B": "REP"
+ },
+ {
+   "A": "Residential Pickup/Delivery",
+   "B": "REPD"
+ },
+ {
+   "A": "Repack",
+   "B": "REPK"
+ },
+ {
+   "A": "Rail Fuel Recovery",
+   "B": "RFC"
+ },
+ {
+   "A": "Recovery For Handling - Export",
+   "B": "RFHE"
+ },
+ {
+   "A": "Recovery For Handling - Import",
+   "B": "RFHI"
+ },
+ {
+   "A": "RFI Surcharge",
+   "B": "RFI"
+ },
+ {
+   "A": "Reefer Container Facilitation Fee",
+   "B": "RFRC"
+ },
+ {
+   "A": "Reefer Maintenance Charge",
+   "B": "RFRM"
+ },
+ {
+   "A": "Reefer Premium on OTHC",
+   "B": "RFRO"
+ },
+ {
+   "A": "Reefer Premium on DTHC",
+   "B": "RFRP"
+ },
+ {
+   "A": "Reefer Terminal Surcharge",
+   "B": "RFRS"
+ },
+ {
+   "A": "Reefer Fuel Surcharge",
+   "B": "RFS"
+ },
+ {
+   "A": "Reforwarding ",
+   "B": "RFWD"
+ },
+ {
+   "A": "REEFER GENSET USAGE CHARGE",
+   "B": "RGUC"
+ },
+ {
+   "A": "ROCARS Handling Charges",
+   "B": "RHCH"
+ },
+ {
+   "A": "Recovery Handling - Origin",
+   "B": "RHE"
+ },
+ {
+   "A": "Recovery Handling - Destination",
+   "B": "RHI"
+ },
+ {
+   "A": "Container Re-Handling Charge",
+   "B": "RHND"
+ },
+ {
+   "A": "RE-ISSUED BL FEE (ORIGINAL BL)",
+   "B": "RIBF"
+ },
+ {
+   "A": "Re-Icing Fee - Destination",
+   "B": "RICED"
+ },
+ {
+   "A": "Re-Icing Fee - Origin",
+   "B": "RICEO"
+ },
+ {
+   "A": "Recovery of Imports Handling",
+   "B": "RIH"
+ },
+ {
+   "A": "Reefer Inland Charge",
+   "B": "RINC"
+ },
+ {
+   "A": "RE-ICING IN TRANSIT",
+   "B": "RIT"
+ },
+ {
+   "A": "Carriers Haulage: Rail/Motor Charge",
+   "B": "RMC"
+ },
+ {
+   "A": "Redevance Maritime Mali",
+   "B": "RMMA"
+ },
+ {
+   "A": "Road Guarantee",
+   "B": "ROG"
+ },
+ {
+   "A": "Container Roll Admin Fee",
+   "B": "ROLL"
+ },
+ {
+   "A": "River Plate Charge",
+   "B": "RPC"
+ },
+ {
+   "A": "River Plate Charge - Destination",
+   "B": "RPCD"
+ },
+ {
+   "A": "River Plate Charge - Origin",
+   "B": "RPCO"
+ },
+ {
+   "A": "Reefer Plug Charge",
+   "B": "RPHC"
+ },
+ {
+   "A": "RE-POSITIONING OF EMPTY",
+   "B": "RPOE"
+ },
+ {
+   "A": "REEFER PTI SURCHARGE",
+   "B": "RPS"
+ },
+ {
+   "A": "Rate Restoration",
+   "B": "RR"
+ },
+ {
+   "A": "Carriers Haulage: Rail/Ramp Charge",
+   "B": "RRC"
+ },
+ {
+   "A": "RRC SPAIN",
+   "B": "RRCS"
+ },
+ {
+   "A": "Rate Restoration Initiative",
+   "B": "RRI"
+ },
+ {
+   "A": "Rate Restoration Initiative Jan 01, 2012",
+   "B": "RRI010112"
+ },
+ {
+   "A": "Rate Restoration Initiative Feb 01, 2012",
+   "B": "RRI020112"
+ },
+ {
+   "A": "Rate Restoration Initiative Mar 15, 2012",
+   "B": "RRI031512"
+ },
+ {
+   "A": "Rate Restoration Initiative Apr 27, 2012",
+   "B": "RRI042712"
+ },
+ {
+   "A": "Rate Restoration Initiative Sep 01, 2012",
+   "B": "RRI090112"
+ },
+ {
+   "A": "Rate Restoration Initiative Sep 01, 2014",
+   "B": "RRI09012014"
+ },
+ {
+   "A": "Rate Restoration Initiative #10",
+   "B": "RRI10"
+ },
+ {
+   "A": "Rate Restoration Initiative Oct 01, 2012",
+   "B": "RRI100112"
+ },
+ {
+   "A": "Rate Restoration Initiative #11",
+   "B": "RRI11"
+ },
+ {
+   "A": "Rate Restoration Initiative Dec 16, 2011",
+   "B": "RRI121611"
+ },
+ {
+   "A": "Rate Restoration Initiative #2",
+   "B": "RRI2"
+ },
+ {
+   "A": "Rate Restoration Initiative #2 Mar 15, 2012",
+   "B": "RRI2031512"
+ },
+ {
+   "A": "Rate Restoration Initiative #2 Aug 19, 2012",
+   "B": "RRI2081912"
+ },
+ {
+   "A": "Rate Restoration Initiative #3",
+   "B": "RRI3"
+ },
+ {
+   "A": "Rate Restoration Initiative #3 Apr 15, 2012",
+   "B": "RRI3041512"
+ },
+ {
+   "A": "Rate Restoration Initiative #4",
+   "B": "RRI4"
+ },
+ {
+   "A": "Rate Restoration Initiative #5",
+   "B": "RRI5"
+ },
+ {
+   "A": "Rate Restoration Initiative #6",
+   "B": "RRI6"
+ },
+ {
+   "A": "Rate Restoration Initiative #7",
+   "B": "RRI7"
+ },
+ {
+   "A": "Rate Restoration Initiative #8",
+   "B": "RRI8"
+ },
+ {
+   "A": "Rate Restoration Initiative #9",
+   "B": "RRI9"
+ },
+ {
+   "A": "Rate Restoration Initiative - All",
+   "B": "RRIOXX"
+ },
+ {
+   "A": "Rate Adjustment",
+   "B": "RRR"
+ },
+ {
+   "A": "Rush Rate Surcharge",
+   "B": "RRS"
+ },
+ {
+   "A": "Resealing Charge",
+   "B": "RSC"
+ },
+ {
+   "A": "Risk Insurance Surcharge",
+   "B": "RSK"
+ },
+ {
+   "A": "Remuneration For Shippers Own",
+   "B": "RSO"
+ },
+ {
+   "A": "RIVER TOLL CHARGE",
+   "B": "RTC"
+ },
+ {
+   "A": "River Plate Toll Fee",
+   "B": "RTF"
+ },
+ {
+   "A": "River Plate Toll Surcharge",
+   "B": "RTFS"
+ },
+ {
+   "A": "River Surcharge",
+   "B": "RVRC"
+ },
+ {
+   "A": "Request for Weighting of Cargo",
+   "B": "RWOC"
+ },
+ {
+   "A": "RAIL WEIGHT SURCHARGE",
+   "B": "RWT"
+ },
+ {
+   "A": "SAD Fee",
+   "B": "SAD"
+ },
+ {
+   "A": "SANITARY DECLARATION",
+   "B": "SADC"
+ },
+ {
+   "A": "SOLAS Administration Fee",
+   "B": "SAF"
+ },
+ {
+   "A": "Shipping Agent Handling Fee",
+   "B": "SAH"
+ },
+ {
+   "A": "SANITARY FEE",
+   "B": "SANF"
+ },
+ {
+   "A": "South Africa Port Additional",
+   "B": "SAP"
+ },
+ {
+   "A": "Saturday Pickup/Delivery",
+   "B": "SAPD"
+ },
+ {
+   "A": "Saturday PM Delivery Charge",
+   "B": "SAT"
+ },
+ {
+   "A": "Standard Bunker Adjustment Factor",
+   "B": "SBAF"
+ },
+ {
+   "A": "Supplementary Bunker Charge",
+   "B": "SBC"
+ },
+ {
+   "A": "SHIPS BAG FEE",
+   "B": "SBF"
+ },
+ {
+   "A": "CFS Security Fee",
+   "B": "SCA"
+ },
+ {
+   "A": "Security Compliance Administration Fee",
+   "B": "SCAF"
+ },
+ {
+   "A": "Scanning Surcharge",
+   "B": "SCAN"
+ },
+ {
+   "A": "Service Container Charge",
+   "B": "SCC"
+ },
+ {
+   "A": "SEC Fee",
+   "B": "SCEC"
+ },
+ {
+   "A": "Surcharge Collection Fee",
+   "B": "SCF"
+ },
+ {
+   "A": "Sniffer Testing Charge",
+   "B": "SCKC"
+ },
+ {
+   "A": "Security Compliance Management Charge",
+   "B": "SCMC"
+ },
+ {
+   "A": "Scanning Charge",
+   "B": "SCNC"
+ },
+ {
+   "A": "SCANNER",
+   "B": "SCNR"
+ },
+ {
+   "A": "Screening Fee",
+   "B": "SCRE"
+ },
+ {
+   "A": "Suez Canal Surcharge",
+   "B": "SCS"
+ },
+ {
+   "A": "Export Declaration Charge (SDC)",
+   "B": "SDC"
+ },
+ {
+   "A": "Seaway Bill",
+   "B": "SEA"
+ },
+ {
+   "A": "SEA CORP BL FEE",
+   "B": "SEACORP-BLF"
+ },
+ {
+   "A": "Sealing charges & associated svc export, Carrier",
+   "B": "SEAE"
+ },
+ {
+   "A": "Sealing charges & associated svc import, Carrier",
+   "B": "SEAI"
+ },
+ {
+   "A": "Seal Check Charge",
+   "B": "SEAL"
+ },
+ {
+   "A": "Single Entry Bond",
+   "B": "SEB"
+ },
+ {
+   "A": "Special Envirotainer BB Handling",
+   "B": "SEBH"
+ },
+ {
+   "A": "SEC",
+   "B": "SEC"
+ },
+ {
+   "A": "SEAL INSPECTION CHARGE",
+   "B": "SEIC"
+ },
+ {
+   "A": "Seal Security Charge",
+   "B": "SEL"
+ },
+ {
+   "A": "Sensitive Cargo Contribution Charge",
+   "B": "SENC"
+ },
+ {
+   "A": "Special Equipment Premium",
+   "B": "SEP"
+ },
+ {
+   "A": "Special Equipment Premium Oncarriage",
+   "B": "SEPO"
+ },
+ {
+   "A": "Special Equipment Premium Precarriage",
+   "B": "SEPP"
+ },
+ {
+   "A": "Open Top surcharge (in gauge)",
+   "B": "SES"
+ },
+ {
+   "A": "GB Severn Bridge Toll Fee",
+   "B": "SEVERN_TOLL"
+ },
+ {
+   "A": "Security Fee Agent",
+   "B": "SFA"
+ },
+ {
+   "A": "South Florida Drayage",
+   "B": "SFD"
+ },
+ {
+   "A": "South Florida Drayage",
+   "B": "SFDR"
+ },
+ {
+   "A": "Scale Fees-Export Only",
+   "B": "SFEO"
+ },
+ {
+   "A": "Special Freight Premium",
+   "B": "SFP"
+ },
+ {
+   "A": "Security Guard Destination",
+   "B": "SGD"
+ },
+ {
+   "A": "Ships Bag Surcharge",
+   "B": "SHBA"
+ },
+ {
+   "A": "Special Handling Charge",
+   "B": "SHC"
+ },
+ {
+   "A": "Supplementary Handling charge Origin",
+   "B": "SHOI"
+ },
+ {
+   "A": "Supplementary Handling charge Origin",
+   "B": "SHOP"
+ },
+ {
+   "A": "Shippers Council Surcharge",
+   "B": "SHPC"
+ },
+ {
+   "A": "Shipping Document",
+   "B": "SHPDOC"
+ },
+ {
+   "A": "Shrinkwrap",
+   "B": "SHRIN"
+ },
+ {
+   "A": "Shipping Instruction Amendment",
+   "B": "SIA"
+ },
+ {
+   "A": "SI LATE SUBMISSION (SIL)",
+   "B": "SILS"
+ },
+ {
+   "A": "Sinotrans Fee",
+   "B": "SIN"
+ },
+ {
+   "A": "2nd Leg FSC",
+   "B": "SLFS"
+ },
+ {
+   "A": "2nd Leg SSC",
+   "B": "SLSS"
+ },
+ {
+   "A": "Sales Tax",
+   "B": "SLST"
+ },
+ {
+   "A": "Security Manifest Surcharge",
+   "B": "SMD"
+ },
+ {
+   "A": "Security Manifest Document Fee",
+   "B": "SMDF"
+ },
+ {
+   "A": "Standard Markup",
+   "B": "SMK"
+ },
+ {
+   "A": "Standard Markup Level 1 Service",
+   "B": "SMK-LVL1"
+ },
+ {
+   "A": "Standard Markup Level 2 Service",
+   "B": "SMK-LVL2"
+ },
+ {
+   "A": "Road Tax",
+   "B": "SMRT"
+ },
+ {
+   "A": "Shipper-Owned Container Surcharge",
+   "B": "SOC"
+ },
+ {
+   "A": "Shipper-Owned/Leased Equipment Fee",
+   "B": "SOLC"
+ },
+ {
+   "A": "Supplemental Terminal Handling Charge-Origin",
+   "B": "SOTHC"
+ },
+ {
+   "A": "Saudi Port Additional",
+   "B": "SPA"
+ },
+ {
+   "A": "Special Clearance",
+   "B": "SPC"
+ },
+ {
+   "A": "Supplemental Panama Canal Transit Charge",
+   "B": "SPCT"
+ },
+ {
+   "A": "Swedish Port Dues",
+   "B": "SPD"
+ },
+ {
+   "A": "Container Stuffing Service",
+   "B": "SPE"
+ },
+ {
+   "A": "Special Equipment Surcharge",
+   "B": "SPEC"
+ },
+ {
+   "A": "SEAL PROVISION FEE",
+   "B": "SPF"
+ },
+ {
+   "A": "Supplemental Handling Charge - Dest.",
+   "B": "SPHC"
+ },
+ {
+   "A": "CONTAINER STRIPPING SERVICE",
+   "B": "SPI"
+ },
+ {
+   "A": "Special Pickup/Delivery",
+   "B": "SPPD"
+ },
+ {
+   "A": "Shanghai Port Surcharge",
+   "B": "SPS"
+ },
+ {
+   "A": "Special Service Charge (SSC)",
+   "B": "SPSC"
+ },
+ {
+   "A": "Service Recovery Surcharge",
+   "B": "SRCG"
+ },
+ {
+   "A": "Service Fee - Destination",
+   "B": "SRVFD"
+ },
+ {
+   "A": "Strike Surcharge",
+   "B": "SS1"
+ },
+ {
+   "A": "Security Surcharge",
+   "B": "SSC"
+ },
+ {
+   "A": "Port Security Charge - Destination",
+   "B": "SSD"
+ },
+ {
+   "A": "Security Screening Fee",
+   "B": "SSF"
+ },
+ {
+   "A": "SSL Courier Fee",
+   "B": "SSLC"
+ },
+ {
+   "A": "Port Security Charge - Origin",
+   "B": "SSO"
+ },
+ {
+   "A": "Status Fee",
+   "B": "STAF"
+ },
+ {
+   "A": "Stuffing Charges",
+   "B": "STC"
+ },
+ {
+   "A": "Stripping Fee",
+   "B": "STF"
+ },
+ {
+   "A": "Strike Surcharge",
+   "B": "STKE"
+ },
+ {
+   "A": "Stamp Fee",
+   "B": "STMP"
+ },
+ {
+   "A": "Stop Off Charge",
+   "B": "STOC"
+ },
+ {
+   "A": "Storage Fee",
+   "B": "STOR"
+ },
+ {
+   "A": "Storage Fee - Destination",
+   "B": "STORD"
+ },
+ {
+   "A": "Storage Fee - Origin",
+   "B": "STORO"
+ },
+ {
+   "A": "Storage Surcharge",
+   "B": "STS"
+ },
+ {
+   "A": "SUPPLEMENTARY BUNKER",
+   "B": "SUBU"
+ },
+ {
+   "A": "Surabaya Channel Fee",
+   "B": "SUCF"
+ },
+ {
+   "A": "Sunday/Public Holiday Delivery Charge",
+   "B": "SUN"
+ },
+ {
+   "A": "Sunday Pickup/Delivery",
+   "B": "SUPD"
+ },
+ {
+   "A": "Supervision Charge",
+   "B": "SUPR"
+ },
+ {
+   "A": "Survey Charge",
+   "B": "SUR"
+ },
+ {
+   "A": "Suez Transit Fee",
+   "B": "SUZ"
+ },
+ {
+   "A": "Service Tax",
+   "B": "SVCT"
+ },
+ {
+   "A": "SEATTLE WAREHOUSE CHARGE",
+   "B": "SWCH"
+ },
+ {
+   "A": "SOLAS Fee - Origin",
+   "B": "SWF"
+ },
+ {
+   "A": "System Charge",
+   "B": "SYSC"
+ },
+ {
+   "A": "T-1",
+   "B": "T-1"
+ },
+ {
+   "A": "Terminal Additional Charge, Dest.",
+   "B": "TAD"
+ },
+ {
+   "A": "Trade Adjustment Factor",
+   "B": "TAF"
+ },
+ {
+   "A": "Turkish Advance Manifest/ TAM Fee",
+   "B": "TAM"
+ },
+ {
+   "A": "Tank",
+   "B": "TAN"
+ },
+ {
+   "A": "Transport Additional Origin",
+   "B": "TAO"
+ },
+ {
+   "A": "Transport Arbitrary Destination",
+   "B": "TARD"
+ },
+ {
+   "A": "Tariff",
+   "B": "TARIFF"
+ },
+ {
+   "A": "Freight Tax",
+   "B": "TAX"
+ },
+ {
+   "A": "TAXES",
+   "B": "TAXC"
+ },
+ {
+   "A": "Toll Bridge Fee - Destination",
+   "B": "TBF"
+ },
+ {
+   "A": "Toll Bridge Fee - Origin",
+   "B": "TBO"
+ },
+ {
+   "A": "TCA CHARGE",
+   "B": "TCA"
+ },
+ {
+   "A": "Turkey CDC charge",
+   "B": "TCDC"
+ },
+ {
+   "A": "Terminal Clearance Fee",
+   "B": "TCF"
+ },
+ {
+   "A": "TRANSFER CHARGES - OTHER",
+   "B": "TCO"
+ },
+ {
+   "A": "Terminal Congestion Surcharge",
+   "B": "TCONG"
+ },
+ {
+   "A": "Twenty Foot Container Surcharge",
+   "B": "TCS"
+ },
+ {
+   "A": "Team Driver",
+   "B": "TDC"
+ },
+ {
+   "A": "T&E Bond Fee",
+   "B": "TEBF"
+ },
+ {
+   "A": "Temporary Exportation Clearance",
+   "B": "TEC"
+ },
+ {
+   "A": "Transportation Entry",
+   "B": "TEF"
+ },
+ {
+   "A": "Telex Release Fee",
+   "B": "TEL"
+ },
+ {
+   "A": "Telex Release/Admin Fee",
+   "B": "TELA"
+ },
+ {
+   "A": "Temperature Control",
+   "B": "temperature_control"
+ },
+ {
+   "A": "Terminal Charge",
+   "B": "TERM"
+ },
+ {
+   "A": "Anti-Terror Fee",
+   "B": "TERR"
+ },
+ {
+   "A": "Textile Add-on",
+   "B": "TEXT"
+ },
+ {
+   "A": "TALLY FEE",
+   "B": "TFEE"
+ },
+ {
+   "A": "TFS CHARGE",
+   "B": "TFS"
+ },
+ {
+   "A": "TG4 Tax",
+   "B": "TG4"
+ },
+ {
+   "A": "Transfer/Terminal Handling Charge",
+   "B": "THC"
+ },
+ {
+   "A": "Terminal Handling Charge at Destination",
+   "B": "THCD"
+ },
+ {
+   "A": "T.H.C.",
+   "B": "THCH"
+ },
+ {
+   "A": "THC CHARGE PER MEASURE ( E = VAT EXEMPT)",
+   "B": "THCM"
+ },
+ {
+   "A": "Terminal Handling Charge at Origin",
+   "B": "THCO"
+ },
+ {
+   "A": "Terminal Handling Charge per Container",
+   "B": "THCPC"
+ },
+ {
+   "A": "THC CHARGE PER TON (E = VAT EXEMPT)",
+   "B": "THCT"
+ },
+ {
+   "A": "Thermo Wrap per Skd",
+   "B": "THER"
+ },
+ {
+   "A": "Theft Risk Surcharge",
+   "B": "THRK"
+ },
+ {
+   "A": "TERMINAL HANDLING SERVICE - DESTINATION",
+   "B": "THSD"
+ },
+ {
+   "A": "Temporary Import Bond (TIB)",
+   "B": "TIB"
+ },
+ {
+   "A": "TIC Bill of Lading Charge",
+   "B": "TIC"
+ },
+ {
+   "A": "TICA Surcharge",
+   "B": "TICA"
+ },
+ {
+   "A": "TICA Surcharge, Destination",
+   "B": "TICD"
+ },
+ {
+   "A": "TICA Surcharge, Origin",
+   "B": "TICO"
+ },
+ {
+   "A": "Tail Lift Charge",
+   "B": "TLC"
+ },
+ {
+   "A": "Tail Lift Charge (Collection)",
+   "B": "TLCC"
+ },
+ {
+   "A": "Tail Lift Charge (Delivery)",
+   "B": "TLCD"
+ },
+ {
+   "A": "Truck Loading at Destination",
+   "B": "TLD"
+ },
+ {
+   "A": "Temporary LCL Export Congestion Surcharge",
+   "B": "TLEC"
+ },
+ {
+   "A": "Transload Fee",
+   "B": "TLF"
+ },
+ {
+   "A": "Trade Lane Incentive",
+   "B": "TLI"
+ },
+ {
+   "A": "Terminal Winter Surcharge",
+   "B": "TLRS"
+ },
+ {
+   "A": "TLX Fee",
+   "B": "TLX"
+ },
+ {
+   "A": "Origin Terminal Move Charge",
+   "B": "TMO"
+ },
+ {
+   "A": "Temperature Supply Fee",
+   "B": "TMSC"
+ },
+ {
+   "A": "Toll Fee",
+   "B": "TOF"
+ },
+ {
+   "A": "TERMINAL HANDLING SERVICE - ORIGIN",
+   "B": "TOHC"
+ },
+ {
+   "A": "Token Charges",
+   "B": "TOK"
+ },
+ {
+   "A": "T1 Documentation Charge",
+   "B": "TOND"
+ },
+ {
+   "A": "Top Off Charge",
+   "B": "TOPO"
+ },
+ {
+   "A": "Temporary Congestion Surcharge",
+   "B": "TPC"
+ },
+ {
+   "A": "Third Place Payment Fee",
+   "B": "TPPF"
+ },
+ {
+   "A": "Terminal Port Security",
+   "B": "TPS"
+ },
+ {
+   "A": "Traffic Mitigation Fee",
+   "B": "TRAF"
+ },
+ {
+   "A": "Trailer All Inclusive",
+   "B": "TRAI"
+ },
+ {
+   "A": "Tracking Fee",
+   "B": "TRAK"
+ },
+ {
+   "A": "Transhipment Documentation",
+   "B": "TRAND"
+ },
+ {
+   "A": "Transmission Fee",
+   "B": "TRANF"
+ },
+ {
+   "A": "Transport",
+   "B": "TRANS"
+ },
+ {
+   "A": "Transit Benin",
+   "B": "TRBN"
+ },
+ {
+   "A": "Carriers Haulage: Truck Rate Charge",
+   "B": "TRC"
+ },
+ {
+   "A": "Transfer Cotonou/Alanda",
+   "B": "TRCA"
+ },
+ {
+   "A": "Transit Customs Documentation",
+   "B": "TRCD"
+ },
+ {
+   "A": "Terminal RCV Charge",
+   "B": "TRCH"
+ },
+ {
+   "A": "Trucking Dangerous Goods Fee",
+   "B": "TRDG"
+ },
+ {
+   "A": "Trade Surcharge",
+   "B": "TRDS"
+ },
+ {
+   "A": "Triaxle Chassis Export",
+   "B": "TRE"
+ },
+ {
+   "A": "Terminal Roll Fee",
+   "B": "TRF"
+ },
+ {
+   "A": "Transfer Fee",
+   "B": "TRFE"
+ },
+ {
+   "A": "Trucking Fuel Charge",
+   "B": "TRFU"
+ },
+ {
+   "A": "Truck Head",
+   "B": "TRHD"
+ },
+ {
+   "A": "Tri-axle Charge",
+   "B": "TRI"
+ },
+ {
+   "A": "Tri-axle Charge Export",
+   "B": "TRIE"
+ },
+ {
+   "A": "Tri-axle Charge Import",
+   "B": "TRII"
+ },
+ {
+   "A": "Truck Gate Charge",
+   "B": "TRK"
+ },
+ {
+   "A": "Truck Charge Add on",
+   "B": "TRKA"
+ },
+ {
+   "A": "Truck Charge at Destination",
+   "B": "TRKD"
+ },
+ {
+   "A": "Truck Charge at Origin",
+   "B": "TRKO"
+ },
+ {
+   "A": "Truck Loading Charge",
+   "B": "TRLC"
+ },
+ {
+   "A": "Tarping Charge",
+   "B": "TRP"
+ },
+ {
+   "A": "Theft Risk Surcharge",
+   "B": "TRS"
+ },
+ {
+   "A": "TRANSPACIFIC STABILIZATION AGREEMENT",
+   "B": "TRSA"
+ },
+ {
+   "A": "Transshipment Fee",
+   "B": "TRSF"
+ },
+ {
+   "A": "Triaxle Chassis Usage",
+   "B": "TRX"
+ },
+ {
+   "A": "TRUCKER'S YARD STORAGE",
+   "B": "TRYS"
+ },
+ {
+   "A": "Transhipment Additional",
+   "B": "TSA"
+ },
+ {
+   "A": "TSC",
+   "B": "TSC"
+ },
+ {
+   "A": "Terminal Security Charge - Destination",
+   "B": "TSCD"
+ },
+ {
+   "A": "Terminal Security Charge - Origin",
+   "B": "TSCO"
+ },
+ {
+   "A": "TIC surcharge costa rica",
+   "B": "TSCR"
+ },
+ {
+   "A": "TERMINAL SECURITY FEE",
+   "B": "TSECF"
+ },
+ {
+   "A": "Terminal Service Fee",
+   "B": "TSF"
+ },
+ {
+   "A": "Tax Alert",
+   "B": "TSH"
+ },
+ {
+   "A": "Time Slot",
+   "B": "TSLOT"
+ },
+ {
+   "A": "Time Slot Booking Fee",
+   "B": "TSLOTB"
+ },
+ {
+   "A": "Tri-axle / Super Chassis Surcharge",
+   "B": "TSS"
+ },
+ {
+   "A": "TTS Surcharge",
+   "B": "TTS"
+ },
+ {
+   "A": "Tug Service Surcharge",
+   "B": "TUGS"
+ },
+ {
+   "A": "Title Validation Fee",
+   "B": "TVLF"
+ },
+ {
+   "A": "US Container Management Fee",
+   "B": "UCMF"
+ },
+ {
+   "A": "Unique Consignment Number",
+   "B": "UCNM"
+ },
+ {
+   "A": "UTI HAZMAT Handling Fee",
+   "B": "UHAZ"
+ },
+ {
+   "A": "UK Domestic Fuel Surcharge",
+   "B": "UKDFS"
+ },
+ {
+   "A": "UK Premium Surcharge",
+   "B": "UKPR"
+ },
+ {
+   "A": "ULD Breakdown",
+   "B": "ULD"
+ },
+ {
+   "A": "Agency Logistics Fee Export",
+   "B": "ULE"
+ },
+ {
+   "A": "Agency Logistics Fee Import",
+   "B": "ULI"
+ },
+ {
+   "A": "User Markup",
+   "B": "UMK"
+ },
+ {
+   "A": "UK Port Additionals",
+   "B": "UPA"
+ },
+ {
+   "A": "Unpack and Debris Removal",
+   "B": "UPDR"
+ },
+ {
+   "A": "Port Congestion Surcharge USA",
+   "B": "USCONG"
+ },
+ {
+   "A": "USDA Notification Fee",
+   "B": "USDA"
+ },
+ {
+   "A": "USA Energy Charge",
+   "B": "USEN"
+ },
+ {
+   "A": "Validation Fee",
+   "B": "VALF"
+ },
+ {
+   "A": "VAS Fee",
+   "B": "VAS"
+ },
+ {
+   "A": "Value Added Surcharge Destination",
+   "B": "VASD"
+ },
+ {
+   "A": "Value Added Surcharge Origin",
+   "B": "VASO"
+ },
+ {
+   "A": "Value Added Tax",
+   "B": "VAT"
+ },
+ {
+   "A": "VAT Documentation Charge",
+   "B": "VATD"
+ },
+ {
+   "A": "Value Added Tax",
+   "B": "VATP"
+ },
+ {
+   "A": "VAT Recovery Charge",
+   "B": "VATR"
+ },
+ {
+   "A": "Vehicle Booking System",
+   "B": "VBS"
+ },
+ {
+   "A": "Vessel Certificate Charge",
+   "B": "VCCC"
+ },
+ {
+   "A": "Vessel Delay Surcharge",
+   "B": "VDS"
+ },
+ {
+   "A": "Vehicle Administration Surcharge",
+   "B": "VEH"
+ },
+ {
+   "A": "Vessel Fuel Surcharge",
+   "B": "VFC"
+ },
+ {
+   "A": "CUSTOMS FEE",
+   "B": "VG-1"
+ },
+ {
+   "A": "DEVANNING",
+   "B": "VG-10"
+ },
+ {
+   "A": "DELIVERY AUTHORIZATION DOCUMENT",
+   "B": "VG-100"
+ },
+ {
+   "A": "INBOND PTT FILING FEE",
+   "B": "VG-101"
+ },
+ {
+   "A": "ANTI-TERROR FEE",
+   "B": "VG-102"
+ },
+ {
+   "A": "CTA FEE",
+   "B": "VG-103"
+ },
+ {
+   "A": "GENERAL SERVICE COMPENSATION",
+   "B": "VG-104"
+ },
+ {
+   "A": "LIFTGATE FEE",
+   "B": "VG-105"
+ },
+ {
+   "A": "GENERAL RATE INCREASE",
+   "B": "VG-106"
+ },
+ {
+   "A": "PANAMA CANAL SURCHARGE",
+   "B": "VG-107"
+ },
+ {
+   "A": "OPERATIONAL COST RECOVERY",
+   "B": "VG-108"
+ },
+ {
+   "A": "CORRECTION FEE",
+   "B": "VG-109"
+ },
+ {
+   "A": "HAND-OVER",
+   "B": "VG-11"
+ },
+ {
+   "A": "RE-POSITIONING OF EMPTY",
+   "B": "VG-110"
+ },
+ {
+   "A": "DOCUMENT DECLARATION FEE",
+   "B": "VG-111"
+ },
+ {
+   "A": "PORT CONSTRUCTION FEE",
+   "B": "VG-112"
+ },
+ {
+   "A": "DISBURSEMENT",
+   "B": "VG-113"
+ },
+ {
+   "A": "HEAVY LIFT",
+   "B": "VG-114"
+ },
+ {
+   "A": "COURIER FEE",
+   "B": "VG-115"
+ },
+ {
+   "A": "CHINA IMPORT SERVICE FEE",
+   "B": "VG-116"
+ },
+ {
+   "A": "PIRACY RISK SURCHARGE",
+   "B": "VG-117"
+ },
+ {
+   "A": "CFS DOCUMENTATION",
+   "B": "VG-118"
+ },
+ {
+   "A": "SURVEY FEE",
+   "B": "VG-119"
+ },
+ {
+   "A": "LOAD ON TRUCK",
+   "B": "VG-12"
+ },
+ {
+   "A": "EXPRESS B/L",
+   "B": "VG-120"
+ },
+ {
+   "A": "BILL OF LADING FEE 2",
+   "B": "VG-121"
+ },
+ {
+   "A": "BUNKER ADJUSTMENT FACTOR",
+   "B": "VG-122"
+ },
+ {
+   "A": "OVERWEIGHT SURCHARGE",
+   "B": "VG-123"
+ },
+ {
+   "A": "AMS FEE CANADA",
+   "B": "VG-124"
+ },
+ {
+   "A": "TRANSPORT ADDITIONAL",
+   "B": "VG-125"
+ },
+ {
+   "A": "EXTRA DELIVERY ORDER",
+   "B": "VG-126"
+ },
+ {
+   "A": "ORIGIN DOOR PICKUP",
+   "B": "VG-127"
+ },
+ {
+   "A": "TOLL FEE",
+   "B": "VG-128"
+ },
+ {
+   "A": "SHIPS BAG FEE",
+   "B": "VG-129"
+ },
+ {
+   "A": "OTHER",
+   "B": "VG-13"
+ },
+ {
+   "A": "WAR RISK",
+   "B": "VG-130"
+ },
+ {
+   "A": "REBATE",
+   "B": "VG-131"
+ },
+ {
+   "A": "T&E BOND FEE",
+   "B": "VG-132"
+ },
+ {
+   "A": "DESTINATION DOOR DELIVERY",
+   "B": "VG-133"
+ },
+ {
+   "A": "POSTAGE AND PETTIES",
+   "B": "VG-134"
+ },
+ {
+   "A": "TRANSIT CUSTOMS DOCUMENTATION",
+   "B": "VG-135"
+ },
+ {
+   "A": "PACKAGING",
+   "B": "VG-136"
+ },
+ {
+   "A": "PEAK SEASON SURCHARGE",
+   "B": "VG-137"
+ },
+ {
+   "A": "PHYTOSANITAIR CERTIFICATE",
+   "B": "VG-138"
+ },
+ {
+   "A": "QUARANTINE FEE",
+   "B": "VG-139"
+ },
+ {
+   "A": "REQUEST FOR WEIGHTING OF CARGO",
+   "B": "VG-14"
+ },
+ {
+   "A": "LOW WATER SURCHARGE",
+   "B": "VG-140"
+ },
+ {
+   "A": "CROSS BORDER FEE",
+   "B": "VG-141"
+ },
+ {
+   "A": "IPI FUEL SURCHARGE",
+   "B": "VG-142"
+ },
+ {
+   "A": "ORIGIN THC",
+   "B": "VG-143"
+ },
+ {
+   "A": "AGENCY FEE II",
+   "B": "VG-144"
+ },
+ {
+   "A": "TFS",
+   "B": "VG-145"
+ },
+ {
+   "A": "HEAVY WEIGHT SURCHARGE",
+   "B": "VG-146"
+ },
+ {
+   "A": "PHOTOS",
+   "B": "VG-147"
+ },
+ {
+   "A": "ELECTRONIC CARD INFORMATION",
+   "B": "VG-148"
+ },
+ {
+   "A": "AGENCY FEES",
+   "B": "VG-15"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE",
+   "B": "VG-16"
+ },
+ {
+   "A": "WHARFAGE",
+   "B": "VG-17"
+ },
+ {
+   "A": "ADMINISTRATION FEE",
+   "B": "VG-18"
+ },
+ {
+   "A": "AMS FEE EUROPE",
+   "B": "VG-19"
+ },
+ {
+   "A": "DELIVERY ORDER",
+   "B": "VG-2"
+ },
+ {
+   "A": "HAZ DOCUMENTATION",
+   "B": "VG-20"
+ },
+ {
+   "A": "IMPORT CLEARANCE + FISCAL REPRESENTATION",
+   "B": "VG-21"
+ },
+ {
+   "A": "IMPORT SERVICE FEE",
+   "B": "VG-22"
+ },
+ {
+   "A": "INTERNATIONAL SHIP AND PORT SECURITY",
+   "B": "VG-23"
+ },
+ {
+   "A": "STORAGE FREIGHT",
+   "B": "VG-24"
+ },
+ {
+   "A": "T1 DOCUMENT",
+   "B": "VG-25"
+ },
+ {
+   "A": "W/HOUSE HAND HAZ  LOOSE CARGO",
+   "B": "VG-26"
+ },
+ {
+   "A": "W/HOUSE HAND HAZ  PACKED/FORKLIFTABLE",
+   "B": "VG-27"
+ },
+ {
+   "A": "W/HOUSE HAND FOR HARMLESS LOOSE CARGO",
+   "B": "VG-28"
+ },
+ {
+   "A": "W/HOUSE HAND HARMLESS PACKED/FORKLIFTABL",
+   "B": "VG-29"
+ },
+ {
+   "A": "DESTINATION THC",
+   "B": "VG-3"
+ },
+ {
+   "A": "CUSTOMS FORM",
+   "B": "VG-30"
+ },
+ {
+   "A": "COMMUNICATION FEE",
+   "B": "VG-31"
+ },
+ {
+   "A": "FUEL SURCHARGE",
+   "B": "VG-32"
+ },
+ {
+   "A": "RRC SPAIN",
+   "B": "VG-33"
+ },
+ {
+   "A": "SYSTEM CHARGE",
+   "B": "VG-34"
+ },
+ {
+   "A": "T3(E)",
+   "B": "VG-35"
+ },
+ {
+   "A": "THC CHARGE PER MEASURE (E = VAT EXEMPT)",
+   "B": "VG-36"
+ },
+ {
+   "A": "THC CHARGE PER TON (E = VAT EXEMPT)",
+   "B": "VG-37"
+ },
+ {
+   "A": "CFS HANDLING",
+   "B": "VG-38"
+ },
+ {
+   "A": "DELIVERY DESTINATION CHARGE",
+   "B": "VG-39"
+ },
+ {
+   "A": "LCL CHARGE",
+   "B": "VG-4"
+ },
+ {
+   "A": "INLAND",
+   "B": "VG-40"
+ },
+ {
+   "A": "DESTINATION CHARGES",
+   "B": "VG-41"
+ },
+ {
+   "A": "HANDLING",
+   "B": "VG-42"
+ },
+ {
+   "A": "ENVIRONMENT SURCHARGE",
+   "B": "VG-43"
+ },
+ {
+   "A": "CUSTOMS DECLARATION",
+   "B": "VG-44"
+ },
+ {
+   "A": "FREIGHT TAX",
+   "B": "VG-45"
+ },
+ {
+   "A": "INBOND FILING FEE",
+   "B": "VG-46"
+ },
+ {
+   "A": "EXCHANGE RATE SURCHARGE",
+   "B": "VG-47"
+ },
+ {
+   "A": "INSURANCE",
+   "B": "VG-48"
+ },
+ {
+   "A": "CARGO DUES",
+   "B": "VG-49"
+ },
+ {
+   "A": "TRANSHIPMENT DOCUMENTATION",
+   "B": "VG-5"
+ },
+ {
+   "A": "CONGESTION RECOVERY SURCHARGE",
+   "B": "VG-50"
+ },
+ {
+   "A": "COLLECTION FEE",
+   "B": "VG-51"
+ },
+ {
+   "A": "PERSONAL EFFECT FEE",
+   "B": "VG-52"
+ },
+ {
+   "A": "PALLETISATION",
+   "B": "VG-53"
+ },
+ {
+   "A": "STATUS FEE",
+   "B": "VG-54"
+ },
+ {
+   "A": "CARGO MANAGEMENT RE-ENGINEERING FEE",
+   "B": "VG-55"
+ },
+ {
+   "A": "PORT SERVICE CHARGE",
+   "B": "VG-56"
+ },
+ {
+   "A": "PORT SERVICE FUEL SURCHARGE",
+   "B": "VG-57"
+ },
+ {
+   "A": "PORT SECURITY FEE",
+   "B": "VG-58"
+ },
+ {
+   "A": "STUFFING/ PACKING",
+   "B": "VG-59"
+ },
+ {
+   "A": "DOCUMENTATION",
+   "B": "VG-6"
+ },
+ {
+   "A": "TRANSFER FEE",
+   "B": "VG-60"
+ },
+ {
+   "A": "CUSTOMS ELECTRONIC FEE",
+   "B": "VG-61"
+ },
+ {
+   "A": "PORT PROCESSING FEE",
+   "B": "VG-62"
+ },
+ {
+   "A": "SECURITY FEE",
+   "B": "VG-63"
+ },
+ {
+   "A": "CUSTOMS INSPECTION",
+   "B": "VG-64"
+ },
+ {
+   "A": "HAZRDOUS CFS CHARGES",
+   "B": "VG-65"
+ },
+ {
+   "A": "HAZRDOUS TERMINAL HANDLING CHARGE",
+   "B": "VG-66"
+ },
+ {
+   "A": "SCANNING CHARGE",
+   "B": "VG-67"
+ },
+ {
+   "A": "IN AND OUT FEE",
+   "B": "VG-68"
+ },
+ {
+   "A": "COST RECOVERY CHARGE",
+   "B": "VG-69"
+ },
+ {
+   "A": "WAREHOUSE CHARGE",
+   "B": "VG-7"
+ },
+ {
+   "A": "EMERGENCY BUNKER SURCHARGE",
+   "B": "VG-70"
+ },
+ {
+   "A": "ENDORSEMENT FEE",
+   "B": "VG-71"
+ },
+ {
+   "A": "FORKLIFT FEE",
+   "B": "VG-72"
+ },
+ {
+   "A": "STRIPPING",
+   "B": "VG-73"
+ },
+ {
+   "A": "IT FEE",
+   "B": "VG-74"
+ },
+ {
+   "A": "BILL OF LADING SECURITY FEE",
+   "B": "VG-75"
+ },
+ {
+   "A": "CONSOLIDATION",
+   "B": "VG-76"
+ },
+ {
+   "A": "CURRENCY ADJUSTMENT FACTOR",
+   "B": "VG-77"
+ },
+ {
+   "A": "CONTAINER IMBALANCE CHARGE",
+   "B": "VG-78"
+ },
+ {
+   "A": "PORT CONGESTION FEE",
+   "B": "VG-79"
+ },
+ {
+   "A": "CFS CHARGES",
+   "B": "VG-8"
+ },
+ {
+   "A": "SALES TAX",
+   "B": "VG-80"
+ },
+ {
+   "A": "CLEAN TRUCK FEE",
+   "B": "VG-81"
+ },
+ {
+   "A": "VAT",
+   "B": "VG-82"
+ },
+ {
+   "A": "SPECIAL EQUIPMENT SURCHARGE",
+   "B": "VG-83"
+ },
+ {
+   "A": "MANIFEST FEE",
+   "B": "VG-84"
+ },
+ {
+   "A": "EDI FEE",
+   "B": "VG-85"
+ },
+ {
+   "A": "CARRIERS DOC FEE",
+   "B": "VG-86"
+ },
+ {
+   "A": "COMPLIANCE",
+   "B": "VG-87"
+ },
+ {
+   "A": "VBS",
+   "B": "VG-88"
+ },
+ {
+   "A": "BILL OF LADING FEE",
+   "B": "VG-89"
+ },
+ {
+   "A": "CERTIFICATE",
+   "B": "VG-9"
+ },
+ {
+   "A": "TURNOVER FEE",
+   "B": "VG-90"
+ },
+ {
+   "A": "DANGEROUS GOODS FEE",
+   "B": "VG-91"
+ },
+ {
+   "A": "EQUIPMENT IMBALANCE SURCHARGE",
+   "B": "VG-92"
+ },
+ {
+   "A": "CHASSIS FEE",
+   "B": "VG-93"
+ },
+ {
+   "A": "I.T. FEE",
+   "B": "VG-94"
+ },
+ {
+   "A": "LOADING",
+   "B": "VG-95"
+ },
+ {
+   "A": "TERMINAL FUEL",
+   "B": "VG-96"
+ },
+ {
+   "A": "PIER PASS",
+   "B": "VG-97"
+ },
+ {
+   "A": "DRAYAGE SURCHARGE",
+   "B": "VG-98"
+ },
+ {
+   "A": "IPI",
+   "B": "VG-99"
+ },
+ {
+   "A": "ADVANCE CHARGES",
+   "B": "VG-ADCH"
+ },
+ {
+   "A": "CHC",
+   "B": "VG-CHC"
+ },
+ {
+   "A": "Customs I.T. Filing Fee",
+   "B": "VG-CIFF"
+ },
+ {
+   "A": "CIQ Charges",
+   "B": "VG-CIQ"
+ },
+ {
+   "A": "Congestion Surcharge",
+   "B": "VG-CON"
+ },
+ {
+   "A": "CHASSIS SPLIT FEE",
+   "B": "VG-CSF"
+ },
+ {
+   "A": "CONTAINER WASHING",
+   "B": "VG-CW"
+ },
+ {
+   "A": "DDC",
+   "B": "VG-DDC"
+ },
+ {
+   "A": "DIGITAL RELEASE",
+   "B": "VG-DIR"
+ },
+ {
+   "A": "D/O FEE",
+   "B": "VG-DOF"
+ },
+ {
+   "A": "ELECTRONIC ADMINISTRATION FEE",
+   "B": "VG-EAF"
+ },
+ {
+   "A": "ENS B/L FILING FEE - DESTINATION",
+   "B": "VG-EBFF"
+ },
+ {
+   "A": "Emission Control Area Surcharge",
+   "B": "VG-ECAS"
+ },
+ {
+   "A": "EQUIPMENT SURCHARGE",
+   "B": "VG-EQIP"
+ },
+ {
+   "A": "ERC",
+   "B": "VG-ERC"
+ },
+ {
+   "A": "FACILITY ADMINISTRATION FEE",
+   "B": "VG-FAA"
+ },
+ {
+   "A": "Fesios Fee",
+   "B": "VG-FFE"
+ },
+ {
+   "A": "FOB Charge",
+   "B": "VG-FOBC"
+ },
+ {
+   "A": "FUMIGATION",
+   "B": "VG-FUM"
+ },
+ {
+   "A": "INTTRA ADMIN FEE",
+   "B": "VG-IAF"
+ },
+ {
+   "A": "IMO HANDLING FEE",
+   "B": "VG-IMHF"
+ },
+ {
+   "A": "INLAND POINT INTERMODAL",
+   "B": "VG-IPI"
+ },
+ {
+   "A": "LABOR CHARGE",
+   "B": "VG-LC"
+ },
+ {
+   "A": "LIFT ON LIFT OFF",
+   "B": "VG-LOLO"
+ },
+ {
+   "A": "LOW SULFUR FUEL SURCHARGE",
+   "B": "VG-LWFS"
+ },
+ {
+   "A": "Manifest Corrections - After Filling",
+   "B": "VG-MCA"
+ },
+ {
+   "A": "Overseas Documentation Fee",
+   "B": "VG-OVDF"
+ },
+ {
+   "A": "PCC",
+   "B": "VG-PCC"
+ },
+ {
+   "A": "Port Drayage Surcharge",
+   "B": "VG-PDS"
+ },
+ {
+   "A": "Pier Pass Fee/Traffic Mitigation Fee",
+   "B": "VG-PPFT"
+ },
+ {
+   "A": "Rate Restoration Surcharge - Destination",
+   "B": "VG-RR"
+ },
+ {
+   "A": "RRC SPAIN - LIABILITY FEE",
+   "B": "VG-RSL"
+ },
+ {
+   "A": "Special Equipment Surcharge",
+   "B": "VG-SPEC"
+ },
+ {
+   "A": "SPANISH WHARFAGE",
+   "B": "VG-SWR"
+ },
+ {
+   "A": "Tally Fee",
+   "B": "VG-TF"
+ },
+ {
+   "A": "Temporary Floating Pier Surcharge",
+   "B": "VG-TFPS"
+ },
+ {
+   "A": "THC - Destination",
+   "B": "VG-THC"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE 2",
+   "B": "VG-THC2"
+ },
+ {
+   "A": "THC",
+   "B": "VG-THCD"
+ },
+ {
+   "A": "TEMPOARY LCL EXPORT CONGESTION SURCHARGE",
+   "B": "VG-TLEC"
+ },
+ {
+   "A": "VGM Administration Fee",
+   "B": "VG-VAF"
+ },
+ {
+   "A": "VGM",
+   "B": "VG-VGM"
+ },
+ {
+   "A": "Window Collection Fee",
+   "B": "VG-WCF"
+ },
+ {
+   "A": "DIGITAL RELEASE",
+   "B": "VGD-DIR"
+ },
+ {
+   "A": "INTTRA ADMIN FEE",
+   "B": "VGD-IAF"
+ },
+ {
+   "A": "Vancouver Gateway Infrastructure Charge",
+   "B": "VGIC"
+ },
+ {
+   "A": "Verified Gross Mass Admin Fee",
+   "B": "VGMA"
+ },
+ {
+   "A": "VGM Administration Fee",
+   "B": "VGMF"
+ },
+ {
+   "A": "VGM Weighing Fee",
+   "B": "VGMW"
+ },
+ {
+   "A": "CFS CHARGES",
+   "B": "VGO-1"
+ },
+ {
+   "A": "HEAVY LIFT",
+   "B": "VGO-10"
+ },
+ {
+   "A": "T3(E)",
+   "B": "VGO-100"
+ },
+ {
+   "A": "HAZRDOUS CFS CHARGES",
+   "B": "VGO-101"
+ },
+ {
+   "A": "DAE SETTLEMENT",
+   "B": "VGO-102"
+ },
+ {
+   "A": "SECURITY FEE",
+   "B": "VGO-103"
+ },
+ {
+   "A": "TRANSFER FEE",
+   "B": "VGO-104"
+ },
+ {
+   "A": "BILL OF LADING SECURITY FEE",
+   "B": "VGO-105"
+ },
+ {
+   "A": "PORT SERVICE FUEL SURCHARGE",
+   "B": "VGO-106"
+ },
+ {
+   "A": "ELECTRONIC CARGO INFORMATION",
+   "B": "VGO-107"
+ },
+ {
+   "A": "CHINA CUSTOMS ADVANCED MANIFEST CORRECT",
+   "B": "VGO-108"
+ },
+ {
+   "A": "CERTIFICATE",
+   "B": "VGO-11"
+ },
+ {
+   "A": "COURIER FEE",
+   "B": "VGO-12"
+ },
+ {
+   "A": "LCL CHARGE",
+   "B": "VGO-13"
+ },
+ {
+   "A": "CUSTOMS FEE",
+   "B": "VGO-14"
+ },
+ {
+   "A": "STORAGE FREIGHT",
+   "B": "VGO-15"
+ },
+ {
+   "A": "PACKAGING",
+   "B": "VGO-16"
+ },
+ {
+   "A": "PALLETISATION",
+   "B": "VGO-17"
+ },
+ {
+   "A": "WHARFAGE",
+   "B": "VGO-18"
+ },
+ {
+   "A": "AMS FEE",
+   "B": "VGO-19"
+ },
+ {
+   "A": "DOCUMENTATION",
+   "B": "VGO-2"
+ },
+ {
+   "A": "TOLL FEE",
+   "B": "VGO-20"
+ },
+ {
+   "A": "CUSTOMS INSPECTION",
+   "B": "VGO-21"
+ },
+ {
+   "A": "BILL OF LADING FEE",
+   "B": "VGO-22"
+ },
+ {
+   "A": "CUSTOMS DECLARATION",
+   "B": "VGO-23"
+ },
+ {
+   "A": "CUSTOMS ELECTRONIC FEE",
+   "B": "VGO-24"
+ },
+ {
+   "A": "AMS FEE EUROPE",
+   "B": "VGO-25"
+ },
+ {
+   "A": "MANIFEST FEE",
+   "B": "VGO-26"
+ },
+ {
+   "A": "EMERGENCY BUNKER SURCHARGE",
+   "B": "VGO-27"
+ },
+ {
+   "A": "WAREHOUSE CHARGE",
+   "B": "VGO-28"
+ },
+ {
+   "A": "JAPAN ADVANCE FILING RULES",
+   "B": "VGO-29"
+ },
+ {
+   "A": "OVERLENGTH SURCHARGE",
+   "B": "VGO-3"
+ },
+ {
+   "A": "AMS FEE CANADA",
+   "B": "VGO-30"
+ },
+ {
+   "A": "CONTAINER IMBALANCE CHARGE",
+   "B": "VGO-31"
+ },
+ {
+   "A": "IMPORT SERVICE FEE",
+   "B": "VGO-32"
+ },
+ {
+   "A": "ADMINISTRATION FEE",
+   "B": "VGO-33"
+ },
+ {
+   "A": "ORIGIN THC",
+   "B": "VGO-34"
+ },
+ {
+   "A": "STUFFING/ PACKING",
+   "B": "VGO-35"
+ },
+ {
+   "A": "HANDLING",
+   "B": "VGO-36"
+ },
+ {
+   "A": "PORT SERVICE CHARGE",
+   "B": "VGO-37"
+ },
+ {
+   "A": "ORIGIN DOOR PICKUP",
+   "B": "VGO-38"
+ },
+ {
+   "A": "OTHER",
+   "B": "VGO-39"
+ },
+ {
+   "A": "ORIGIN CHARGES",
+   "B": "VGO-4"
+ },
+ {
+   "A": "CHINA CUSTOMS ADVANCED MANIFEST",
+   "B": "VGO-40"
+ },
+ {
+   "A": "DELIVERY DESTINATION CHARGE",
+   "B": "VGO-41"
+ },
+ {
+   "A": "HEAVY WEIGHT SURCHARGE",
+   "B": "VGO-42"
+ },
+ {
+   "A": "AMS AMENDMENT FEE",
+   "B": "VGO-43"
+ },
+ {
+   "A": "ORIGIN TERMINAL RECEIVING CHARGE",
+   "B": "VGO-44"
+ },
+ {
+   "A": "CROSS BORDER FEE",
+   "B": "VGO-45"
+ },
+ {
+   "A": "ENS B/L FILING FEE",
+   "B": "VGO-46"
+ },
+ {
+   "A": "WAR RISK",
+   "B": "VGO-47"
+ },
+ {
+   "A": "PEAK SEASON SURCHARGE",
+   "B": "VGO-48"
+ },
+ {
+   "A": "TEMPOARY LCL EXPORT CONGESTION SURCHARGE",
+   "B": "VGO-49"
+ },
+ {
+   "A": "EUR 1 FORM",
+   "B": "VGO-5"
+ },
+ {
+   "A": "PIER PASS",
+   "B": "VGO-50"
+ },
+ {
+   "A": "PORT CONGESTION FEE",
+   "B": "VGO-51"
+ },
+ {
+   "A": "IPI FUEL SURCHARGE",
+   "B": "VGO-52"
+ },
+ {
+   "A": "CHASSIS FEE",
+   "B": "VGO-53"
+ },
+ {
+   "A": "LOW SULPHUR SURCHARGE",
+   "B": "VGO-54"
+ },
+ {
+   "A": "CLEAN TRUCK FEE",
+   "B": "VGO-55"
+ },
+ {
+   "A": "CANADA ORIGIN HANDLING CHARGE",
+   "B": "VGO-56"
+ },
+ {
+   "A": "QUARANTINE FEE",
+   "B": "VGO-57"
+ },
+ {
+   "A": "SANITARY DECLARATION",
+   "B": "VGO-58"
+ },
+ {
+   "A": "T&E BOND FEE",
+   "B": "VGO-59"
+ },
+ {
+   "A": "FUMIGATION",
+   "B": "VGO-6"
+ },
+ {
+   "A": "PHYTOSANITAIR CERTIFICATE",
+   "B": "VGO-60"
+ },
+ {
+   "A": "PORT PROCESSING FEE",
+   "B": "VGO-61"
+ },
+ {
+   "A": "CFS HANDLING",
+   "B": "VGO-62"
+ },
+ {
+   "A": "CUSTOMS FORM",
+   "B": "VGO-63"
+ },
+ {
+   "A": "INSURANCE",
+   "B": "VGO-64"
+ },
+ {
+   "A": "TRANSHIPMENT DOCUMENTATION",
+   "B": "VGO-65"
+ },
+ {
+   "A": "PORT SECURITY FEE",
+   "B": "VGO-66"
+ },
+ {
+   "A": "T1 DOCUMENT",
+   "B": "VGO-67"
+ },
+ {
+   "A": "TRANSPORT ADDITIONAL",
+   "B": "VGO-68"
+ },
+ {
+   "A": "HAZRDOUS TERMINAL HANDLING CHARGE",
+   "B": "VGO-69"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE",
+   "B": "VGO-7"
+ },
+ {
+   "A": "HAZ DOCUMENTATION",
+   "B": "VGO-70"
+ },
+ {
+   "A": "FOB CHARGE",
+   "B": "VGO-71"
+ },
+ {
+   "A": "EXPRESS B/L",
+   "B": "VGO-72"
+ },
+ {
+   "A": "SHIPS BAG FEE",
+   "B": "VGO-73"
+ },
+ {
+   "A": "ELECTRONIC ADMINISTRATION FEE",
+   "B": "VGO-74"
+ },
+ {
+   "A": "CORRECTION FUMIGATION",
+   "B": "VGO-75"
+ },
+ {
+   "A": "INTERNATIONAL SHIP AND PORT SECURITY",
+   "B": "VGO-76"
+ },
+ {
+   "A": "MANIFEST CORRECTIONS - AFTER FILLING",
+   "B": "VGO-77"
+ },
+ {
+   "A": "ACI NEXT ENTRY",
+   "B": "VGO-78"
+ },
+ {
+   "A": "CORRECT",
+   "B": "VGO-79"
+ },
+ {
+   "A": "COLLECTION FEE",
+   "B": "VGO-8"
+ },
+ {
+   "A": "JAPAN AFR SECOND ENTRY",
+   "B": "VGO-80"
+ },
+ {
+   "A": "AMS NEXT ENTRY",
+   "B": "VGO-81"
+ },
+ {
+   "A": "NON STACKABLE SURCHARGE",
+   "B": "VGO-82"
+ },
+ {
+   "A": "ANTI-TERROR FEE",
+   "B": "VGO-83"
+ },
+ {
+   "A": "BOOKING FEE",
+   "B": "VGO-84"
+ },
+ {
+   "A": "WAIVER",
+   "B": "VGO-85"
+ },
+ {
+   "A": "STRIPPING",
+   "B": "VGO-86"
+ },
+ {
+   "A": "PERSONAL EFFECT FEE",
+   "B": "VGO-87"
+ },
+ {
+   "A": "CORRECTION FEE",
+   "B": "VGO-88"
+ },
+ {
+   "A": "CUSTOMS DOC ACCOMP ALCOHOL 1ST",
+   "B": "VGO-89"
+ },
+ {
+   "A": "COMMUNICATION FEE",
+   "B": "VGO-9"
+ },
+ {
+   "A": "HAZ SURCHARGE PSA 2",
+   "B": "VGO-90"
+ },
+ {
+   "A": "HAZ SURCHARGE PSA 3",
+   "B": "VGO-91"
+ },
+ {
+   "A": "IT FEE",
+   "B": "VGO-92"
+ },
+ {
+   "A": "BUNKER ADJUSTMENT FACTOR",
+   "B": "VGO-93"
+ },
+ {
+   "A": "VAT",
+   "B": "VGO-94"
+ },
+ {
+   "A": "HAND-OVER",
+   "B": "VGO-95"
+ },
+ {
+   "A": "INLAND",
+   "B": "VGO-96"
+ },
+ {
+   "A": "FUEL SURCHARGE",
+   "B": "VGO-97"
+ },
+ {
+   "A": "RRC SPAIN",
+   "B": "VGO-98"
+ },
+ {
+   "A": "TERMINAL HANDLING CHARGE 2",
+   "B": "VGO-99"
+ },
+ {
+   "A": "ADVANCE CHARGES",
+   "B": "VGO-ADCH"
+ },
+ {
+   "A": "AGENCY FEES",
+   "B": "VGO-AF"
+ },
+ {
+   "A": "AGENCY FEE II",
+   "B": "VGO-AFI"
+ },
+ {
+   "A": "BILL OF LADING FEE 2",
+   "B": "VGO-B"
+ },
+ {
+   "A": "CFS DOCUMENTATION - ORIGIN",
+   "B": "VGO-CD"
+ },
+ {
+   "A": "Customs I.T. Filing Fee",
+   "B": "VGO-CIFF"
+ },
+ {
+   "A": "COMPLIANCE",
+   "B": "VGO-COMC"
+ },
+ {
+   "A": "Congestion Surcharge",
+   "B": "VGO-CON"
+ },
+ {
+   "A": "CRATING",
+   "B": "VGO-CRA"
+ },
+ {
+   "A": "DESTINATION CHARGES",
+   "B": "VGO-DC"
+ },
+ {
+   "A": "DDC",
+   "B": "VGO-DDC"
+ },
+ {
+   "A": "DOCUMENT DECLARATION FEE - ORIGIN",
+   "B": "VGO-DDF"
+ },
+ {
+   "A": "DIGITAL RELEASE",
+   "B": "VGO-DIR"
+ },
+ {
+   "A": "Emission Control Area Surcharge",
+   "B": "VGO-ECAS"
+ },
+ {
+   "A": "EDI FEE - ORIGIN",
+   "B": "VGO-EF"
+ },
+ {
+   "A": "EQUIPMENT IMBALANCE SURCHARGE - ORIGIN",
+   "B": "VGO-EIS"
+ },
+ {
+   "A": "EQUIPMENT SURCHARGE",
+   "B": "VGO-EQUIP"
+ },
+ {
+   "A": "FACILITY ADMINISTRATION FEE",
+   "B": "VGO-FAA"
+ },
+ {
+   "A": "INTTRA ADMIN FEE",
+   "B": "VGO-IAF"
+ },
+ {
+   "A": "IMP HANDLING FEE",
+   "B": "VGO-IH"
+ },
+ {
+   "A": "INLAND POINT INTERMODAL",
+   "B": "VGO-IPI"
+ },
+ {
+   "A": "LOAD ON TRUCK",
+   "B": "VGO-LOC"
+ },
+ {
+   "A": "Low Sulfur Fuel Surcharge - Origin",
+   "B": "VGO-LSFS"
+ },
+ {
+   "A": "OVERWEIGHT SURCHARGE - ORIGIN",
+   "B": "VGO-OSO"
+ },
+ {
+   "A": "Pier Pass Fee/Traffic Mitigation Fee",
+   "B": "VGO-PPFT"
+ },
+ {
+   "A": "RRC SPAIN - LIABILITY FEE",
+   "B": "VGO-RSL"
+ },
+ {
+   "A": "Safety Of Life At Sea",
+   "B": "VGO-SOLS"
+ },
+ {
+   "A": "Special Equipment Surcharge",
+   "B": "VGO-SPEC"
+ },
+ {
+   "A": "STRIKE SURCHARGE",
+   "B": "VGO-STKE"
+ },
+ {
+   "A": "SPANISH WHARFAGE",
+   "B": "VGO-SWR"
+ },
+ {
+   "A": "THC",
+   "B": "VGO-THCO"
+ },
+ {
+   "A": "VGM Administration Fee",
+   "B": "VGO-VAF"
+ },
+ {
+   "A": "VGM",
+   "B": "VGO-VGM"
+ },
+ {
+   "A": "VGM Fee – Origin",
+   "B": "VGPF"
+ },
+ {
+   "A": "Volcanic Ash Surcharge",
+   "B": "VLCC"
+ },
+ {
+   "A": "Vessel Operating",
+   "B": "VOS"
+ },
+ {
+   "A": "VGM Processing Fee",
+   "B": "VPF"
+ },
+ {
+   "A": "Vessel Security Fee",
+   "B": "VSF"
+ },
+ {
+   "A": "Vessel Traffic Surcharge",
+   "B": "VTS"
+ },
+ {
+   "A": "Vincent Tug Service Surcharge",
+   "B": "VTSS"
+ },
+ {
+   "A": "VU Trans Fee",
+   "B": "VUTRANS"
+ },
+ {
+   "A": "Warehouse Handling Fee",
+   "B": "WAHF"
+ },
+ {
+   "A": "Waiver",
+   "B": "WAI"
+ },
+ {
+   "A": "Vehicle Waiting Time",
+   "B": "WAIT"
+ },
+ {
+   "A": "WFO Surcharge",
+   "B": "WFO"
+ },
+ {
+   "A": "Wharfage Admin Add-on",
+   "B": "WHAA"
+ },
+ {
+   "A": "Warehouse Charge",
+   "B": "WHC"
+ },
+ {
+   "A": "Weighing Charges, Destination",
+   "B": "WHD"
+ },
+ {
+   "A": "Wharfage",
+   "B": "WHFG"
+ },
+ {
+   "A": "W/HOUSE HAND FOR HARMLESS LOOSE CARGO",
+   "B": "WHFH"
+ },
+ {
+   "A": "Wharfage Admin Surcharge",
+   "B": "WHGC"
+ },
+ {
+   "A": "Wharfage Destination",
+   "B": "WHGD"
+ },
+ {
+   "A": "Wharfage Origin",
+   "B": "WHGO"
+ },
+ {
+   "A": "W/HOUSE HAND HAZ  LOOSE CARGO",
+   "B": "WHHL"
+ },
+ {
+   "A": "W/HOUSE HAND HARMLESS PACKED/FORKLIFTABL",
+   "B": "WHHPF"
+ },
+ {
+   "A": "Weighing Charges, Origin",
+   "B": "WHO"
+ },
+ {
+   "A": "Work Handling Surcharge",
+   "B": "WHS"
+ },
+ {
+   "A": "W/HOUSE HAND HAZ  PACKED/FORKLIFTABLE",
+   "B": "WHZPF"
+ },
+ {
+   "A": "Winter Surcharge",
+   "B": "WINT"
+ },
+ {
+   "A": "WIOR",
+   "B": "WIOR"
+ },
+ {
+   "A": "Work Interruption Surcharge",
+   "B": "WKIS"
+ },
+ {
+   "A": "Weight Mis-Declaration Penalty",
+   "B": "WMP"
+ },
+ {
+   "A": "Wood Pallet Inspection Charge",
+   "B": "WPIC"
+ },
+ {
+   "A": "War Risk Premium",
+   "B": "WRP"
+ },
+ {
+   "A": "War Risk Surcharge",
+   "B": "WRS"
+ },
+ {
+   "A": "Winter Fee",
+   "B": "WSC"
+ },
+ {
+   "A": "Winter Season Surcharge",
+   "B": "WSS"
+ },
+ {
+   "A": "Weight Verification Fee",
+   "B": "WVFE"
+ },
+ {
+   "A": "X-ray Charge",
+   "B": "XCHG"
+ },
+ {
+   "A": "X-RAY/SCREENING FEE",
+   "B": "XRAY"
+ },
+ {
+   "A": "X-Ray/Screening Fee - Destination",
+   "B": "XRSCD"
+ },
+ {
+   "A": "X-Ray/Screening Fee - Origin",
+   "B": "XRSCO"
+ },
+ {
+   "A": "Via Yard Fee",
+   "B": "YARD"
+ },
+ {
+   "A": "YEN Adjustment Surcharge",
+   "B": "YAS"
+ },
+ {
+   "A": "Yard Disruption Charge",
+   "B": "YDC"
+ },
+ {
+   "A": "Yangshing Port Surcharge",
+   "B": "YPS"
+ }
+]
